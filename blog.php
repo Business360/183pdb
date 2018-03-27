@@ -28,6 +28,11 @@
     <div class="blog blog-2 blog-3">
         <div class="container">
             <div class="row">
+            <h2 class="section-title">
+                <span class="bold700">
+                   Blog
+                </span>
+            </h2>
                 <div class="blog-container col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
