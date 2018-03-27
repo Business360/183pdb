@@ -38,3 +38,18 @@
 .feedback {
     padding: 70px 0 0;
 }
+/* Q Card */
+.qcard-img {
+    padding-bottom: 40px;
+    text-align: center;
+    margin: 0 auto;
+    display:block;
+}
+
+.qcard h6 {
+    line-height: 1.5rem;
+}
+
+.finance-options {
+    padding: 70px 0;
+}
