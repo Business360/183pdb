@@ -52,7 +52,7 @@
 						<div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 0800 4 MOUTH (0800 4 66884) </div>
 						<div class="footer-item-3-location"> 230 Stoddard Road, cnr of Stoddard road and Richardson road, Mt Roskill Auckland </div>
 						<div class="footer-item-3-mail"> <i class="fa fa-envelope"></i> <a href="#">info@avondaledental.co.nz</a> </div>
-						<div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a></div>
+						<div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google"></i></a></div>
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-copyright">
 						<div> Designed by <a href="http://www..com/" target="_blank">Blu Plateau Limited</a> </div>

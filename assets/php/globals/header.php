@@ -14,7 +14,7 @@
       
       <!-- TOP BAR RIGHT -->
       <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"></div>
+        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-googlex"></i></a> <a href="#"></div>
         <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@afd.co.nz</a> </div>
       </div>
     </div>
