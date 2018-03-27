@@ -45,7 +45,7 @@
                                 <div class="blog-item-text">
                                 <p>Uphold Your Shiny Smile That Can Make Magic A shiny smiling face can generate instant impact on people whom you meet. In this visual appeal, your fine-looking white teeth play an immense role. </p>
                                 </div>
-                                <div class="blog-item-button"><a href="#" class="btn btn-primary-1">READ MORE</a></div>
+                                <div class="blog-item-button"><a href="blog_details.php" class="btn btn-primary-1">READ MORE</a></div>
                             </div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <div class="blog-item-text">
                                     <p>Teeth whitening are one of the most popular dental clinic procedures as it lightens the teeth. It helps in removing all stain from teeth and also removes discoloration. However, this process needs to done from a good dental clinic</p>
                                 </div>
-                                <div class="blog-item-button"><a href="#" class="btn btn-primary-1">READ MORE</a></div>
+                                <div class="blog-item-button"><a href="blog_details.php" class="btn btn-primary-1">READ MORE</a></div>
                             </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                                 <div class="blog-item-text">
                                 <p>Stoddard Dental Square, a reputable dentistry in New Zealand, specializes in treating partial tooth dislodgement and in teeth whitening. When you lose a tooth, it can be pretty discomforting. Partial tooth Dislodgement</p>
                                 </div>
-                                <div class="blog-item-button"><a href="#" class="btn btn-primary-1">READ MORE</a></div>
+                                <div class="blog-item-button"><a href="blog_details.php" class="btn btn-primary-1">READ MORE</a></div>
                             </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                                 <div class="blog-item-text">
                                 <p>Are you planning to get tooth color fillings? Let us elaborate a bit on the matter. Earlier, teeth were filled with a blend of different metals. With the advancement in medical sciences, teeth fillings have taken a more natural look, and the fillings devoid of metals are becoming the most preferred.</p>
                                 </div>
-                                <div class="blog-item-button"><a href="#" class="btn btn-primary-1">READ MORE</a></div>
+                                <div class="blog-item-button"><a href="blog_details.php" class="btn btn-primary-1">READ MORE</a></div>
                             </div>
                             </div>
                         </div>
