@@ -18,7 +18,7 @@
                 <div class="row">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-home"><a href="index.php"><i class="fa fa-home"></i></a></li>
-                        <li class="active">Payment Options</li>
+                        <li class="active">Finance Options</li>
                     </ol>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
                 <div class="row">
                 <h2 class="section-title text-center">
                     <span class="bold700">
-                        Payment Options
+                        Finance Options
                     </span>
                 </h2>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
