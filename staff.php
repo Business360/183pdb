@@ -43,7 +43,7 @@
                         <div class="doctors-text-doctor-position">Owner</div>
                     </div>
                     <div class="doctors-text-right">
-                    <p>Being the owner and business manager of Stoddard Dental Square, Shivam works hard to ensure that the patients maximise their dental benefits and the claims are filed appropriately and in a timely manner. His warm, friendly and easily approachable attitude keeps his staff motivated to perform better.</p>
+                    <p>Being the owner and business manager of The Dental Hub, Shivam works hard to ensure that the patients maximise their dental benefits and the claims are filed appropriately and in a timely manner. His warm, friendly and easily approachable attitude keeps his staff motivated to perform better.</p>
                     <p>With more than 15 years of professional experience, he always strives to walk that extra mile to make each patient feel part of the family and ensures every patient derives complete satisfaction from the treatment.</p>
                     </div>
                 </div>
