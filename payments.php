@@ -36,55 +36,25 @@
             </h2>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="panel-group" id="accordion"> 
-                    <!-- FAQ ITEM -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> <i class="fa fa-heartbeat"></i> Surgical implant placements </a> </h4>
+                        <!-- FAQ ITEM -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                            <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> <i class="fa fa-credit-card"></i> Credit Cards &amp; Barter Card </a> </h4>
+                            </div>
+                            <div id="collapseOne" class="panel-collapse collapse in">
+                            <div class="panel-body">All major credit cards including American Express , Visa , MasterCard , Farmers and Diners Club accepted (3.2% credit card surcharge fee will apply). Should you be in possession of a credit card not listed above, please discuss this with the receptionist who will be happy to help you.</div>
+                            </div>
                         </div>
-                        <div id="collapseOne" class="panel-collapse collapse in">
-                        <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
+                        
+                        <!-- FAQ ITEM -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                            <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed"> <i class="fa fa-money"></i> EFTPOS/CASH </a> </h4>
+                            </div>
+                            <div id="collapseTwo" class="panel-collapse collapse">
+                            <div class="panel-body">And of course you are also welcome to settle your account using EFTPOS or cash.</div>
+                            </div>
                         </div>
-                    </div>
-                    
-                    <!-- FAQ ITEM -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed"> <i class="fa fa-medkit"></i> Teeth whitening </a> </h4>
-                        </div>
-                        <div id="collapseTwo" class="panel-collapse collapse">
-                        <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
-                        </div>
-                    </div>
-                    
-                    <!-- FAQ ITEM -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapsed"> <i class="fa fa-life-bouy"></i> Teeth cleaning </a> </h4>
-                        </div>
-                        <div id="collapseThree" class="panel-collapse collapse">
-                        <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
-                        </div>
-                    </div>
-                    
-                    <!-- FAQ ITEM -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapsed"> <i class="fa fa-flask"></i> X-rays </a> </h4>
-                        </div>
-                        <div id="collapseFour" class="panel-collapse collapse">
-                        <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
-                        </div>
-                    </div>
-                    
-                    <!-- FAQ ITEM -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                        <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" class="collapsed"> <i class="fa fa-ambulance"></i> Crowns </a> </h4>
-                        </div>
-                        <div id="collapseFive" class="panel-collapse collapse">
-                        <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
-                        </div>
-                    </div>
                     </div>
                 </div>
             </div>
