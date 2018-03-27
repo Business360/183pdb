@@ -8,4 +8,24 @@ include("assets/php/config.php");
 
 ?>
 
-<!-- Including "HEAD" files -->
+<!--
+    ===================
+        START: HEAD FILES   
+    ===================
+-->
+
+<!-- Start: Common Files -->
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800,800italic,700italic,600italic,400italic,300italic" />
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/theme.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/plugins/flaticons/flaticon.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/plugins/font-awesome/css/font-awesome.min.css" />
+<!-- End: Common Files -->
+
+
+<!--
+    ===================
+        START: HEAD FILES   
+    ===================
+--> 
