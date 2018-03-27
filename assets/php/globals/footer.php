@@ -49,9 +49,9 @@
 					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-2">
 						<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
 						<div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 09 620 7771 </div>
-						<div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 0800 4 MOUTH (0800 4 66884) </div>
-						<div class="footer-item-3-location"> 230 Stoddard Road, cnr of Stoddard road and Richardson road, Mt Roskill Auckland </div>
-						<div class="footer-item-3-mail"> <i class="fa fa-envelope"></i> <a href="#">info@avondaledental.co.nz</a> </div>
+						<div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684) </div>
+						<div class="footer-item-3-location"> 73A Rosebank Road, Behind Subway - Avondale , Auckland 1026 </div>
+						<div class="footer-item-3-mail"> <i class="fa fa-envelope"></i> <a href="#">info@thedentalhub.co.nz</a> </div>
 						<div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google"></i></a></div>
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-copyright">
