@@ -28,6 +28,11 @@
     <div class="gallery gallery-1">
         <div class="container">
             <div class="row">
+                <h2 class="section-title text-center">
+                    <span class="bold700">
+                    Gallery
+                    </span>
+                </h2>
             <div class="gallery-1-items">
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
