@@ -1,5 +1,9 @@
 /* Custom CSS */
 
+.section-title {
+    margin-bottom:80px;
+}
+
 .footer-item-3-socials a {
     background: none;
 }
@@ -86,3 +90,20 @@
     width: 67%;
     margin-left: 3%;
 }  
+/* Slider */
+.slider .container {
+    top: 100px;
+}
+
+/* Partners */
+.partners-item-image {
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+/* Testimonials */
+.review-item-text,
+.review-item-name,
+.review-item-position {
+    padding-left: 0px;
+}
