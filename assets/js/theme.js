@@ -526,12 +526,12 @@ jQuery(document).ready(function($){
 function initialize() {
 
 	/* ==== CENTER AND MARKER COORDINATES ====*/
-	var myLatlng = new google.maps.LatLng(27.92936524,-82.5084883);
+	var myLatlng = new google.maps.LatLng(-36.894388,174.696096);
 
 	/* ==== MAP OPTIONS ====*/
 	var mapOptions = {
 		center: myLatlng,
-		zoom: 17,
+		zoom: 18,
 		scrollwheel: false,
 		mapTypeId: google.maps.MapTypeId.ROADMAP
 	};
