@@ -27,3 +27,7 @@
 .blog-2.blog .blog-item-category {
     text-align: center;
 }
+
+.blog-2.blog .blog-item-title h3 a {
+    line-height: 2.5rem;
+}
