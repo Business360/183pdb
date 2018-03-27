@@ -56,3 +56,11 @@
 .gallery-1-items {
     margin-top: 70px !important;
 }
+/* Payment Options */
+.panel-group .panel-heading h4 a.collapsed {
+    border: 2px #00acdb solid;
+}
+
+#accordion > .panel.panel-default {
+    margin-bottom: 30px;
+}
