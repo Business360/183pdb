@@ -40,11 +40,10 @@
                             </div>
                             <div class="blog-item-desc">
                                 <div class="blog-item-title">
-                                <h3><a href="#">Oral exams</a></h3>
+                                <h3><a href="#">Uphold Your Shiny Smile That Can Make Magic</a></h3>
                                 </div>
                                 <div class="blog-item-text">
-                                <p>Tooth whitening (termed tooth bleaching when utilizing bleach), is either restoration of natural tooth shade or whitening beyond natural tooth shade, depending on the definition used.</p>
-                                <p>Restoration of the underlying, natural tooth shade is possible by simply removing surface (extrinsic) stains (e.g. from tea, coffee, red wine and tobacco) and calculus (tartar). This is achieved by having the teeth cleaned by a dental professional (commonly termed "scale and polish".</p>
+                                <p>Uphold Your Shiny Smile That Can Make Magic A shiny smiling face can generate instant impact on people whom you meet. In this visual appeal, your fine-looking white teeth play an immense role. </p>
                                 </div>
                                 <div class="blog-item-button"><a href="#" class="btn btn-primary-1">READ MORE</a></div>
                             </div>
@@ -61,11 +60,10 @@
                             </div>
                             <div class="blog-item-desc">
                                 <div class="blog-item-title">
-                                <h3><a href="#">Oral exams</a></h3>
+                                <h3><a href="#">A Beautiful Smile Can Make Miracles Happen!</a></h3>
                                 </div>
                                 <div class="blog-item-text">
-                                <p>Tooth whitening (termed tooth bleaching when utilizing bleach), is either restoration of natural tooth shade or whitening beyond natural tooth shade, depending on the definition used.</p>
-                                <p>Restoration of the underlying, natural tooth shade is possible by simply removing surface (extrinsic) stains (e.g. from tea, coffee, red wine and tobacco) and calculus (tartar). This is achieved by having the teeth cleaned by a dental professional (commonly termed "scale and polish".</p>
+                                    <p>Teeth whitening are one of the most popular dental clinic procedures as it lightens the teeth. It helps in removing all stain from teeth and also removes discoloration. However, this process needs to done from a good dental clinic</p>
                                 </div>
                                 <div class="blog-item-button"><a href="#" class="btn btn-primary-1">READ MORE</a></div>
                             </div>
@@ -84,11 +82,10 @@
                             </div>
                             <div class="blog-item-desc">
                                 <div class="blog-item-title">
-                                <h3><a href="#">Oral exams</a></h3>
+                                <h3><a href="#">Know About Tooth Dislodgement and Whitening</a></h3>
                                 </div>
                                 <div class="blog-item-text">
-                                <p>Tooth whitening (termed tooth bleaching when utilizing bleach), is either restoration of natural tooth shade or whitening beyond natural tooth shade, depending on the definition used.</p>
-                                <p>Restoration of the underlying, natural tooth shade is possible by simply removing surface (extrinsic) stains (e.g. from tea, coffee, red wine and tobacco) and calculus (tartar). This is achieved by having the teeth cleaned by a dental professional (commonly termed "scale and polish".</p>
+                                <p>Stoddard Dental Square, a reputable dentistry in New Zealand, specializes in treating partial tooth dislodgement and in teeth whitening. When you lose a tooth, it can be pretty discomforting. Partial tooth Dislodgement</p>
                                 </div>
                                 <div class="blog-item-button"><a href="#" class="btn btn-primary-1">READ MORE</a></div>
                             </div>
@@ -105,11 +102,10 @@
                             </div>
                             <div class="blog-item-desc">
                                 <div class="blog-item-title">
-                                <h3><a href="#">Oral exams</a></h3>
+                                <h3><a href="#">Restore Your Smile with the Right Solution</a></h3>
                                 </div>
                                 <div class="blog-item-text">
-                                <p>Tooth whitening (termed tooth bleaching when utilizing bleach), is either restoration of natural tooth shade or whitening beyond natural tooth shade, depending on the definition used.</p>
-                                <p>Restoration of the underlying, natural tooth shade is possible by simply removing surface (extrinsic) stains (e.g. from tea, coffee, red wine and tobacco) and calculus (tartar). This is achieved by having the teeth cleaned by a dental professional (commonly termed "scale and polish".</p>
+                                <p>Are you planning to get tooth color fillings? Let us elaborate a bit on the matter. Earlier, teeth were filled with a blend of different metals. With the advancement in medical sciences, teeth fillings have taken a more natural look, and the fillings devoid of metals are becoming the most preferred.</p>
                                 </div>
                                 <div class="blog-item-button"><a href="#" class="btn btn-primary-1">READ MORE</a></div>
                             </div>
