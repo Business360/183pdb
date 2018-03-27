@@ -14,7 +14,7 @@
       
       <!-- TOP BAR RIGHT -->
       <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-googlex"></i></a> <a href="#"></div>
+        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google"></i></a> <a href="#"></div>
         <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@thedentalhub.co.nz</a> </div>
       </div>
     </div>
@@ -161,7 +161,7 @@
 			<a href="services.php">Services</a>
           </li>
           <li class="dropdown">
-			<a href="doctors.php">Our Doctors</a>
+			<a href="staff.php">Our Staff</a>
           </li>
           <li class="dropdown">
 			<a href="blog.php">Blog</a>
