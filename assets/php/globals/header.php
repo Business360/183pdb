@@ -14,7 +14,7 @@
       
       <!-- TOP BAR RIGHT -->
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a> </div>
+        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"></div>
         <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">office@dental.com</a> </div>
       </div>
     </div>
@@ -58,7 +58,78 @@
 </div>
 <!-- =========================
      END HEADER
-============================== --> 
+============================== -->
+
+<!-- =========================
+    POPUP FORMS
+============================== -->
+<div class="bookform bookform-1" id="bookform1">
+  <div class="bookform-left">
+    <h2 class="section-title">
+      <span class="bold700">
+        BOOK APPOINTMENT
+      </span>
+    </h2>
+    <form class="bookform-form" action="js/sendmail-book.php" method="post">
+    
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item name">
+          <input type="text" name="name" id="name1" data-validation="required" placeholder="Your name" />
+          <div class="help help-sm help-red">!</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item phone">
+          <input type="text" name="phone" id="phone1" data-validation="required" placeholder="Phone" />
+          <div class="help help-sm help-red">!</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item email">
+          <input type="text" name="email" id="email1" placeholder="E-mail" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 booking-form-item date">
+          <input type="text" class="datepicker-f" id="datepicker1" name="date" data-validation="required" placeholder="Date" />
+          <div class="help help-sm help-red">!</div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 booking-form-item time-f">
+          <input type="text" class="timepicker-f" id="timepicker1" name="time" data-validation="required" placeholder="Time" />
+          <div class="help help-sm help-red">!</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item">
+          <textarea name="message" id="message1" placeholder="Your message.."></textarea>
+        </div>
+      </div>
+      <div class="row" style="display:none;">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item honeypot">
+          <label class="fl_label">Honeypot:</label>
+          <input type="text" name="last" value="" class="form-control fl_input">
+        </div>
+      </div>
+      <div class="row latest-row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item">
+          <button class="btn btn-primary">
+            SUBMIT
+          </button>
+          <a class="fb-close" id="fb-close1" href="javascript:jQuery.fancybox.close();">Cancel</a> </div>
+      </div>
+      <div class="form-messages form-messages-modal"></div>
+    </form>
+  </div>
+  <div class="bookform-right">
+    <div class="bookform-right-info-1">
+      <h5>Please select a doctor</h5>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
+    <div class="bookform-right-info-2"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
+  </div>
+</div>
+<!-- =========================
+    END POPUP FORMS
+============================== -->
 
 <!-- =========================
      MAIN MENU
@@ -83,49 +154,33 @@
           </div>
         </div>
         <ul class="nav navbar-nav">
-          <li><a href="index.html">HOME</a></li>
-          <li><a href="about.html">ABOUT US</a></li>
-          <li class="dropdown"> <a data-toggle="dropdown" href="#">SERVICES</a>
-            <ul class="dropdown-menu with-bg" role="menu">
-              <li><a href="services.html">Oral exams</a></li>
-              <li><a href="services.html">Teeth whitening</a></li>
-              <li><a href="services.html">Teeth cleaning</a></li>
-              <li><a href="services.html">X-rays</a></li>
-              <li><a href="services.html">Crowns</a></li>
-              <li><a href="services.html">Fillings and bridges</a></li>
-              <li><a href="services.html">Implants</a></li>
-              <li><a href="services.html">Extractions</a></li>
-              <li><a href="services.html">Root canals</a></li>
-              <li><a href="services.html">Surgical implant placements</a></li>
-            </ul>
+          <li>
+			<a href="index.html">Home</a>
+			</li>
+          <li>
+			<a href="about.html">About Us</a>
+			</li>
+          <li class="dropdown">
+			<a href="services.php">Services</a>
           </li>
-          <li class="dropdown"> <a data-toggle="dropdown" href="#">OUR DOCTORS</a>
-            <ul class="dropdown-menu" role="menu">
-              <li><a href="doctors.html">Our doctors</a></li>
-              <li><a href="doctor.html">Doctor</a></li>
-            </ul>
+          <li class="dropdown">
+			<a href="doctors.php">Our Doctors</a>
           </li>
-          <li class="dropdown"> <a data-toggle="dropdown" href="#">BLOG</a>
-            <ul class="dropdown-menu" role="menu">
-              <li><a href="blog1.html">Right sidebar</a></li>
-              <li><a href="blog2.html">Left sidebar</a></li>
-              <li><a href="blog3.html">No sidebar</a></li>
-              <li><a href="blog4.html">Column right sidebar</a></li>
-              <li><a href="blog_item.html">Post with sidebar</a></li>
-              <li><a href="blog_item2.html">Post no sidebar</a></li>
-            </ul>
+          <li class="dropdown">
+			<a href="blog.php">Blog</a>
           </li>
-          <li class="dropdown"> <a data-toggle="dropdown" href="#">PAGES</a>
-            <ul class="dropdown-menu" role="menu">
-              <li><a href="gallery1.html">Gallery 1</a></li>
-              <li><a href="gallery2.html">Gallery 2</a></li>
-              <li><a href="prices.html">Prices</a></li>
-              <li><a href="timetable.html">Timetable</a></li>
-              <li><a href="payment.html">Payments</a></li>
-              <li><a href="404.html">404 Page</a></li>
-            </ul>
+          <li class="dropdown">
+			<a href="gallery.php">Gallery</a>
           </li>
-          <li class="active"><a href="contacts.html">CONTACT US</a></li>
+          <li class="active">
+			<a href="contact.php">Contact Us</a>
+		  </li>
+          <li>
+			<a href="payments.php">Payment Options</a>
+		  </li>
+          <li>
+			<a href="qcard.php">12 Months Interest Free</a>
+		  </li>
         </ul>
       </div>
     </div>
