@@ -8,14 +8,14 @@
     <div class="row"> 
       
       <!-- TOP BAR LEFT -->
-      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-        <div class="top-bar-adress"> <i class="flaticon-navigation-arrow"></i> Henderson Blvd PO Box 356012, Tampa, FL 54452 </div>
+      <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+        <div class="top-bar-adress"> <i class="flaticon-navigation-arrow"></i> Address :230 Stoddard Road, cnr of Stoddard road and Richardson road, Mt Roskill Auckland </div>
       </div>
       
       <!-- TOP BAR RIGHT -->
-      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
         <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"></div>
-        <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">office@dental.com</a> </div>
+        <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@afd.co.nz</a> </div>
       </div>
     </div>
   </div>
@@ -33,25 +33,22 @@
     <div class="row"> 
       
       <!-- HEADER LOGO -->
-      <div class="col-lg-4 col-md-4 col-sm-5 col-xs-12">
+      <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
         <div class="header-logo"> <a href="#"><img src="assets/images/logo.svg" alt="" />
             <span class="bold600 color-child-6">
-              DENTAL
-            </span>
-            <span class="color-child-5">
-              CLINIC
-            </span>
+              Avondale
           </a> </div>
       </div>
       
       <!-- HEADER BUTTONS -->
-      <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+      <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
         <div class="header-button"> <a href="#bookform1" class="fancybox-2 btn btn-default">
             <span class="plus">
               +
             </span>
             MAKE AN APPOINTMENT</a> </div>
-        <div class="header-phone"> <i class="fa fa-phone"></i> 120 852-4632 </div>
+        <div class="header-phone"> <i class="fa fa-phone"></i> 09 620 7771 </div>
+        <div class="header-phone"> <i class="fa fa-phone"></i> 0800 4 MOUTH (0800 4 66884) </div>
       </div>
     </div>
   </div>
