@@ -1,0 +1,15 @@
+/* Custom CSS */
+
+.footer-item-3-socials a {
+    background: none;
+}
+
+.footer-item-3-location {
+    font-size: 15px;
+    color: #fff;
+    line-height: 2rem;
+}
+
+.footer-item-3-mail {
+    font-size: 15px;
+}

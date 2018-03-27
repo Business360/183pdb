@@ -25,6 +25,7 @@ include("assets/php/config.php");
 <link rel="stylesheet" type="text/css" href="assets/css/owl.transitions.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-datetimepicker.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/jquery.selectBox.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/plugins/flaticons/flaticon.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/plugins/font-awesome/css/font-awesome.min.css" />
 <!-- End: Common Files -->
