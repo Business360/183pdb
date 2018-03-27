@@ -28,6 +28,13 @@
     <div class="history">
         <div class="container">
             <div class="row">
+
+                <h2 class="section-title text-center">
+                    <span class="bold700">
+                    About - The Dental Hub
+                    </span>
+                </h2>
+
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 history-images">
                     <div class="image-carousel">
                         <div class="owl-image-carousel" id="owl-image-carousel">
