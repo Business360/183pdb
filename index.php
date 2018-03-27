@@ -13,12 +13,14 @@
     
     <!-- Start: Main Section -->
 
-    <!-- =========================
-     HEADER SLIDER
-============================== -->
+<!--
+	=============
+	HEADER SLIDER
+	==============
+-->
 <div id="slider" class="slider">
 	<div class="sp-slides"> 
-    
+	
 		<!-- HEADER SLIDER ITEM -->
 		<div class="sp-slide"> <img class="sp-image" src="assets/images/blank.gif" alt="" data-src="#" />
 			<div class="container">
@@ -46,9 +48,62 @@
 		</div>
 	</div>
 </div>
+<!--
+	=================
+	END HEADER SLIDER
+	=================
+-->
+
+<!--
+	=========
+	SERVICES
+	=========
+-->
+<div class="services" id="services"> 
+	
+	<!-- SERVICES ITEM -->
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-4">
+		<div class="service-icon"> <i class="flaticon-medical"></i> </div>
+		<div class="service-title">
+			<h2>Emergency Dentist</h2>
+		</div><br>
+		<h4> Call 09 218 7777</h4>
+		<h4> 0800 FIX TOOTH (0800 349 86684)</h4>
+	</div>
+	
+	<!-- SERVICES ITEM -->
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service" style="background-color:#095c83;">
+		<div class="service-icon"> <i class="flaticon-medical-1"></i> </div>
+		<div class="service-title">
+			<h2>Services</h2>
+		</div><br>
+		<h4>At Stoddard Dental Square, we offer amenities and</h4>
+		<h4>services not easily available in Auckland city</h4>
+	</div>
+  
+	<!-- SERVICES ITEM -->
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-2">
+		<div class="service-icon"> <i class="fa fa-clock-o"></i> </div>
+		<div class="service-title">
+			<h2>Business Hours</h2>
+		</div><br>
+		<h4>Monday - Saturday : 9:00 AM - 5:00 PM</h4>
+		<h4>Sunday: 10:00 AM - 3:00 PM</h4><br>
+	</div>
+	
+	<!-- SERVICES ITEM -->
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3">
+		<div class="service-icon"> <i class="fa fa-map-marker"></i> </div>
+		<div class="service-title">
+			<h2>Location</h2>
+		</div><br>
+		<h4>73A Rosebank Road, Behind Subway</h4>
+		<h4>Avondale , Auckland 1026</h4>
+	</div>
+</div>
 <!-- =========================
-     END HEADER SLIDER
-============================== --> 
+     END SERVICES
+============================== -->
 
     <!-- End: Main Section -->
 
