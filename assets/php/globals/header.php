@@ -152,10 +152,10 @@
         </div>
         <ul class="nav navbar-nav">
           <li>
-			<a href="index.html">Home</a>
+			<a href="index.php">Home</a>
 			</li>
           <li>
-			<a href="about.html">About Us</a>
+			<a href="about.php">About Us</a>
 			</li>
           <li class="dropdown">
 			<a href="services.php">Services</a>
