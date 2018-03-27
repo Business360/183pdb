@@ -22,3 +22,8 @@
 .breadcrumb li:before {
     top: 0px !important;
 }
+
+/* Blog */
+.blog-2.blog .blog-item-category {
+    text-align: center;
+}
