@@ -9,13 +9,13 @@
       
       <!-- TOP BAR LEFT -->
       <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-        <div class="top-bar-adress"> <i class="flaticon-navigation-arrow"></i> Address :230 Stoddard Road, cnr of Stoddard road and Richardson road, Mt Roskill Auckland </div>
+        <div class="top-bar-adress"> <i class="flaticon-navigation-arrow"></i> <b>Address:</b> 73A Rosebank Road, Behind Subway - Avondale , Auckland 1026 </div>
       </div>
       
       <!-- TOP BAR RIGHT -->
       <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
         <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-googlex"></i></a> <a href="#"></div>
-        <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@afd.co.nz</a> </div>
+        <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@thedentalhub.co.nz</a> </div>
       </div>
     </div>
   </div>
@@ -47,8 +47,8 @@
               +
             </span>
             MAKE AN APPOINTMENT</a> </div>
-        <div class="header-phone"> <i class="fa fa-phone"></i> 09 620 7771 </div>
-        <div class="header-phone"> <i class="fa fa-phone"></i> 0800 4 MOUTH (0800 4 66884) </div>
+        <div class="header-phone"> <i class="fa fa-phone"></i>  09 218 7777 </div>
+        <div class="header-phone"> <i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684) </div>
       </div>
     </div>
   </div>
