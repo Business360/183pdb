@@ -18,7 +18,7 @@
                 <div class="row">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-home"><a href="index.php"><i class="fa fa-home"></i></a></li>
-                        <li class="active">Payment Options</li>
+                        <li class="active">Finance Options</li>
                     </ol>
                     </div>
                 </div>
