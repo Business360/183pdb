@@ -161,7 +161,7 @@
 			<a href="services.php">Services</a>
           </li>
           <li class="dropdown">
-			<a href="doctors.php">Our Doctors</a>
+			<a href="staff.php">Our Staff</a>
           </li>
           <li class="dropdown">
 			<a href="blog.php">Blog</a>
