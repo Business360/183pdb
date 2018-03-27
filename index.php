@@ -214,6 +214,30 @@
 	END TESTIMONIALS
 	=================
 -->
+<!-- 
+	===============
+	Payment Methods
+	===============
+-->
+
+<div class="doctors">
+  <div class="container">
+    <div class="row">
+      <h2 class="section-title">We
+        <span class="bold700">
+          Accept
+        </span>
+	  </h2>
+    </div>
+  </div>
+  <img src="assets/images/payment_methods/hero.jpg" alt="">
+</div>
+
+<!-- 
+	===================
+	END Payment Methods
+	===================
+-->
 
     <!-- End: Main Section -->
 
