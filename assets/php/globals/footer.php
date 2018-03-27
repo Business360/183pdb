@@ -22,7 +22,7 @@
 <div class="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-matchheight">
+			<div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 footer-matchheight">
 				<div class="row"> 
 					
 					<!-- FOOTER ITEM 1 -->
@@ -47,21 +47,12 @@
 					
 					<!-- FOOTER ITEM 2 -->
 					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-2">
-						<h3 class="footer-title footer-title-line"><i class="fa fa-clock-o"></i> OPENING HOURS</h3>
-						<div class="opening-left"> Monday<br>
-							Tuesday<br>
-							Wednesday<br>
-							Thursday<br>
-							Friday<br>
-							Saturday<br>
-							Sunday </div>
-						<div class="opening-right"> Closed<br>
-							9:00 am - 7:15 pm<br>
-							9:00 am - 7:15 pm<br>
-							9:00 am - 7:15 pm<br>
-							9:00 am - 7:15 pm<br>
-							9:00 am - 7:15 pm<br>
-							Closed </div>
+						<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
+						<div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 09 620 7771 </div>
+						<div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 0800 4 MOUTH (0800 4 66884) </div>
+						<div class="footer-item-3-location"> 230 Stoddard Road, cnr of Stoddard road and Richardson road, Mt Roskill Auckland </div>
+						<div class="footer-item-3-mail"> <i class="fa fa-envelope"></i> <a href="#">info@avondaledental.co.nz</a> </div>
+						<div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a></div>
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-copyright">
 						<div> Designed by <a href="http://www..com/" target="_blank">Blu Plateau Limited</a> </div>
@@ -71,11 +62,6 @@
 			
 			<!-- FOOTER ITEM 3 -->
 			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer-item footer-item-3 footer-matchheight" id="footer-item-3">
-				<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
-				<div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 120 852-4632 </div>
-				<div class="footer-item-3-location"> <i class="flaticon-navigation-arrow"></i> Henderson Blvd PO Box 356012, Tampa, FL 54452 </div>
-				<div class="footer-item-3-mail"> <i class="fa fa-envelope"></i> <a href="#">office@dental.com</a> </div>
-				<div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a> </div>
 			</div>
 			
 			<!-- FOOTER ITEM 4 -->
