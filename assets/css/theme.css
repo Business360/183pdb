@@ -1590,7 +1590,6 @@ frame {
   position: absolute;
   right: 75px;
   bottom: 0;
-  width: 125px;
   height: 40px;
   color: #fff;
   font-size: 12px;
@@ -1670,7 +1669,6 @@ frame {
   float: left;
   left: 0;
   right: 0;
-  width: 110px;
 }
 .blog-2.blog .blog-item-comments {
   background: #2491d0;
