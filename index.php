@@ -101,9 +101,62 @@
 		<h4>Avondale , Auckland 1026</h4>
 	</div>
 </div>
-<!-- =========================
-     END SERVICES
-============================== -->
+<!-- 
+	============
+	END SERVICES
+	============
+-->
+
+<!-- 
+	=======
+	Partners
+	=======
+-->
+<div class="doctors">
+  <div class="container">
+    <div class="row">
+      <h2 class="section-title">Our
+        <span class="bold700">
+          Partners
+        </span>
+	  </h2>
+	  <div class="row">
+		  
+		<!-- Partners ITEM -->
+		<div class="col-md-4">
+			<h3>Philips Zoom Teeth</h3>
+			<h3>Whitening</h3>
+			<div class="partners-item-image"> 
+				<img src="assets/images/partners/philips.png" alt="" />
+			</div>
+			<p>Our whitening procedure has been perfected through years of experience to give you the whitest teeth in the safest possible way.</p>
+		</div>
+		  
+		<!-- Partners ITEM -->
+		<div class="col-md-4">
+			<h3>Fastbraces Master</h3>
+			<h3>Provider</h3>
+			<div class="partners-item-image"> 
+				<img src="assets/images/partners/fastbraces.png" alt="" />
+			</div>
+			<p>Dental Today is proud to be New Zealand’s premier dental office to offer the amazing Fastbraces Technology. Call or email us to discover how Dental Today and Fastbraces Technology can team up to give you a smile that you have always dreamed of.</p>
+		</div>
+		  
+		<!-- Partners ITEM -->
+		<div class="col-md-4">
+			<div class="partners-item-image"> 
+				<img src="assets/images/partners/qcard.png" alt="" />
+			</div>
+		</div>
+	  </div>
+    </div>
+  </div>
+</div>
+<!-- 
+	===========
+	END Partners
+	===========
+-->
 
     <!-- End: Main Section -->
 
