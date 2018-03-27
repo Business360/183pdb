@@ -22,3 +22,7 @@
 .breadcrumb li:before {
     top: 0px !important;
 }
+
+.gallery-1-items {
+    margin-top: 0px !important;
+}
