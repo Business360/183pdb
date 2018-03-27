@@ -42,7 +42,6 @@
                                 <div class="blog-item-title">
                                 <h3><a href="#">Oral exams</a></h3>
                                 </div>
-                                <div class="blog-item-author"><a href="#">by Dr. Kaeden Bernard</a></div>
                                 <div class="blog-item-text">
                                 <p>Tooth whitening (termed tooth bleaching when utilizing bleach), is either restoration of natural tooth shade or whitening beyond natural tooth shade, depending on the definition used.</p>
                                 <p>Restoration of the underlying, natural tooth shade is possible by simply removing surface (extrinsic) stains (e.g. from tea, coffee, red wine and tobacco) and calculus (tartar). This is achieved by having the teeth cleaned by a dental professional (commonly termed "scale and polish".</p>
@@ -64,7 +63,6 @@
                                 <div class="blog-item-title">
                                 <h3><a href="#">Oral exams</a></h3>
                                 </div>
-                                <div class="blog-item-author"><a href="#">by Dr. Kaeden Bernard</a></div>
                                 <div class="blog-item-text">
                                 <p>Tooth whitening (termed tooth bleaching when utilizing bleach), is either restoration of natural tooth shade or whitening beyond natural tooth shade, depending on the definition used.</p>
                                 <p>Restoration of the underlying, natural tooth shade is possible by simply removing surface (extrinsic) stains (e.g. from tea, coffee, red wine and tobacco) and calculus (tartar). This is achieved by having the teeth cleaned by a dental professional (commonly termed "scale and polish".</p>
@@ -88,7 +86,6 @@
                                 <div class="blog-item-title">
                                 <h3><a href="#">Oral exams</a></h3>
                                 </div>
-                                <div class="blog-item-author"><a href="#">by Dr. Kaeden Bernard</a></div>
                                 <div class="blog-item-text">
                                 <p>Tooth whitening (termed tooth bleaching when utilizing bleach), is either restoration of natural tooth shade or whitening beyond natural tooth shade, depending on the definition used.</p>
                                 <p>Restoration of the underlying, natural tooth shade is possible by simply removing surface (extrinsic) stains (e.g. from tea, coffee, red wine and tobacco) and calculus (tartar). This is achieved by having the teeth cleaned by a dental professional (commonly termed "scale and polish".</p>
@@ -110,7 +107,6 @@
                                 <div class="blog-item-title">
                                 <h3><a href="#">Oral exams</a></h3>
                                 </div>
-                                <div class="blog-item-author"><a href="#">by Dr. Kaeden Bernard</a></div>
                                 <div class="blog-item-text">
                                 <p>Tooth whitening (termed tooth bleaching when utilizing bleach), is either restoration of natural tooth shade or whitening beyond natural tooth shade, depending on the definition used.</p>
                                 <p>Restoration of the underlying, natural tooth shade is possible by simply removing surface (extrinsic) stains (e.g. from tea, coffee, red wine and tobacco) and calculus (tartar). This is achieved by having the teeth cleaned by a dental professional (commonly termed "scale and polish".</p>
