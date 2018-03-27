@@ -22,3 +22,8 @@
 .breadcrumb li:before {
     top: 0px !important;
 }
+
+/* Slider */
+.slider .container {
+    top: 100px;
+}
