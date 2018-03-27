@@ -37,3 +37,10 @@
     margin: 0 auto;
     padding: 10px 0;
 }
+
+/* Testimonials */
+.review-item-text,
+.review-item-name,
+.review-item-position {
+    padding-left: 0px;
+}
