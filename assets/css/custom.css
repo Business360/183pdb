@@ -13,3 +13,12 @@
 .footer-item-3-mail {
     font-size: 15px;
 }
+
+.breadcrumb > .active {
+    color: #fff;
+    font-size: 20px;
+}
+
+.breadcrumb li:before {
+    top: 0px !important;
+}
