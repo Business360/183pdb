@@ -22,3 +22,7 @@
 .breadcrumb li:before {
     top: 0px !important;
 }
+
+.get-item-text {
+    font-size: 14px;
+}
