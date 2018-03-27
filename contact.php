@@ -34,20 +34,19 @@
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 get-item">
 				<div class="get-item-icon"> <i class="fa fa-map-marker"></i> </div>
 				<h4 class="get-item-title">Location</h4>
-				<p class="get-item-text">Lorem ipsum dolor sit amet, consectetur<br>
-				adipisicing elit, sed do eiusmod aliqua. </p>
+				<p class="get-item-text">73A Rosebank Road, Behind Subway</p>
+				<p class="get-item-text">Avondale , Auckland 1026</p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 get-item">
 				<div class="get-item-icon"> <i class="fa fa-phone"></i> </div>
 				<h4 class="get-item-title">Phone</h4>
-				<p class="get-item-text">Henderson Blvd PO Box 356012</p>
-				<p class="get-item-text">Henderson Blvd PO Box 356012</p>
+				<p class="get-item-text">09 218 7777</p>
+				<p class="get-item-text">0800 FIX TOOTH (0800 349 86684)</p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 get-item">
 				<div class="get-item-icon"> <i class="fa fa-envelope"></i> </div>
 				<h4 class="get-item-title">Email</h4>
-				<p class="get-item-text">Lorem ipsum dolor sit amet - 10, 12, 24, 27,<br>
-				52, 54, 64. </p>
+				<p class="get-item-text">info@thedentalhub.co.nz
 			</div>
 			</div>
 		</div>
@@ -58,10 +57,9 @@
 			<div class="row">
 			<h2 class="section-title">
 				<span class="bold700">
-				CONTACT US
+				Send Us A Message
 				</span>
 			</h2>
-			<p class="section-subtitle">Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and advanced restorative dentistry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 			<form action="js/sendmail.php" method="post" autocomplete="off" id="contactForm">
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 				<div class="row">
@@ -73,18 +71,21 @@
 					<input type="text" name="phone" id="phone" data-validation="required" placeholder="Phone" />
 					<div class="help help-sm help-red">!</div>
 					</div>
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item email">
-					<input type="text" name="email" id="email" placeholder="E-mail" />
-					</div>
 				</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-				<div class="row">
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item">
-					<textarea name="message" id="message" data-validation="required" placeholder="Your message.."></textarea>
-					<div class="help help-sm help-red">!</div>
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item email">
+						<input type="text" name="email" id="email" placeholder="E-mail" />
+						</div>
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item email">
+						<input type="text" name="subject" id="subject" placeholder="Subject" />
+						</div>
 					</div>
 				</div>
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item">
+					<textarea name="message" id="message" data-validation="required" placeholder="Your message.."></textarea>
+					<div class="help help-sm help-red">!</div>
 				</div>
 				<div class="row" style="display:none;">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item honeypot">
