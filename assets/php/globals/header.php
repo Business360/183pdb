@@ -77,7 +77,7 @@
       </div>
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item phone">
-          <input type="text" name="phone" id="phone1" data-validation="required" placeholder="Phone" />
+          <input type="tel" name="phone" id="phone1" data-validation="required" placeholder="Phone" />
           <div class="help help-sm help-red">!</div>
         </div>
       </div>
@@ -119,7 +119,7 @@
   </div>
   <div class="bookform-right">
     <div class="bookform-right-info-1">
-      <h5>Please select a doctor</h5>
+      <h5>Patient Details</h5>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
     <div class="bookform-right-info-2"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
   </div>
