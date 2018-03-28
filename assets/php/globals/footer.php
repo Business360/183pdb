@@ -61,7 +61,7 @@
 			</div>
 			
 			<!-- FOOTER ITEM 3 -->
-			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer-item footer-item-3 footer-matchheight" id="footer-item-3">
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer-item footer-item-3 footer-matchheight" id="footer-item-3" <style="display:none">
 			</div>
 			
 			<!-- FOOTER ITEM 4 -->
