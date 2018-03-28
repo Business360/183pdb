@@ -60,7 +60,11 @@
 				Send Us A Message
 				</span>
 			</h2>
-			<form action="js/sendmail.php" method="post" autocomplete="off" id="contactForm">
+			<div class="message">
+				<div class="divide-xs"></div>
+				<div class="alert"></div>
+			</div>
+			<form action="assets/php/modules/contact/index.php" method="post" autocomplete="off" id="contactForm">
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item name">
@@ -76,10 +80,12 @@
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 					<div class="row">
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item email">
-						<input type="text" name="email" id="email" placeholder="E-mail" />
+						<input type="text" name="email" id="email" data-validation="required" placeholder="E-mail" />
+					<div class="help help-sm help-red">!</div>
 						</div>
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item email">
-						<input type="text" name="subject" id="subject" placeholder="Subject" />
+						<input type="text" name="subject" id="subject" data-validation="required" placeholder="Subject" />
+						<div class="help help-sm help-red">!</div>
 						</div>
 					</div>
 				</div>
@@ -99,10 +105,6 @@
 					SEND
 					</button>
 				</div>
-				</div>
-				<div class="message">
-				<div class="divide-xs"></div>
-				<div class="alert"></div>
 				</div>
 			</form>
 			</div>
