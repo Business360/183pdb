@@ -151,6 +151,9 @@
 .review-item-position {
     padding-left: 0px;
 }
+.gallery-1-items {
+    margin-top: 70px !important;
+}
 
 /* Responsive */
 @media (max-width: 768px) {
