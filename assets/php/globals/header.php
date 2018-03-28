@@ -8,12 +8,12 @@
     <div class="row"> 
       
       <!-- TOP BAR LEFT -->
-      <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+      <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
         <div class="top-bar-adress"> <i class="flaticon-navigation-arrow"></i> <b>Address:</b> 73A Rosebank Road, Behind Subway - Avondale , Auckland 1026 </div>
       </div>
       
       <!-- TOP BAR RIGHT -->
-      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
         <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google"></i></a> <a href="#"></div>
         <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@thedentalhub.co.nz</a> </div>
       </div>
@@ -34,10 +34,11 @@
       
       <!-- HEADER LOGO -->
       <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
-        <div class="header-logo"> <a href="#"><img src="assets/images/logo.svg" alt="" />
-            <span class="bold600 color-child-6">
-              Avondale
-          </a> </div>
+        <div class="header-logo">
+          <a href="#">
+            <img src="assets/images/logo.png" alt="" />
+          </a>
+        </div>
       </div>
       
       <!-- HEADER BUTTONS -->
@@ -137,17 +138,26 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="mobile-bar-cont">
-          <div class="top-menu-logo"> <a href="#"><img src="assets/images/logo.svg" alt="" />
-              <span class="bold600 color-child-6">
-                DENTAL
-              </span>
-              <span class="color-child-5">
-                CLINIC
-              </span>
-            </a> </div>
+          <div class="top-menu-logo">
+            <a href="#">
+              <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+			  	<img src="assets/images/logo.png" alt="" />
+			  </div>
+			</a>
+			<!-- HEADER BUTTONS -->
+			<div class="col-lg-10 col-md-10 col-sm-10 col-xs-hidden mobile-header-buttons">
+                <div class="header-button"> <a href="#bookform1" class="fancybox-2 btn btn-default">
+                    <span class="plus">
+                      +
+                    </span>
+                    MAKE AN APPOINTMENT</a> </div>
+                <div class="header-phone"> <i class="fa fa-phone"></i>  09 218 7777 </div>
+                <div class="header-phone"> <i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684) </div>
+              </div>
+		  	</div>
           <div class="mobile-bar">
             <div class="show-menu" id="show-menu"> <i class="fa fa-bars"></i> </div>
-            <div class="logo-for-mobile"> <a href="#" title="#"> <img src="assets/images/logo_m.png" alt=""> </a> </div>
+            <div class="logo-for-mobile"> <a href="#" title="#"> <img src="assets/images/logo.png" alt=""> </a> </div>
           </div>
         </div>
         <ul class="nav navbar-nav">
