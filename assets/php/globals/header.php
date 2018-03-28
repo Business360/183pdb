@@ -67,7 +67,7 @@
         BOOK APPOINTMENT
       </span>
     </h2>
-    <form class="bookform-form" action="js/sendmail-book.php" method="post">
+    <form class="bookform-form" action="assets/php/modules/appointments/index.php" method="post">
     
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item name">
