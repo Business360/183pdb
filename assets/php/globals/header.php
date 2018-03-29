@@ -5,18 +5,39 @@
 ============================== -->
 <div class="top-bar" id="top-bar">
   <div class="container">
-    <div class="row"> 
-      
-      <!-- TOP BAR LEFT -->
-      <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-        <div class="top-bar-adress"> <i class="flaticon-navigation-arrow"></i> <b>Address:</b> 73A Rosebank Road, Behind Subway - Avondale , Auckland 1026 </div>
-      </div>
-      
-      <!-- TOP BAR RIGHT -->
-      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google"></i></a> <a href="#"></div>
-        <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@thedentalhub.co.nz</a> </div>
-      </div>
+    <div class="row">
+		<div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 col-lg-offset-5 col-md-offset-5 col-sm-offset-5">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-left: 105px;">
+				<div class="top-bar-adress">
+					<i class="flaticon-navigation-arrow"></i> <b>Address:</b> <a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">73A Rosebank Road, Behind Subway - Avondale , Auckland 1026</a>
+				</div>
+				<div class="top-bar-mail">
+					<a href="#">
+						<i class="fa fa-phone"></i>
+					</a>
+					<a href="tel:0800 349 86684">0800 FIX TOOTH (0800 349 86684)</a> | 
+					<a href="#">
+						<i class="fa fa-phone"></i>
+					</a>
+					<a href="tel:092187777">09 218 7777</a>
+				</div>
+				<div class="top-bar-social">
+					<a href="#">
+						<i class="fa fa-envelope"></i>
+					</a>
+					<a href="#">info@thedentalhub.co.nz</a>
+					<a href="#">
+						<i class="fa fa-facebook"></i>
+					</a>
+					<a href="#">
+						<i class="fa fa-google"></i>
+					</a>
+				</div>
+				<a href="#bookform1" class="fancybox-2 btn btn-default" id="header-make-an-appointment-spacing">
+					<span class="plus">+</span> MAKE AN APPOINTMENT
+				</a>
+			</div>
+		</div>
     </div>
   </div>
 </div>
@@ -40,18 +61,6 @@
           </a>
         </div>
       </div>
-      
-      <!-- HEADER BUTTONS -->
-      <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
-        <div class="header-button"> <a href="#bookform1" class="fancybox-2 btn btn-default">
-            <span class="plus">
-              +
-            </span>
-            MAKE AN APPOINTMENT</a> </div>
-        <div class="header-phone"> <i class="fa fa-phone"></i>  09 218 7777 </div>
-        <div class="header-phone"> <i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684) </div>
-      </div>
-    </div>
   </div>
 </div>
 <!-- =========================
