@@ -50,18 +50,19 @@
      HEADER
 ============================== -->
 <div class="header" id="header">
-  <div class="container">
-    <div class="row"> 
-      
-      <!-- HEADER LOGO -->
-      <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
-        <div class="header-logo">
-          <a href="#">
-            <img src="assets/images/logo.png" alt="" />
-          </a>
-        </div>
-      </div>
-  </div>
+	<div class="container">
+		<div class="row"> 
+
+		<!-- HEADER LOGO -->
+			<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+				<div class="header-logo">
+					<a href="#">
+						<img src="assets/images/logo.png" alt="" />
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 <!-- =========================
      END HEADER
