@@ -25,8 +25,6 @@
 		</div>
 	</div>
 
-	<div class="map" id="map"> </div>
-
 	<div class="get">
 		<div class="container">
 			<div class="row">
@@ -34,8 +32,7 @@
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 get-item">
 				<div class="get-item-icon"> <i class="fa fa-map-marker"></i> </div>
 				<h4 class="get-item-title">Location</h4>
-				<p class="get-item-text">73A Rosebank Road, Behind Subway</p>
-				<p class="get-item-text">Avondale , Auckland 1026</p>
+				<p class="get-item-text"><a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">73A Rosebank Road, Behind Subway - Avondale , Auckland 1026</a></p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 get-item">
 				<div class="get-item-icon"> <i class="fa fa-phone"></i> </div>
@@ -51,6 +48,8 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="map" id="map"> </div>
 
 	<div class="feedback">
 		<div class="container">
