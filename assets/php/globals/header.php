@@ -33,7 +33,7 @@
 						<i class="fa fa-google"></i>
 					</a>
 				</div>
-				<a href="#bookform1" class="fancybox-2 btn btn-default" id="header-make-an-appointment-spacing">
+				<a href="appointments.php" class="fancybox-2 btn btn-default" id="header-make-an-appointment-spacing">
 					<span class="plus">+</span> MAKE AN APPOINTMENT
 				</a>
 			</div>
