@@ -91,6 +91,16 @@
     top: 0px !important;
 }
 
+ul.footer-nav {
+    padding-left: 0px;
+    list-style: none;
+    font-size: 15px;
+}
+
+.footer-nav li {
+    margin-bottom: 14px;
+}
+
 
 /* Responsive */
 @media (max-width: 768px) {
