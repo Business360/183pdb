@@ -206,7 +206,7 @@
 	===============
 -->
 
-<div class="doctors">
+<div class="payment-options">
   <div class="container">
     <div class="row">
       <h2 class="section-title">We
