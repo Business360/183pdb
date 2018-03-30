@@ -27,22 +27,16 @@
 					
 					<!-- FOOTER ITEM 1 -->
 					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-1">
-						<h3 class="footer-title footer-title-line"><i class="fa fa-user"></i> TESTIMONIALS</h3>
-						<div class="tweet">
-							<div class="tweet-login"> <a href="#">@DentalClinic</a> </div>
-							<div class="tweet-text"> Lorem ipsum dolro lobortis quobortisnissim pulvinar ac Lorem. </div>
-							<div class="tweet-date"> 03.10.2016 </div>
-						</div>
-						<div class="tweet">
-							<div class="tweet-login"> <a href="#">@DentalClinic</a> </div>
-							<div class="tweet-text"> Lorem ipsum dolro lobortis quobortisnissim pulvinar ac Lorem. </div>
-							<div class="tweet-date"> 03.10.2016 </div>
-						</div>
-						<div class="tweet">
-							<div class="tweet-login"> <a href="#">@DentalClinic</a> </div>
-							<div class="tweet-text"> Lorem ipsum dolro lobortis quobortisnissim pulvinar ac Lorem. </div>
-							<div class="tweet-date"> 03.10.2016 </div>
-						</div>
+						<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
+						<ul class="footer-nav">
+							<li><a href="index.php">Home</a></li>
+							<li><a href="services.php">Services</a></li>
+							<li><a href="about.php">About Us</a></li>
+							<li><a href="staff.php">Our Staff</a></li>
+							<li><a href="blog.php">Blog</a></li>
+							<li><a href="gallery.php">Gallery</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
+						</ul>
 					</div>
 					
 					<!-- FOOTER ITEM 2 -->
