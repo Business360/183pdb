@@ -18,7 +18,7 @@
 			<div class="row">
 				<ol class="breadcrumb">
 					<li class="breadcrumb-home"><a href="index.php"><i class="fa fa-home"></i></a></li>
-					<li class="active">Contact us</li>
+					<li class="active">Appointments</li>
 				</ol>
 				</div>
 			</div>
@@ -33,6 +33,7 @@
 				Make an Appointment
 				</span>
 			</h2>
+			<p>Please note that this is not an actual appointment, but only a request for one. We will contact you for a confirmation shortly after. Thank you!</p>
 			<div class="message">
 				<div class="divide-xs"></div>
 				<div class="alert"></div>
