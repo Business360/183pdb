@@ -5,9 +5,9 @@
 }
 .header-logo img {
     width: auto;
-    height: 230px;
-    top: -87px;
-    left: -60px;
+    height: 370px;
+    top: -246px;
+    left: -100px;
 }
 
 .top-bar {
@@ -31,6 +31,29 @@
     margin-right: 7px;
     top: -29px;
     margin-bottom: -80px;
+}
+
+.top-bar-adress {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    float: right;
+    font-size: 17px;
+}
+
+.top-bar-mail {
+    font-size: 17px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.top-bar-social {
+    font-size: 17px;
+    margin-right: 10px;
+}
+
+#header-make-an-appointment-spacing {
+    margin-bottom: -160px;
+    margin-left: -130px;
 }
 
 .logo-for-mobile a img {
@@ -153,6 +176,35 @@
 }
 .gallery-1-items {
     margin-top: 70px !important;
+}
+ul.footer-nav {
+    padding-left: 0px;
+    list-style: none;
+    font-size: 15px;
+}
+
+.footer-nav li {
+    margin-bottom: 14px;
+}
+
+.footer-item-3-phone {
+    font-size: 16px;
+}
+
+.booking-practices {
+    line-height: 3rem;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.booking-practices input[type="checkbox"]:nth-child(2) {
+    margin-left: 0px;
+}
+
+.booking-practices input[type="checkbox"] {
+    margin-left: 10px;
+    margin-right: 5px;
 }
 
 /* Responsive */
