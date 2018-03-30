@@ -73,19 +73,6 @@
                     <p>She did her BDS from Gujarat University (India), and practiced as a general dentist for 2 years before migrating to New Zealand. She holds memberships with New Zealand Dental Association and Auckland Dental Association and acts as an active participant in seminars and conferences to enhance and upgrade her skills.</p>
                     </div>
                 </div>
-
-                <!-- Staff 04 -->
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 single-staff-panel">
-                    <div class="doctors-text-left">
-                    <p>Soha has completed her graduation from Auckland University of Technology, New Zealand and possesses a degree in Bachelor of Health Science Majoring in Oral Health. She seeks to extend comfort and pain-free dentistry services by her treatment.</p>
-                    <p>Soha is a member of the New Zealand Dental Hygiene Association and actively looks forward to participate in seminars and conference as part of continuing education in order to upgrade her skills.</p>
-                    </div>
-                    <div class="doctors-text-doctor">
-                        <img src="assets/images/staff/soha.jpg" alt="" />
-                        <div class="doctors-text-doctor-name">Dr. Soha Hammad</div>
-                        <div class="doctors-text-doctor-position">Dental Therapist/Hygienist</div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
