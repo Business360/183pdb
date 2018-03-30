@@ -144,9 +144,9 @@
 ============================== -->
 <div id="smartposition"></div>
 <div class="top-menu" id="top-menu">
-  <div class="container">
+  <div class="full-container">
     <div class="row">
-      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12 col-lg-offset-2 col-md-offset-2 col-sm-offset-2">
         <div class="mobile-bar-cont">
           <div class="top-menu-logo">
             <a href="#">
@@ -156,7 +156,7 @@
 			</a>
 			<!-- HEADER BUTTONS -->
 			<div class="col-lg-10 col-md-10 col-sm-10 col-xs-hidden mobile-header-buttons">
-                <div class="header-button"> <a href="#bookform1" class="fancybox-2 btn btn-default">
+                <div class="header-button"> <a href="appointments.php" class="fancybox-2 btn btn-default">
                     <span class="plus">
                       +
                     </span>
@@ -189,8 +189,11 @@
           <li class="dropdown">
 			<a href="gallery.php">Gallery</a>
           </li>
-          <li class="active">
+          <li>
 			<a href="contact.php">Contact Us</a>
+		  </li>
+          <li>
+			<a href="appointments.php">Make an Appointment</a>
 		  </li>
           <li>
 			<a href="payments.php">Payment Options</a>
