@@ -1,5 +1,73 @@
 /* Custom CSS */
 
+.header-logo img {
+    width: auto;
+    height: 370px;
+    top: -246px;
+    left: -100px;
+}
+
+.top-bar {
+    font-size: 14px;
+}
+
+.top-menu-logo {
+    height: 80px;
+    font-size: 24px;
+    float: left;
+    position: relative;
+    top: -2px;
+    margin-right: 20px;
+    display: none;
+}
+
+.top-menu-logo img {
+    position: relative;
+    width: auto;
+    height: 160px;
+    margin-right: 7px;
+    top: -29px;
+    margin-bottom: -80px;
+}
+
+.top-bar-adress {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    float: right;
+    font-size: 17px;
+}
+
+.top-bar-mail {
+    font-size: 17px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.top-bar-social {
+    font-size: 17px;
+    margin-right: 10px;
+}
+
+#header-make-an-appointment-spacing {
+    margin-bottom: -160px;
+    margin-left: -130px;
+}
+
+.logo-for-mobile a img {
+    max-width: none;
+    max-height: none;
+    width: auto;
+    height: 160px !important;
+}
+
+.show-menu {
+    margin: 60px 5px;
+}
+
+.mobile-header-buttons {
+    margin-top: 20px;
+}
+
 .footer-item-3-socials a {
     background: none;
 }
@@ -45,3 +113,26 @@
     width: 67%;
     margin-left: 3%;
 }  
+ul.footer-nav {
+    padding-left: 0px;
+    list-style: none;
+    font-size: 15px;
+}
+
+.footer-nav li {
+    margin-bottom: 14px;
+}
+
+.footer-item-3-phone {
+    font-size: 16px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .header-logo img {
+        height: 220px !important;
+        left: 0px !important;
+        margin-bottom: -120px !important;
+        margin-top: 40px;
+    }
+}

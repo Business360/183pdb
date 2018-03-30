@@ -1,9 +1,16 @@
 <?php
+
+/*
+	=======================
+	START:	GLOBAL VARIABLES
+	=======================
+*/
+
 // Who you want to receive the emails from the form.
-$sendto = 'name@example.com';
+$sendto = 'info@thedentalhub.co.nz';
 
 // The subject you'll see in your inbox
-$subject = 'A message from my website';
+$subject = 'A new appointment from my website';
 
 // Message for the user when he/she doesn't fill in the form correctly.
 $errormessage = 'Looks like you are missing some info. Try again.';
@@ -17,8 +24,8 @@ $honeypot = "You filled in the honeypot! If you're human, try again!";
 // Various messages displayed when the fields are empty.
 $emptyname =  'Entering your name?';
 $emptyphone = 'Entering your phone number?';
-$emptydate = 'Entering date?';
-$emptytime = 'Entering time?';
+$emptydate = 'Appointment date?';
+$emptytime = 'Appointment time?';
 
 // Various messages displayed when the fields are incorrectly formatted.
 $alertname =  'Entering your name using only the standard alphabet?';
@@ -28,17 +35,6 @@ $alerttime = '';
 
 $alert = '';
 $pass = 0;
-
-function clean_var($variable) {
-	$variable = strip_tags(stripslashes(trim(rtrim($variable))));
-  return $variable;
-}
-
-// Doctor message
-$message_doctor = '';
-if ( !empty($_REQUEST['form-doctor']) ) {
-	$message_doctor = "Doctor :" .clean_var($_REQUEST['form-doctor']) . "\n";
-};
 
 //form alert messages structure 
 $ma_top = '
@@ -74,6 +70,35 @@ $required_fields = array(
 		),
 );
 
+/*
+	======================
+	END:	GLOBAL VARIABLES
+	======================
+*/
+
+/*
+	=================
+	START:	FUNCTIONS
+	=================
+*/
+
+function clean_var($variable) {
+	$variable = strip_tags(stripslashes(trim(rtrim($variable))));
+  return $variable;
+}
+
+/*
+	================
+	END:	FUNCTIONS
+	================
+*/
+
+/*
+	==================
+	START:	CONDITIONS
+	==================
+*/
+
 if ( empty($_REQUEST['last']) ) {
 	
 	foreach($required_fields as $rf){
@@ -101,7 +126,6 @@ if ( empty($_REQUEST['last']) ) {
 	$message .= "Email: " . clean_var($_REQUEST['email']) . "\n";
 	$message .= "Date: " .clean_var($_REQUEST['date']) . "\n"; 
 	$message .= "Time: " .clean_var($_REQUEST['time']) . "\n";
-	$message .= $message_doctor;
 	$message .= "Message: \n" . clean_var($_REQUEST['message']);
 	$header = 'From:'. clean_var($_REQUEST['email']);
 
@@ -125,4 +149,11 @@ if ( empty($_REQUEST['last']) ) {
 		</div>
 	';
 }
+
+/*
+	=================
+	END:	CONDITIONS
+	=================
+*/
+
 ?>
