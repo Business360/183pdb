@@ -176,29 +176,15 @@
           
           <!-- REVIEW ITEM -->
           <div class="review-item">
-            <div class="review-item-text">This was my first dental treatment in many years and Dr. Callahan made me feel relaxed and calm. It was completely painless and issue free. I thoroughly recommend both Dr. Callahan and Dental clinic. Excellent caring staff! </div>
-            <div class="review-item-name">Caetlin Madyson</div>
+            <div class="review-item-text">Now I’ve got my tooth back, I can eat anything I like again.  I would recommend The Dental Hub Implant Centre to anyone with a missing or failing tooth – they’re amazing....</div>
+            <div class="review-item-name">Prasad</div>
             <div class="review-item-quote"><img src="assets/images/quote.png" alt="" /></div>
           </div>
           
           <!-- REVIEW ITEM -->
           <div class="review-item">
-            <div class="review-item-text">Excellent service and great care was given at The Dental Hub to me when I visited their clinic for root canal treatment. I was very impressed by the personal touch and professional behavior. Thanks a lot to Shivam and his team. I will recommend them to everyone.</div>
-            <div class="review-item-name">Jessica</div>
-            <div class="review-item-quote"><img src="assets/images/quote.png" alt="" /></div>
-          </div>
-          
-          <!-- REVIEW ITEM -->
-          <div class="review-item">
-            <div class="review-item-text">I have been to The Dental Hub with a bad toothache. As per Dr. Mauly's advice, I underwent, Root Canal Treatment. The best part has been the way the Dr Mauly have identified the cause and guided me accordingly. She was so nice and considerate that I am very much impressed by the treatment I received. Big thanks for all her help.</div>
-            <div class="review-item-name">Megan Jade</div>
-            <div class="review-item-quote"><img src="assets/images/quote.png" alt="" /></div>
-          </div>
-          
-          <!-- REVIEW ITEM -->
-          <div class="review-item">
-            <div class="review-item-text">The Dental Hub staff is very friendly and helpful especially Dr. Nikita, she did her best to educate me about the treatment I will be receiving. She was very professional takes good care of her patients. One thing that appeals me about The Dental Hub is they maintain high level of standards for hygiene in their clinic.</div>
-            <div class="review-item-name">Connor</div>
+            <div class="review-item-text">“I previously had a very bad dental experience 10 years ago to point where I was making my own temporaries... Now, I looked all over the world except USA as it was too expensive.</div>
+            <div class="review-item-name">Srinivasa</div>
             <div class="review-item-quote"><img src="assets/images/quote.png" alt="" /></div>
           </div>
         </div>
