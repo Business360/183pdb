@@ -33,7 +33,10 @@
                     Gallery
                     </span>
                 </h2>
-            <div class="gallery-1-items">
+
+                <h3 class="text-center">Coming Soon...</h3>
+                
+            <!-- <div class="gallery-1-items">
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
                 </div>
@@ -52,7 +55,7 @@
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
                 </div>
-            </div>
+            </div> -->
             </div>
         </div>
     </div>
