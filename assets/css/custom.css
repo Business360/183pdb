@@ -3,15 +3,21 @@
 .section-title {
     margin-bottom:80px;
 }
+
+.header {
+    padding: 12px 0px;
+}
+
 .header-logo img {
     width: auto;
     height: 370px;
-    top: -246px;
-    left: -100px;
+    top: -105px;
+    left: -130px;
 }
 
 .top-bar {
     font-size: 14px;
+    top: -45px;
 }
 
 .top-menu-logo {
@@ -64,7 +70,10 @@
 }
 
 .show-menu {
-    margin: 60px 5px;
+    border: none;
+    box-shadow: none;
+    margin: 30px 5px 0px;
+    background: transparent;
 }
 
 .mobile-header-buttons {
@@ -224,10 +233,26 @@ ul.footer-nav {
 
 /* Responsive */
 @media (max-width: 768px) {
+    .top-bar {
+        top: 0px;
+    }
+
     .header-logo img {
-        height: 220px !important;
-        left: 0px !important;
-        margin-bottom: -120px !important;
+        height: 200px !important;
+        top: -266px;
+        left: -20px !important;
+        margin-bottom: -420px !important;
         margin-top: 40px;
+    }
+
+    #header-make-an-appointment-spacing {
+        margin-bottom: 0px;
+        margin-left: 25vw;
+    }
+
+    .top-bar-adress {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 30px;
     }
 }
