@@ -11,7 +11,7 @@
 				<h2>MAKE AN APPOINTMENT</h2>
 				<p>All staff members of Dental Clinic are licensed professionals. Our staff consists of licensed general dentists.</p>
 			</div>
-			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 make-button"> <a href="#bookform1" class="fancybox-2 btn btn-default">
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 make-button"> <a href="appointments.php" class="fancybox-2 btn btn-default">
 				<span class="plus">+</span>
 				MAKE AN APPOINTMENT</a> </div>
 		</div>
