@@ -49,7 +49,7 @@
 						<div class="footer-item-3-socials"><a href="http://www.facebook.com/thedentalhubavondale"><i class="fa fa-facebook"></i></a> <a href="https://goo.gl/maps/VsSM4uHKyGS2"><i class="fa fa-google"></i></a></div>
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-copyright">
-						<div> Designed by <a href="http://www..com/" target="_blank">Blu Plateau Limited</a> </div>
+						<div> Designed by <a href="http://www.bluplateau.co.nz/" target="_blank">Blu Plateau Limited</a> </div>
 					</div>
 				</div>
 			</div>
