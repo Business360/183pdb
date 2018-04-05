@@ -40,7 +40,7 @@
 				<h2 class="sp-layer slider-subtitle" 
 									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
 									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>FREE TREATMENT UNDER 18</b> </h2> <br><br><br>
+									data-show-delay="400" data-hide-delay="400"> <b>FREE TREATMENT UNDER 18</b> </h2><br>
 				<h1 class="sp-layer slider-title" 
 									data-position="leftCenter" data-horizontal="15" data-vertical="0" 
 									data-show-transition="left" data-hide-transition="left"
@@ -66,7 +66,7 @@
 				<h2 class="sp-layer slider-subtitle" 
 									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
 									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>FREE TREATMENT UNDER 18</b> </h2> <br><br><br>
+									data-show-delay="400" data-hide-delay="400"> <b>FREE TREATMENT UNDER 18</b> </h2><br>
 				<h1 class="sp-layer slider-title" 
 									data-position="leftCenter" data-horizontal="15" data-vertical="0" 
 									data-show-transition="left" data-hide-transition="left"
