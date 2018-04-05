@@ -159,7 +159,7 @@ h4 {
   font-size: 15px;
 }
 .section-title {
-  color: #2491d0;
+  color: #235e6e;
   margin-bottom: 35px;
   text-transform: uppercase;
 }
@@ -174,7 +174,7 @@ h4 {
   font-weight: 700;
 }
 .color-primary-1 {
-  color: #2491d0;
+  color: #235e6e;
 }
 .color-primary-2 {
   color: #235f6f;
@@ -248,7 +248,7 @@ ul.text-list li:before {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #2491d0;
+  background: #235e6e;
 }
 input,
 textarea {
@@ -384,7 +384,7 @@ frame {
 }
 .carousel-btn:hover,
 .carousel-btn:focus {
-  background: #2491d0;
+  background: #235e6e;
 }
 .carousel-next {
   right: -35px;
@@ -824,7 +824,7 @@ frame {
   padding: 70px 0;
 }
 .services-1-title {
-  color: #2491d0;
+  color: #235e6e;
   text-transform: uppercase;
   font-size: 24px;
   margin-bottom: 60px;
@@ -837,14 +837,14 @@ frame {
   color: #455f68;
 }
 .services-1 .service h3 {
-  color: #2491d0;
+  color: #235e6e;
   text-transform: uppercase;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 25px;
 }
 .services-1 .service-icon {
-  color: #2491d0;
+  color: #235e6e;
   font-size: 70px;
   line-height: 70px;
   margin-bottom: 35px;
@@ -917,7 +917,7 @@ frame {
   transition: all 300ms;
 }
 .doctors-item-name {
-  color: #2491d0;
+  color: #235e6e;
   font-size: 15px;
   font-weight: 600;
   margin: 20px 0 2px 0;
@@ -938,7 +938,7 @@ frame {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #2491d0;
+  background: #235e6e;
   color: #fff;
   font-size: 17px;
   line-height: 29px;
@@ -1074,7 +1074,7 @@ frame {
 }
 .doctor-info-name {
   text-align: center;
-  color: #2491d0;
+  color: #235e6e;
   font-size: 18px;
   font-weight: 600;
 }
@@ -1093,7 +1093,7 @@ frame {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #2491d0;
+  background: #235e6e;
   color: #fff;
   font-size: 17px;
   line-height: 29px;
@@ -1166,7 +1166,7 @@ frame {
   font-weight: 600;
   margin-bottom: 25px;
   text-transform: uppercase;
-  color: #2491d0;
+  color: #235e6e;
 }
 .doctor-text-booking {
   background: #f1f8f9;
@@ -1199,7 +1199,7 @@ frame {
   font-size: 12px;
 }
 .view:hover {
-  background: #2491d0;
+  background: #235e6e;
 }
 .view .t-tooltip-text-body {
   padding: 0;
@@ -1509,14 +1509,14 @@ frame {
   bottom: 40px;
 }
 .review-item:hover {
-  border: 2px solid #2491d0;
+  border: 2px solid #235e6e;
 }
 @-moz-document url-prefix() {
   .review-item {
     border-bottom: 3px solid #fff;
   }
   .review-item:hover {
-    border-bottom: 3px solid #2491d0;
+    border-bottom: 3px solid #235e6e;
   }
 }
 .owl-review2 .review-item {
@@ -1586,7 +1586,7 @@ frame {
   transition: all 300ms;
 }
 .blog-item-date {
-  background: #2491d0;
+  background: #235e6e;
   position: absolute;
   right: 75px;
   bottom: 0;
@@ -1673,7 +1673,7 @@ frame {
   width: 110px;
 }
 .blog-2.blog .blog-item-comments {
-  background: #2491d0;
+  background: #235e6e;
   position: relative;
   float: left;
   width: 65px;
@@ -1838,7 +1838,7 @@ frame {
 }
 .blog-2.blog .blog-item-media-title {
   margin: 50px 0 10px;
-  color: #2491d0;
+  color: #235e6e;
 }
 .blog-2.blog .blog-item-commform {
   background: #f1f8f9;
@@ -1848,7 +1848,7 @@ frame {
   margin-top: 50px;
 }
 .blog-2.blog .blog-item-commform h3 {
-  color: #2491d0;
+  color: #235e6e;
   margin-bottom: 30px;
   font-weight: 600;
 }
@@ -1880,7 +1880,7 @@ frame {
 }
 .related-items-title {
   margin: 50px 0 10px;
-  color: #2491d0;
+  color: #235e6e;
 }
 .related-item-overlay {
   position: absolute;
@@ -2349,7 +2349,7 @@ frame {
   max-width: 100%;
 }
 .history-text h3 {
-  color: #2491d0;
+  color: #235e6e;
   font-size: 24px;
   margin-bottom: 20px;
 }
@@ -2360,7 +2360,7 @@ frame {
   width: 100%;
 }
 .history .image-carousel .carousel-btn {
-  background: #2491d0;
+  background: #235e6e;
   color: #fff;
   bottom: 15px;
   top: auto;
@@ -2379,7 +2379,7 @@ frame {
   padding: 70px 0;
 }
 .mission-text h3 {
-  color: #2491d0;
+  color: #235e6e;
   font-size: 24px;
   margin-bottom: 20px;
 }
@@ -3766,7 +3766,7 @@ frame {
   border: 1px solid #becacf;
 }
 .color-sw-item#blue div {
-  background: #2491d0;
+  background: #235e6e;
   width: 100%;
   height: 100%;
 }
@@ -3824,7 +3824,7 @@ frame {
 .show-menu {
   background: #fff;
   border: 1px solid #e4edee;
-  color: #2491d0;
+  color: #235e6e;
   box-shadow: 0px 0px 6px 1px rgba(0, 0, 0, 0.07);
   width: 44px;
   height: 44px;
