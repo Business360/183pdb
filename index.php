@@ -44,7 +44,33 @@
 				<h1 class="sp-layer slider-title" 
 									data-position="leftCenter" data-horizontal="15" data-vertical="0" 
 									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="200" data-hide-delay="200">OPEN 7 DAYS</h1>
+									data-show-delay="200" data-hide-delay="200">OPEN <span style="font-size:10rem;">7</span> DAYS</h1>
+			</div>
+		</div>
+	
+		<!-- HEADER SLIDER ITEM -->
+		<div class="sp-slide">
+			<div class="container">
+				<h2 class="sp-layer slider-subtitle" 
+									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
+									data-show-transition="left" data-hide-transition="left"
+									data-show-delay="400" data-hide-delay="400"> <b>FREE WINZ QUOTE</b> </h2>
+				<h2 class="sp-layer slider-subtitle" 
+									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
+									data-show-transition="left" data-hide-transition="left"
+									data-show-delay="400" data-hide-delay="400"> <b>FREE ACC TREATMENTS</b> </h2>
+				<h2 class="sp-layer slider-subtitle" 
+									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
+									data-show-transition="left" data-hide-transition="left"
+									data-show-delay="400" data-hide-delay="400"> <b>Free INITIAL CONSULTATION</b> </h2>
+				<h2 class="sp-layer slider-subtitle" 
+									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
+									data-show-transition="left" data-hide-transition="left"
+									data-show-delay="400" data-hide-delay="400"> <b>FREE TREATMENT UNDER 18</b> </h2> <br><br><br>
+				<h1 class="sp-layer slider-title" 
+									data-position="leftCenter" data-horizontal="15" data-vertical="0" 
+									data-show-transition="left" data-hide-transition="left"
+									data-show-delay="200" data-hide-delay="200">OPEN <span style="font-size:10rem;">7</span> DAYS</h1>
 			</div>
 		</div>
 	</div>
@@ -117,7 +143,7 @@
   <div class="container">
     <div class="row">
       <h2 class="section-title">Our
-        <span class="bold700">
+        <span class="bold7007070">
           Partners
         </span>
 	  </h2>
@@ -168,7 +194,7 @@
   <div class="container">
     <div class="row">
       <h2 class="section-title">
-        <span class="bold700">
+        <span class="bold7007070">
           TESTIMONIALS
         </span>
       </h2>
@@ -211,7 +237,7 @@
   <div class="container">
     <div class="row">
       <h2 class="section-title">We
-        <span class="bold700">
+        <span class="bold7007070">
           Accept
         </span>
 	  </h2>
