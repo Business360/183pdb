@@ -46,7 +46,7 @@
 						<div class="footer-item-3-phone"><i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684) </div>
 						<div class="footer-item-3-location"><a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">73A Rosebank Road, Behind Subway - Avondale , Auckland 1026</a></div>
 						<div class="footer-item-3-mail"><i class="fa fa-envelope"></i> <a href="#">info@thedentalhub.co.nz</a> </div>
-						<div class="footer-item-3-socials"><a href="www.facebook.com/thedentalhubavondale"><i class="fa fa-facebook"></i></a> <a href="https://goo.gl/maps/VsSM4uHKyGS2"><i class="fa fa-google"></i></a></div>
+						<div class="footer-item-3-socials"><a href="http://www.facebook.com/thedentalhubavondale"><i class="fa fa-facebook"></i></a> <a href="https://goo.gl/maps/VsSM4uHKyGS2"><i class="fa fa-google"></i></a></div>
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-copyright">
 						<div> Designed by <a href="http://www..com/" target="_blank">Blu Plateau Limited</a> </div>
