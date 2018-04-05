@@ -75,7 +75,7 @@
 <div class="top-menu" id="top-menu">
   <div class="full-container">
     <div class="row">
-      <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12 col-lg-offset-2 col-md-offset-2 col-sm-offset-2">
+      <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12 col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
         <div class="mobile-bar-cont">
           <div class="top-menu-logo">
             <a href="#">
