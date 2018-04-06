@@ -24,6 +24,20 @@
             </div>
         </div>
     </div>
+
+    <!--
+        ====================
+        START: MOBILE DESIGN
+        ====================
+    -->
+        <a href="appointments.php" class="fancybox-2 btn btn-default hidden-sm hidden-md hidden-lg hidden-xlg" id="header-call-button-spacing">
+            CALL
+        </a>
+    <!--
+        ==================
+        END: MOBILE DESIGN
+        ==================
+    -->
     
     <div class="history">
         <div class="container">
