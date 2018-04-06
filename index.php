@@ -12,6 +12,19 @@
     ?>
     
     <!-- Start: Main Section -->
+<!--
+	====================
+	START: MOBILE DESIGN
+	====================
+-->
+	<a href="appointments.php" class="fancybox-2 btn btn-default hidden-sm hidden-md hidden-lg hidden-xlg" id="header-call-button-spacing">
+		CALL
+	</a>
+<!--
+	==================
+	END: MOBILE DESIGN
+	==================
+-->
 
 <!--
 	=============
