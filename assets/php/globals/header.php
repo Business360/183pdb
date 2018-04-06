@@ -49,7 +49,7 @@
 							<i class="fa fa-envelope"></i>
 						</a>
 						<a href="#">info@thedentalhub.co.nz</a>
-						<a href="https://www.facebook.com/thedentalhubavondale" target="_blank">
+						<a href="https://www.facebook.com/thedentalhubauckland" target="_blank">
 							<i class="fa fa-facebook"></i>
 						</a>
 						<a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">
