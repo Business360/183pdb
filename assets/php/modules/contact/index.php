@@ -7,10 +7,19 @@
 */
 
 // Who you want to recieve the emails from the form.
-$sendto = 'info@thedentalhub.co.nz';
+$office_email = 'info@thedentalhub.co.nz';
+
+// Email from which the notifications are sent
+$sender_header = 'From:'. $office_email;
+
+// Who you want to send the confirmation of the form.
+$sender_email	=	$_REQUEST['email'];
 
 // The subject you'll see in your inbox
-$subject = 'A message from my website';
+$subject = 'The Dental Hub | Contact Form';
+
+// Notification for senders
+$sender_information	=	'Thank you for your enquiry.! One of staff will come back to ASAP';
 
 // Message for the user when he/she doesn't fill in the form correctly.
 $errormessage = 'Looks like you are missing some info. Try again.&nbsp;';
@@ -126,7 +135,8 @@ if ( empty($_REQUEST['last']) ) {
 	  $information .= "Message: \n" . clean_var($_REQUEST['message']);
 	  $header = 'From:'. clean_var($_REQUEST['email']);
   
-	  mail($sendto, $subject, $information, $header);
+	  mail($office_email, $subject, $information, $header);
+	  mail($sender_email, $subject, $sender_information, $sender_header);
 	  echo "<script>jQuery(\".message\").toggle();jQuery(\".message\").toggle().hide(\"fast\").show(\"fast\");jQuery('#contactForm')[0].reset();</script>";
 	  echo "<script>jQuery(\".message .alert\").addClass('alert-success').removeClass('alert-danger'); </script>";
 	  echo $thanks;
