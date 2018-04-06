@@ -14,7 +14,7 @@
     <!-- Start: Main Section -->
     <div class="page-title page-title-gallery1 bg-pattern" data-bgcolor="056CA1">
         <div class="page-title-overlay">
-                <div class="container">
+            <div class="container">
                 <div class="row">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-home"><a href="index.php"><i class="fa fa-home"></i></a></li>
@@ -24,6 +24,21 @@
                 </div>
             </div>
         </div>
+    </div>
+
+	<!--
+        ====================
+        START: MOBILE DESIGN
+        ====================
+    -->
+	<a href="appointments.php" class="fancybox-2 btn btn-default hidden-sm hidden-md hidden-lg hidden-xlg" id="header-call-button-spacing">
+            CALL US
+        </a>
+    <!--
+        ==================
+        END: MOBILE DESIGN
+        ==================
+    -->
         
     <div class="gallery gallery-1">
         <div class="container">
