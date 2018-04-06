@@ -249,6 +249,13 @@ ul.footer-nav {
         margin-bottom: 0px;
         margin-left: 25vw;
     }
+    
+    #header-call-button-spacing {
+        padding: 9px;
+        border-radius: 5px;
+        font-size: 2.5rem;
+        margin-left: 38vw;
+    }
 
     .top-bar-adress {
         margin-top: 0px;
