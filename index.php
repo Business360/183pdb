@@ -18,7 +18,7 @@
 	HEADER SLIDER
 	==============
 -->
-<div id="slider" class="slider">
+<div id="slider" class="slider hidden-xs">
 	<div class="sp-slides"> 
 	
 		<!-- HEADER SLIDER ITEM -->
