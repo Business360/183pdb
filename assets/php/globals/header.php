@@ -60,9 +60,6 @@
 						<span class="plus">+</span> MAKE AN APPOINTMENT
 					</a>
 				</div>
-				<a href="appointments.php" class="fancybox-2 btn btn-default hidden-sm hidden-md hidden-lg hidden-xlg" id="header-call-button-spacing">
-						CALL
-					</a>
 			</div>
 		</div>
 	  </div>
