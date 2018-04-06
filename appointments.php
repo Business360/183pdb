@@ -44,15 +44,19 @@
 						<input type="text" name="name" id="name1" data-validation="required" placeholder="Your name" />
 						<div class="help help-sm help-red">!</div>
 					</div>
-					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 booking-form-item phone">
-						<input type="tel" name="phone" id="phone1" data-validation="required" placeholder="Phone" />
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 booking-form-item date">
+						<input type="text" class="datepicker-f" id="datepicker1" name="dob" data-validation="required" placeholder="Date of Birth" />
 						<div class="help help-sm help-red">!</div>
 					</div>
 				</div>
 				<div class="row">
-				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-form-item email">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 booking-form-item email">
 					<input type="text" name="email" id="email1" placeholder="E-mail" />
 				</div>
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 booking-form-item phone">
+						<input type="tel" name="phone" id="phone1" data-validation="required" placeholder="Phone" />
+						<div class="help help-sm help-red">!</div>
+					</div>
 				</div>
 				<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 booking-form-item date">
@@ -65,19 +69,19 @@
 				</div>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-practices">	
 					<h3 class="text-center">Preferred Practices</h3>
-					<input type="checkbox" name="Consultation" data-validation="required"/> Consultation
-					<input type="checkbox" name="Cleaning" data-validation="required"/> Cleaning
-					<input type="checkbox" name="Examination" data-validation="required"/> Examination
-					<input type="checkbox" name="Fast Braces" data-validation="required"/> Fast Braces
-					<input type="checkbox" name="Tooth Whitening" data-validation="required"/> Tooth Whitening
-					<input type="checkbox" name="Gum Treatment" data-validation="required"/> Gum Treatment
-					<input type="checkbox" name="Extraction" data-validation="required"/> Extraction
-					<input type="checkbox" name="Fillings" data-validation="required"/> Fillings
-					<input type="checkbox" name="Root Canal Treatment" data-validation="required"/> Root Canal Treatment
-					<input type="checkbox" name="Crowns" data-validation="required"/> Crowns
-					<input type="checkbox" name="Bridges" data-validation="required"/> Bridges
-					<input type="checkbox" name="Dentures" data-validation="required"/> Dentures
-					<input type="checkbox" name="Others" data-validation="required"/> Others
+					<input type="checkbox" name="Consultation"/> Consultation
+					<input type="checkbox" name="Cleaning"/> Cleaning
+					<input type="checkbox" name="Examination"/> Examination
+					<input type="checkbox" name="Fast Braces"/> Fast Braces
+					<input type="checkbox" name="Tooth Whitening"/> Tooth Whitening
+					<input type="checkbox" name="Gum Treatment"/> Gum Treatment
+					<input type="checkbox" name="Extraction"/> Extraction
+					<input type="checkbox" name="Fillings"/> Fillings
+					<input type="checkbox" name="Root Canal Treatment"/> Root Canal Treatment
+					<input type="checkbox" name="Crowns"/> Crowns
+					<input type="checkbox" name="Bridges"/> Bridges
+					<input type="checkbox" name="Dentures"/> Dentures
+					<input type="checkbox" name="Others"/> Others
 				</div>
 				</div>
 				<div class="row">
