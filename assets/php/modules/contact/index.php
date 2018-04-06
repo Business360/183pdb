@@ -7,7 +7,7 @@
 */
 
 // Who you want to recieve the emails from the form.
-$sendto = 'prasad@bluplateau.com';
+$sendto = 'info@thedentalhub.co.nz';
 
 // The subject you'll see in your inbox
 $subject = 'A message from my website';
