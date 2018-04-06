@@ -6,11 +6,20 @@
 	=======================
 */
 
-// Who you want to receive the emails from the form.
-$sendto = 'prasad@bluplateau.com';
+// Who you want to recieve the emails from the form.
+$office_email = 'info@thedentalhub.co.nz';
+
+// Email from which the notifications are sent
+$sender_header = 'From:'. $office_email;
+
+// Who you want to send the confirmation of the form.
+$sender_email	=	$_REQUEST['email'];
 
 // The subject you'll see in your inbox
-$subject = 'A new appointment from my website';
+$subject = 'The Dental Hub | Appointments';
+
+// Notification for senders
+$sender_information	=	'Thank you for your enquiry.! One of staff will come back to ASAP';
 
 // Message for the user when he/she doesn't fill in the form correctly.
 $errormessage = 'Looks like you are missing some info. Try again.';
@@ -24,12 +33,14 @@ $honeypot = "You filled in the honeypot! If you're human, try again!";
 // Various messages displayed when the fields are empty.
 $emptyname =  'Entering your name?';
 $emptyphone = 'Entering your phone number?';
+$emptydob = 'Date of Birth?';
 $emptydate = 'Appointment date?';
 $emptytime = 'Appointment time?';
 
 // Various messages displayed when the fields are incorrectly formatted.
 $alertname =  'Entering your name using only the standard alphabet?';
 $alertphone =  'Entering your phone number using only the standard characters?';
+$alertdob = '';
 $alertdate = '';
 $alerttime = '';
 
@@ -67,6 +78,11 @@ $required_fields = array(
 		'name' => 'time',
 		'empty' => $emptytime,
 		'alert' => $alerttime,
+		),
+	'5' => array(
+		'name' => 'dob',
+		'empty' => $emptydob,
+		'alert' => $alertdob,
 		),
 );
 
@@ -125,11 +141,13 @@ if ( empty($_REQUEST['last']) ) {
 	$message .= "Phone: " . clean_var($_REQUEST['phone']) . "\n";
 	$message .= "Email: " . clean_var($_REQUEST['email']) . "\n";
 	$message .= "Date: " .clean_var($_REQUEST['date']) . "\n"; 
+	$message .= "Date of Birth: " .clean_var($_REQUEST['dob']) . "\n"; 
 	$message .= "Time: " .clean_var($_REQUEST['time']) . "\n";
 	$message .= "Message: \n" . clean_var($_REQUEST['message']);
 	$header = 'From:'. clean_var($_REQUEST['email']);
 
-	mail($sendto, $subject, $message, $header);
+	mail($office_email, $subject, $message, $header);
+	mail($sender_email, $subject, $sender_information, $office_email);
 	echo '
 		<div class="message message-close message-success">
 			<button type="button" class="message-close-button"><i class="fa fa-close"></i></button>
