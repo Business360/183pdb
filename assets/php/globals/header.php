@@ -44,11 +44,11 @@
 						</a>
 						<a href="tel:092187777">09 218 7777</a>
 					</div>
-					<div class="top-bar-social hidden-xs">
-						<a href="#">
+					<div class="top-bar-social col-xs-12">
+						<a href="#" class="hidden-xs">
 							<i class="fa fa-envelope"></i>
 						</a>
-						<a href="#">info@thedentalhub.co.nz</a>
+						<a href="#" class="hidden-xs">info@thedentalhub.co.nz</a>
 						<a href="https://www.facebook.com/thedentalhubauckland" target="_blank">
 							<i class="fa fa-facebook"></i>
 						</a>
@@ -97,9 +97,7 @@
 			<!-- HEADER BUTTONS -->
 			<div class="col-lg-10 col-md-10 col-sm-10 col-xs-hidden mobile-header-buttons">
                 <div class="header-button"> <a href="appointments.php" class="fancybox-2 btn btn-default">
-                    <span class="plus">
-                      +
-                    </span>
+                    <span class="plus">+</span>
                     MAKE AN APPOINTMENT</a> </div>
                 <div class="header-phone"> <i class="fa fa-phone"></i>  09 218 7777 </div>
                 <div class="header-phone"> <i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684) </div>
