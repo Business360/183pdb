@@ -50,7 +50,8 @@
 
 .top-bar-social {
     font-size: 17px;
-    margin-right: 10px;
+    margin-right: -10px;
+    text-align: right;
 }
 
 #header-make-an-appointment-spacing {
@@ -145,6 +146,15 @@ ul.footer-nav {
         margin-top: 0px;
         text-align: center;
         margin-bottom: 30px;
+    }
+
+    .top-bar-social {
+        margin-right: 0px;
+        text-align: center;
+    }
+
+    .top-bar-social i {
+        font-size: 20px;
     }
 
     .bg-child-4 {
