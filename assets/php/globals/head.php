@@ -1,13 +1,14 @@
 <?php
+// Including configuration file
+include("assets/php/config.php");
 
 // Including "modules lists"
 include("assets/php/modules/modules_list.php");
 
-// Including configuration file
-include("assets/php/config.php");
-
 ?>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <!--
     ===================
         START: HEAD FILES   
@@ -33,9 +34,4 @@ include("assets/php/config.php");
 <link rel="stylesheet" type="text/css" href="assets/css/plugins/flaticons/flaticon.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/plugins/font-awesome/css/font-awesome.min.css" />
 <!-- End: Common Files -->
-
-<!--
-    ===================
-        START: HEAD FILES   
-    ===================
---> 
+</head>
