@@ -106,34 +106,34 @@
         </div>
         <ul class="nav navbar-nav">
           <li>
-			<a href="index.php">Home</a>
+			<a href="index.php?page=home">Home</a>
 			</li>
           <li>
-			<a href="about.php">About Us</a>
+			<a href="index.php?page=about">About Us</a>
 			</li>
           <li class="dropdown">
-			<a href="services.php">Services</a>
+			<a href="index.php?page=services">Services</a>
           </li>
           <li class="dropdown">
-			<a href="staff.php">Our Staff</a>
+			<a href="index.php?page=staff">Our Staff</a>
           </li>
           <li class="dropdown">
-			<a href="blog.php">Blog</a>
+			<a href="index.php?page=blog">Blog</a>
           </li>
           <li class="dropdown">
-			<a href="gallery.php">Gallery</a>
+			<a href="index.php?page=gallery">Gallery</a>
           </li>
           <li>
-			<a href="contact.php">Contact Us</a>
+			<a href="index.php?page=contact">Contact Us</a>
 		  </li>
           <li>
-			<a href="appointments.php">Make an Appointment</a>
+			<a href="index.php?page=appointments">Make an Appointment</a>
 		  </li>
           <li>
-			<a href="payments.php">Payment Options</a>
+			<a href="index.php?page=payments">Payment Options</a>
 		  </li>
           <li>
-			<a href="qcard.php">12 Months Interest Free</a>
+			<a href="index.php?page=qcard">12 Months Interest Free</a>
 		  </li>
         </ul>
       </div>

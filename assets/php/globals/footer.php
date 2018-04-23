@@ -29,13 +29,13 @@
 					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-1">
 						<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
 						<ul class="footer-nav">
-							<li><a href="index.php">Home</a></li>
-							<li><a href="services.php">Services</a></li>
-							<li><a href="about.php">About Us</a></li>
-							<li><a href="staff.php">Our Staff</a></li>
-							<li><a href="blog.php">Blog</a></li>
-							<li><a href="gallery.php">Gallery</a></li>
-							<li><a href="contact.php">Contact Us</a></li>
+							<li><a href="index.php?page=home">Home</a></li>
+							<li><a href="index.php?page=services">Services</a></li>
+							<li><a href="index.php?page=about">About Us</a></li>
+							<li><a href="index.php?page=staff">Our Staff</a></li>
+							<li><a href="index.php?page=blog">Blog</a></li>
+							<li><a href="index.php?page=gallery">Gallery</a></li>
+							<li><a href="index.php?page=contact">Contact Us</a></li>
 						</ul>
 					</div>
 					
