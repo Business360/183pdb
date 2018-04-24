@@ -55,7 +55,18 @@
 						<a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">
 							<i class="fa fa-google"></i>
 						</a>
+						
 					</div>
+					<div class="top-bar-social col-xs-12">
+						<form class="navbar-form" role="search">
+				        <div class="input-group">
+				            <input type="text" class="form-control" style="height:40px;" placeholder="Search" name="q">
+				            <div class="input-group-btn">
+				                <button class="btn btn-default" style="width:50px;padding-left:2px;" type="submit"><i class="fa fa-search"></i></button>
+				            </div>
+				        </div>
+				        </form>
+				    </div>    
 					<a href="appointments.php" class="fancybox-2 btn btn-default hidden-xs" id="header-make-an-appointment-spacing">
 						<span class="plus">+</span> MAKE AN APPOINTMENT
 					</a>
