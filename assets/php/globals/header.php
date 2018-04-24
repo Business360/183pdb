@@ -58,7 +58,7 @@
 						
 					</div>
 					<div class="top-bar-social col-xs-12">
-						<form class="navbar-form" role="search">
+						<form class="navbar-form" action="search.php" role="search">
 				        <div class="input-group">
 				            <input type="text" class="form-control" style="height:40px;" placeholder="Search" name="q">
 				            <div class="input-group-btn">
