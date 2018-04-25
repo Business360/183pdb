@@ -21,7 +21,16 @@
 		$i=1;
 		foreach($searchdata as $value){
 			$pagename = $value['page_title'];
-			echo "<a href='index.php?page=$pagename'><h4>".$i.". ".$value['page_title']."</h4></a>";
+			//$pagedata = strip_tags($value['page_data']);
+			echo "<a href='index.php?page=$pagename'><h4 style='color:#1a0dab;font-size:18px;'>".$value['page_title']."</h4></a>";
+			$actuallink = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+			$url_info = parse_url($actuallink);
+			//print_r($url_info['path']);
+			$rurl = str_replace("search.php","index.php?page=".$pagename,$url_info['path']);
+			$domain = $url_info['scheme'] .'://'. $url_info['host'];
+			$url_minus_filename = $domain . $rurl;
+			echo "<a href='index.php?page=$pagename'><h4 style='color:#006621;font-size:14px;'>".$url_minus_filename."</h4></a><br>";
+			//echo "<p>".$pagedata."</p>";
 			$i++;
 		}
 	?>
