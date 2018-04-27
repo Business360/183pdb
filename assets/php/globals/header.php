@@ -56,6 +56,20 @@
 							<i class="fa fa-google"></i>
 						</a>
 					</div>
+					<div class="top-bar-search col-xs-12 col-sm-8">
+					<script>
+						(function() {
+							var cx = '008889523455649713763:whobmz3wbne';
+							var gcse = document.createElement('script');
+							gcse.type = 'text/javascript';
+							gcse.async = true;
+							gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+							var s = document.getElementsByTagName('script')[0];
+							s.parentNode.insertBefore(gcse, s);
+						})();
+					</script>
+					<gcse:search></gcse:search>
+				    </div>
 					<a href="appointments.php" class="fancybox-2 btn btn-default hidden-xs" id="header-make-an-appointment-spacing">
 						<span class="plus">+</span> MAKE AN APPOINTMENT
 					</a>

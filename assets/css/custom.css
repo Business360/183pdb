@@ -54,6 +54,10 @@
     text-align: right;
 }
 
+.top-bar-search {
+    float: right;
+}
+
 #header-make-an-appointment-spacing {
     margin-bottom: -160px;
     margin-left: -130px;
@@ -114,6 +118,15 @@ ul.footer-nav {
     font-size: 16px;
 }
 
+.gsc-adBlock {
+    display: none !important;
+}
+
+.cse .gsc-control-cse, .gsc-control-cse {
+    margin-right: -24px;
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
 
 /* Responsive */
 @media (max-width: 768px) {
