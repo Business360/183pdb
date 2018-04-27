@@ -5,8 +5,8 @@ date_default_timezone_set('NZ');
 
 function db_credentials() {
 	if ($_SERVER['SERVER_NAME'] === "localhost") {
-		$username = "root";
-		$password = "";
+		$username = "gsprasad_siva";
+		$password = "Siva_8278";
 		$hostname = "localhost";
 	} else {
 		$username = "";
@@ -21,7 +21,7 @@ function db_credentials() {
 function db_connect() {
  $dbhandle           =   db_credentials();
  //select a database to work with
- $selected           = mysql_select_db("dental_hub",$dbhandle) or die(mysql_error());
+ $selected           = mysql_select_db("thedentalhub",$dbhandle) or die(mysql_error());
  return $dbhandle;
 }
 
@@ -29,7 +29,7 @@ function db_connect() {
 //To Get Base Url
 function baseurl() {
 	if ($_SERVER['SERVER_NAME'] === "localhost") {
-		$base = "http://localhost/websites/dentalhub";
+		$base = "http://localhost/websites/thedentalhub";
 		return $base;
 	} else {
 		$base = "";
