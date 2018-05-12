@@ -61,7 +61,7 @@
                                             Q MasterCard® &amp; Q Card
                                         </span>
                                     </h2>
-                                    <a href="https://wss.qmastercard.co.nz/Osso/mcard/initialize?tid=6bS_pIaNEbwHgYbSCRFcjQ&amp;requestvalue=-N8i2s2SkQ4zKCIxRbVBTtM-oQ7yySVlb4ngMnA1cRdRxfjXFE2KWJ2S5lrt7xjO&murl=https://www.qmastercard.co.nz">
+                                    <a href="https://wss.qmastercard.co.nz/Osso/mcard/initialize?tid=Dtcuc93SXXyj4_UVAimhDA&requestvalue=ULGvmUwt3CgzHkC152ctQyy5m2LSSo5iV4ZWrL9c23L01rFgvqM_VM-wozxJjUsZ&murl=http://www.thedentalhub.co.nz/" target="_blank">
                                         <img src="assets/images/qcard/qcard.png" class="qcard-img" alt="">
                                     </a>
                                     <p>
