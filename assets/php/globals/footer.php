@@ -38,7 +38,7 @@
 							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
-					
+					  
 					<!-- FOOTER ITEM 2 -->
 					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-2">
 						<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
