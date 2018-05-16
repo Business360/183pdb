@@ -49,28 +49,35 @@
                     </span>
                 </h2>
 
-                <h3 class="text-center">Coming Soon...</h3>
+                <h3 class="text-center">Gallery</h3>
                 
-            <!-- <div class="gallery-1-items">
+             <div class="gallery-1-items">
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
+                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail1.jpg" alt="" /></div>
                 </div>
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
+                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail2.jpg" alt="" /></div>
                 </div>
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
+                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail3.jpg" alt="" /></div>
                 </div>
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
+                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail4.jpg" alt="" /></div>
                 </div>
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
+                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail5.jpg" alt="" /></div>
                 </div>
                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail.jpg" alt="" /></div>
+                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail6.jpg" alt="" /></div>
                 </div>
-            </div> -->
+                 <div class="gallery-1-item isotope-item col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div class="gallery-1-item-image"> <img src="assets/images/gallery/gallery-thumbnail6.jpg" alt="" /></div>
+                </div>
+
+
+
+                
+            </div> 
             </div>
         </div>
     </div>
