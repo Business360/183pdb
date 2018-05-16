@@ -21,6 +21,7 @@
                     <li class="active">Payment Options</li>
                 </ol>
                 </div>
+
             </div>
         </div>
     </div>
@@ -44,11 +45,26 @@
         <div class="container">
             <div class="row">
             <h2 class="section-title text-center">
+
                 <span class="bold700">
                     Payment Options
                 </span>
             </h2>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+              <div class="payment-options">
+  <div class="container">
+    <div class="row">
+      <h2 class="section-title">We
+        <span class="bold7007070">
+          Accept
+        </span>
+      </h2>
+    </div>
+  </div>
+  <img src="assets/images/payment_methods/hero1.jpg" alt="">
+</div>
+       <br>
+
+         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="panel-group" id="accordion"> 
                         <!-- FAQ ITEM -->
                         <div class="panel panel-default">
