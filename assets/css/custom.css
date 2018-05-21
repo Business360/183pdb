@@ -1,14 +1,19 @@
 /* Custom CSS */
 
+.header {
+    padding: 12px 0px;
+}
+
 .header-logo img {
     width: auto;
     height: 370px;
-    top: -246px;
-    left: -100px;
+    top: -105px;
+    left: -130px;
 }
 
 .top-bar {
     font-size: 14px;
+    top: -45px;
 }
 
 .top-menu-logo {
@@ -45,7 +50,12 @@
 
 .top-bar-social {
     font-size: 17px;
-    margin-right: 10px;
+    margin-right: -10px;
+    text-align: right;
+}
+
+.top-bar-search {
+    float: right;
 }
 
 #header-make-an-appointment-spacing {
@@ -61,7 +71,10 @@
 }
 
 .show-menu {
-    margin: 60px 5px;
+    border: none;
+    box-shadow: none;
+    margin: 30px 5px 0px;
+    background: transparent;
 }
 
 .mobile-header-buttons {
@@ -113,12 +126,59 @@ ul.footer-nav {
     font-size: 16px;
 }
 
+.gsc-adBlock {
+    display: none !important;
+}
+
+.cse .gsc-control-cse, .gsc-control-cse {
+    margin-right: -24px;
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
+    .top-bar {
+        top: 0px;
+    }
+
     .header-logo img {
-        height: 220px !important;
-        left: 0px !important;
-        margin-bottom: -120px !important;
+        height: 200px !important;
+        top: -266px;
+        left: -20px !important;
+        margin-bottom: -420px !important;
         margin-top: 40px;
+    }
+
+    #header-make-an-appointment-spacing {
+        margin-bottom: 0px;
+        margin-left: 25vw;
+    }
+    
+    #header-call-button-spacing {
+        padding: 9px;
+        border-radius: 5px;
+        font-size: 2.5rem;
+        margin-left: 28vw;
+        margin-top: 5vh;
+    }
+
+    .top-bar-adress {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .top-bar-social {
+        margin-right: 0px;
+        text-align: center;
+    }
+
+    .top-bar-social i {
+        font-size: 20px;
+    }
+
+    .bg-child-4 {
+        margin-top: 30px;
     }
 }
