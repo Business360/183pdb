@@ -185,7 +185,10 @@
 		<!-- Partners ITEM -->
 		<div class="col-md-4">
 			<div class="partners-item-image"> 
-				<img src="assets/images/partners/qcard.png" alt="" />
+				<a href="https://wss.qmastercard.co.nz/Osso/mcard/initialize?tid=Dtcuc93SXXyj4_UVAimhDA&amp;requestvalue=ULGvmUwt3CgzHkC152ctQyy5m2LSSo5iV4ZWrL9c23L01rFgvqM_VM-wozxJjUsZ&amp;murl=http://www.thedentalhub.co.nz/" target="_blank">
+                                        <img src="assets/images/partners/qcard.png" class="qcard-img" alt="">
+                                    </a>
+				
 			</div>
 		</div>
 	  </div>
