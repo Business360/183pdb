@@ -92,6 +92,9 @@
 }
 
 /* Payment Options */
+.payment-options {
+    padding: 0px !important;
+}
 .panel-group .panel-heading h4 a.collapsed {
     border: 2px #00acdb solid;
 }
