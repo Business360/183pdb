@@ -52,7 +52,7 @@
 				<div class="get-item-icon"> <i class="fa fa-phone"></i> </div>
 				<h4 class="get-item-title">Phone</h4>
 				<p class="get-item-text">09 218 7777</p>
-				<p class="get-item-text">0800 FIX TOOTH (0800 349 86684)</p>
+				<p class="get-item-text">0800 349 86684</p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 get-item">
 				<div class="get-item-icon"> <i class="fa fa-envelope"></i> </div>
