@@ -19,7 +19,7 @@ $sender_email	=	$_REQUEST['email'];
 $subject = 'The Dental Hub | Appointments';
 
 // Notification for senders
-$sender_information	=	'Thank you for your enquiry.! One of staff will come back to ASAP';
+$sender_information	=	"Thank you for emailing The Dental Hub - Avondale. Please note that this is not an actual appointment, but only a request for one. We will contact you for a confirmation shortly after. <br><br> We try to reply your message as soon as possible in case if you want to contact urgently call is free on 0800 FixTooth";
 
 // Message for the user when he/she doesn't fill in the form correctly.
 $errormessage = 'Looks like you are missing some info. Try again.';
