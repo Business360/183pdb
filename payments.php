@@ -53,8 +53,8 @@
               <div class="payment-options">
   <div class="container">
     <div class="row">
-      <h2 class="section-title">We
-        <span class="bold7007070">
+      <h2 class="section-title text-center">We
+        <span class="section-title text-center">
           Accept
         </span>
       </h2>
