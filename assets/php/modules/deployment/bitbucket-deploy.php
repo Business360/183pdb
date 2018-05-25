@@ -1,5 +1,5 @@
 <?php
-$repo_dir = '/home/thedentalhub/ofsp-web-app.git';
+$repo_dir = '/home/thedentalhub/the-dental-hub.git';
 $web_root_dir = '/home/thedentalhub/www';
 $deployment_branch = 'master';
 
