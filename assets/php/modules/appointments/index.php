@@ -147,7 +147,7 @@ if ( empty($_REQUEST['last']) ) {
 	$header = 'From:'. clean_var($_REQUEST['email']);
 
 	mail($office_email, $subject, $message, $header);
-	mail($sender_email, $subject, $sender_information, $office_email);
+	mail($sender_email, $subject, $sender_information, $sender_header);
 	echo '
 		<div class="message message-close message-success">
 			<button type="button" class="message-close-button"><i class="fa fa-close"></i></button>
