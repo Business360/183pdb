@@ -36,6 +36,8 @@
 							<li><a href="blog.php">Blog</a></li>
 							<li><a href="gallery.php">Gallery</a></li>
 							<li><a href="contact.php">Contact Us</a></li>
+							<li><a href="legals.php">Privacy Policy</a></li>
+							<li><a href="legals.php">Terms of Service</a></li>
 						</ul>
 					</div>
 					  
