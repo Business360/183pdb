@@ -49,6 +49,10 @@
 <!-- CUSTOM SCRIPT --> 
 <script src="assets/js/theme.js"></script>
 
+<!-- SLIDER SCRIPT -->
+<script src="assets/js/jssor.slider.min.js"></script>
+<script src="assets/js/jssor.slider.options.js"></script>
+
 <!-- GOOGLE MAPS --> 
 <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC1N87a_NHjocaepKKcovPAYTMUkJBr9pQ&amp;language=en&amp;sensor=true"></script>
 
