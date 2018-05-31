@@ -160,35 +160,82 @@
           Partners
         </span>
 	  </h2>
-	  <div class="row">
-		  
-		<!-- Partners ITEM -->
-		<div class="col-md-4">
-			<h3>Philips Zoom Teeth</h3>
-			<h3>Whitening</h3>
-			<div class="partners-item-image"> 
-				<img src="assets/images/partners/philips.png" alt="" />
+	<div class="row">
+
+		<!-- Clinic Gallery -->
+		<div class="col-md-6">
+			<h3 class="text-center">Our Clinic</h3>
+			<!-- Jssor Slider Begin -->
+			<div id="slider1_container">
+				<!-- Slides Container -->
+				<div data-u="slides" style="position: relative; left: 0px; top: 50px; width:570px; height: 443px; overflow: hidden;">
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail1.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail2.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail3.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail4.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail5.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail6.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail7.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail8.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail9.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/gallery/gallery-thumbnail10.jpg" />
+					</div>
+				</div>
 			</div>
-			<p>Our whitening procedure has been perfected through years of experience to give you the whitest teeth in the safest possible way.</p>
+				<!-- Jssor Slider End -->
 		</div>
-		  
+
 		<!-- Partners ITEM -->
-		<div class="col-md-4">
-			<h3>Fastbraces Master</h3>
-			<h3>Provider</h3>
-			<div class="partners-item-image"> 
-				<img src="assets/images/partners/fastbraces.png" alt="" />
-			</div>
-			<p>Dental Today is proud to be New Zealand’s premier dental office to offer the amazing Fastbraces Technology. Call or email us to discover how Dental Today and Fastbraces Technology can team up to give you a smile that you have always dreamed of.</p>
-		</div>
-		  
-		<!-- Partners ITEM -->
-		<div class="col-md-4">
-			<div class="partners-item-image"> 
+		<div class="col-md-6">
+			<h3 class="text-center">Finance Partner</h3>
+			<div class="partners-item-image" style="top: 50px;"> 
 				<a href="https://wss.qmastercard.co.nz/Osso/mcard/initialize?tid=Dtcuc93SXXyj4_UVAimhDA&amp;requestvalue=ULGvmUwt3CgzHkC152ctQyy5m2LSSo5iV4ZWrL9c23L01rFgvqM_VM-wozxJjUsZ&amp;murl=http://www.thedentalhub.co.nz/" target="_blank">
-                                        <img src="assets/images/partners/qcard.png" class="qcard-img" alt="">
-                                    </a>
+					<img src="assets/images/partners/qcard.png" class="qcard-img" alt="">
+				</a>
 				
+			</div>
+		</div>
+		
+	</div>
+		  
+		<div class="row" style="margin-top:60px;">
+			<!-- Partners ITEM -->
+			<div class="col-md-6">
+				<h3>Fastbraces Master</h3>
+				<h3>Provider</h3>
+				<div class="partners-item-image"> 
+					<img src="assets/images/partners/fastbraces.png" alt="" />
+				</div>
+				<p>Dental Today is proud to be New Zealand’s premier dental office to offer the amazing Fastbraces Technology. Call or email us to discover how Dental Today and Fastbraces Technology can team up to give you a smile that you have always dreamed of.</p>
+			</div>
+
+			<!-- Partners ITEM -->
+			<div class="col-md-6">
+				<h3>Philips Zoom Teeth</h3>
+				<h3>Whitening</h3>
+				<div class="partners-item-image"> 
+					<img src="assets/images/partners/philips.png" alt="" />
+				</div>
+				<p>Our whitening procedure has been perfected through years of experience to give you the whitest teeth in the safest possible way.</p>
 			</div>
 		</div>
 	  </div>
