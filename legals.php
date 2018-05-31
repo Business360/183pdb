@@ -18,7 +18,7 @@
             <div class="row">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-home"><a href="index.php"><i class="fa fa-home"></i></a></li>
-                    <li class="active">Blog Details</li>
+                    <li class="active">Terms of Service &amp; Privacy Policy</li>
                 </ol>
                 </div>
             </div>
