@@ -34,7 +34,7 @@
 <div class="col-md-12">
 <div id="slider1_container">
 				<!-- Slides Container -->
-				<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1350px; height: 470px;">
+				<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1350px; height: 470px; overflow: hidden;">
 					<div>
 							<img data-u="image" src="assets/images/slider/slide01.jpg" />
 					</div>
@@ -179,7 +179,7 @@
 				<div class="partners-item-image"> 
 					<img src="assets/images/partners/fastbraces.png" alt="" />
 				</div>
-				<p>Dental Today is proud to be New Zealand’s premier dental office to offer the amazing Fastbraces Technology. Call or email us to discover how Dental Today and Fastbraces Technology can team up to give you a smile that you have always dreamed of.</p>
+				<p style="padding-left:10px;">Dental Today is proud to be New Zealand's premier dental office to offer the amazing Fastbraces Technology. Call or email us to discover how Dental Today and Fastbraces Technology can team up to give you a smile that you have always dreamed of.</p>
 			</div>
 
 			<!-- Partners ITEM -->
