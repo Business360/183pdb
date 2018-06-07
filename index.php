@@ -92,15 +92,16 @@
 	</div>
 	
 	<!-- SERVICES ITEM -->
-	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3">
+	<a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank" style="color:#fff;">
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3">
 		<div class="service-icon"> <i class="fa fa-map-marker"></i> </div>
 		<div class="service-title">
 			<h2>Location</h2>
-		</div><br><a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank" style="color:#fff;">
+		</div><br>
 		<h4>73A Rosebank Road, Behind Subway</h4>
-		<h4>Avondale , Auckland 1026</h4></a>
+		<h4>Avondale , Auckland 1026</h4><br><br>
 	</div>
-</div>
+</div></a>
 <!-- 
 	============
 	END SERVICES
