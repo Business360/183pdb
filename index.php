@@ -115,11 +115,7 @@
 <div class="doctors">
   <div class="container">
     <div class="row">
-      <h2 class="section-title">Our
-        <span class="bold7007070">
-          Partners
-        </span>
-	  </h2>
+      
 	<div class="row">
 
 		<!-- Clinic Gallery -->
@@ -128,7 +124,7 @@
 			<!-- Jssor Slider Begin -->
 			<div id="slider2_container">
 				<!-- Slides Container -->
-				<div data-u="slides" style="position: relative; left: 0px; top: 50px; width:570px; height: 443px; overflow: hidden;">
+				<div data-u="slides" style="position: relative; left: 0px; top: 45px; width:300px; height: 443px; overflow: hidden;">
 					<div>
 							<img data-u="image" src="assets/images/gallery/gallery-thumbnail1.jpg" />
 					</div>
@@ -165,7 +161,7 @@
 		</div>
 
 		<!-- Partners ITEM -->
-		<div class="col-md-6">
+		<div class="col-md-3">
 			<h3 class="text-center">Finance Partner</h3>
 			<div class="partners-item-image" style="top: 50px;"> 
 				<a href="https://wss.qmastercard.co.nz/Osso/mcard/initialize?tid=Dtcuc93SXXyj4_UVAimhDA&amp;requestvalue=ULGvmUwt3CgzHkC152ctQyy5m2LSSo5iV4ZWrL9c23L01rFgvqM_VM-wozxJjUsZ&amp;murl=http://www.thedentalhub.co.nz/" target="_blank">
@@ -175,11 +171,8 @@
 			</div>
 		</div>
 		
-	</div>
-		  
-		<div class="row" style="margin-top:60px;">
 			<!-- Partners ITEM -->
-			<div class="col-md-6">
+			<div class="col-md-3">
 				<h3>Fastbraces Master</h3>
 				<h3>Provider</h3>
 				<div class="partners-item-image"> 
@@ -189,7 +182,7 @@
 			</div>
 
 			<!-- Partners ITEM -->
-			<div class="col-md-6">
+			<div class="col-md-3">
 				<h3>Philips Zoom Teeth</h3>
 				<h3>Whitening</h3>
 				<div class="partners-item-image"> 
