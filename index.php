@@ -226,15 +226,15 @@
           
           <!-- REVIEW ITEM -->
           <div class="review-item">
-            <div class="review-item-text">Now I’ve got my tooth back, I can eat anything I like again.  I would recommend The Dental Hub Implant Centre to anyone with a missing or failing tooth – they’re amazing....</div>
-            <div class="review-item-name">Prasad</div>
+            <div class="review-item-text">Now I've got my tooth back, I can eat anything I like again.  I would recommend The Dental Hub Implant Centre to anyone with a missing or failing tooth - they're amazing....</div>
+            <div class="review-item-name">John</div>
             <div class="review-item-quote"><img src="assets/images/quote.png" alt="" /></div>
           </div>
           
           <!-- REVIEW ITEM -->
           <div class="review-item">
-            <div class="review-item-text">“I previously had a very bad dental experience 10 years ago to point where I was making my own temporaries... Now, I looked all over the world except USA as it was too expensive.</div>
-            <div class="review-item-name">Srinivasa</div>
+            <div class="review-item-text">"I previously had a very bad dental experience 10 years ago to point where I was making my own temporaries... Now, I looked all over the world except USA as it was too expensive.</div>
+            <div class="review-item-name">Robert</div>
             <div class="review-item-quote"><img src="assets/images/quote.png" alt="" /></div>
           </div>
         </div>
