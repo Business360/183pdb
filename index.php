@@ -31,63 +31,23 @@
 	HEADER SLIDER
 	==============
 -->
-<div id="slider" class="slider hidden-xs">
-	<div class="sp-slides"> 
-	
-		<!-- HEADER SLIDER ITEM -->
-		<div class="sp-slide">
-			<img class="sp-image" alt="" data-src="assets/images/slider/slide_01.jpg"/>
-			<div class="container">
-				<h2 class="sp-layer slider-subtitle" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>FREE WINZ QUOTE</b> </h2>
-				<h2 class="sp-layer slider-subtitle" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>FREE ACC TREATMENTS</b> </h2>
-				<h2 class="sp-layer slider-subtitle" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>Free INITIAL CONSULTATION</b> </h2>
-				<h2 class="sp-layer slider-subtitle" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>FREE TREATMENT UNDER 18</b> </h2><br>
-				<h1 class="sp-layer slider-title" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="0" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="200" data-hide-delay="200">OPEN <span style="font-size:10rem;">7</span> DAYS</h1>
+<div class="col-md-12">
+<div id="slider1_container">
+				<!-- Slides Container -->
+				<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1350px; height: 470px;">
+					<div>
+							<img data-u="image" src="assets/images/slider/slide01.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/slider/slide02.jpg" />
+					</div>
+					<div>
+							<img data-u="image" src="assets/images/slider/slide03.png" />
+					</div>
+					
+				</div>
 			</div>
-		</div>
-	
-		<!-- HEADER SLIDER ITEM -->
-		<div class="sp-slide">
-			<div class="container">
-				<h2 class="sp-layer slider-subtitle" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>FREE WINZ QUOTE</b> </h2>
-				<h2 class="sp-layer slider-subtitle" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>FREE ACC TREATMENTS</b> </h2>
-				<h2 class="sp-layer slider-subtitle" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>Free INITIAL CONSULTATION</b> </h2>
-				<h2 class="sp-layer slider-subtitle" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="400" data-hide-delay="400"> <b>FREE TREATMENT UNDER 18</b> </h2><br>
-				<h1 class="sp-layer slider-title" 
-									data-position="leftCenter" data-horizontal="15" data-vertical="0" 
-									data-show-transition="left" data-hide-transition="left"
-									data-show-delay="200" data-hide-delay="200">OPEN <span style="font-size:10rem;">7</span> DAYS</h1>
 			</div>
-		</div>
-	</div>
-</div>
 <!--
 	=================
 	END HEADER SLIDER
@@ -163,10 +123,10 @@
 	<div class="row">
 
 		<!-- Clinic Gallery -->
-		<div class="col-md-6">
+		<div class="col-md-3">
 			<h3 class="text-center">Our Clinic</h3>
 			<!-- Jssor Slider Begin -->
-			<div id="slider1_container">
+			<div id="slider2_container">
 				<!-- Slides Container -->
 				<div data-u="slides" style="position: relative; left: 0px; top: 50px; width:570px; height: 443px; overflow: hidden;">
 					<div>
