@@ -119,7 +119,9 @@
 		</div>
 	</div>
 
-	<div class="map" id="map"> </div>
+	<div> 
+		<iframe src="https://www.google.com/maps/embed?pb=!4v1528377493643!6m8!1m7!1sCAoSLEFGMVFpcE9uOXFPVVI1X0Y5SGt0OTVMelpkVmpCaXR0Q2Q2TEJvNE1TWU5p!2m2!1d-36.89433970873991!2d174.6961703966633!3f0!4f0!5f0.7820865974627469" width="100%" height="650" frameborder="0" style="border:0" allowfullscreen></iframe>
+	</div>
 	<!-- End: Main Section -->
 
 	<?php
