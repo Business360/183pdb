@@ -32,13 +32,17 @@ jQuery(document).ready(function ($) {
 	};
 
 	var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+	var jssor_slider2 = new $JssorSlider$("slider2_container", options);
 
 	//responsive code begin
 	//you can remove responsive code if you don't want the slider scales while window resizing
 	function ScaleSlider() {
 		var parentWidth = jssor_slider1.$Elmt.parentNode.clientWidth;
-		if (parentWidth) {
+		var parentWidth1 = jssor_slider2.$Elmt.parentNode.clientWidth;
+		
+		if (parentWidth || parentWidth1) {
 			jssor_slider1.$ScaleWidth(parentWidth - 30);
+			jssor_slider2.$ScaleWidth(parentWidth1 - 30);
 		}
 		else
 			window.setTimeout(ScaleSlider, 30);
