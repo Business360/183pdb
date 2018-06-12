@@ -31,10 +31,10 @@
 	HEADER SLIDER
 	==============
 -->
-<div class="col-md-12">
+<div class="col-md-12 row">
 	<div id="slider1_container">
 		<!-- Slides Container -->
-		<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1350px; height: 470px; overflow: hidden;">
+		<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1460px; height: 715px; overflow: hidden;">
 			<div>
 				<img data-u="image" src="assets/images/slider/slide01.jpg" />
 			</div>
