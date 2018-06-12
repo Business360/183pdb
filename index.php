@@ -114,18 +114,15 @@
 	=======
 -->
 <div class="doctors">
-  <div class="container">
+		<div class="full-container" style="padding:0px 40px;">
     <div class="row">
-      
-	<div class="row">
-
 		<!-- Clinic Gallery -->
 		<div class="col-md-3">
 			<h3 class="text-center">Our Clinic</h3>
 			<!-- Jssor Slider Begin -->
 			<div id="slider2_container">
 				<!-- Slides Container -->
-				<div data-u="slides" style="position: relative; left: 0px; top: 45px; width:300px; height: 443px; overflow: hidden;">
+						<div data-u="slides" style="position: relative; left: 0px; top: 45px; width:350px; height: 300px; overflow: hidden;">
 					<div>
 							<img data-u="image" src="assets/images/gallery/gallery-thumbnail1.jpg" />
 					</div>
