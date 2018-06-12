@@ -27,7 +27,7 @@
 					
 					<!-- FOOTER ITEM 1 -->
 					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-1">
-						<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
+						<h3 class="footer-title"><i class="fa fa-map-marker"></i> SITE MAP</h3>
 						<ul class="footer-nav">
 							<li><a href="index.php">Home</a></li>
 							<li><a href="services.php">Services</a></li>
@@ -36,6 +36,8 @@
 							<li><a href="blog.php">Blog</a></li>
 							<li><a href="gallery.php">Gallery</a></li>
 							<li><a href="contact.php">Contact Us</a></li>
+							<li><a href="legals.php">Privacy Policy</a></li>
+							<li><a href="legals.php">Terms of Service</a></li>
 						</ul>
 					</div>
 					  
