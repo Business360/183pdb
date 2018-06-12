@@ -31,7 +31,7 @@
 	HEADER SLIDER
 	==============
 -->
-<div class="col-md-12 row">
+<div class="col-md-12 row hidden-xs">
 	<div id="slider1_container">
 		<!-- Slides Container -->
 		<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1460px; height: 715px; overflow: hidden;">
