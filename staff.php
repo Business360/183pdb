@@ -70,7 +70,7 @@
                     </div>
                     <div class="doctors-text-doctor">
                         <img src="assets/images/staff/nikita.jpg" alt="" />
-                        <div class="doctors-text-doctor-name">Dr. Nikita Verma</div>
+                        <div class="doctors-text-doctor-name">Dr. Nikita</div>
                         <div class="doctors-text-doctor-position">Principal Dentist</div>
                     </div>
                     
