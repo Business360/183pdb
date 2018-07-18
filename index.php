@@ -100,8 +100,8 @@
 		</div><br>
 		<h4>73A Rosebank Road, Behind Subway</h4>
 		<h4>Avondale , Auckland 1026</h4><br><br>
-	</div>
-</div></a>
+	</div></a>
+</div>
 <!-- 
 	============
 	END SERVICES
