@@ -249,6 +249,10 @@ ul.footer-nav {
     background-color: transparent !important;
 }
 
+.map {
+	height: 557px !important;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .top-bar {
