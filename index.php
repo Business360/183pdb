@@ -117,45 +117,9 @@
 		<div class="full-container" style="padding:0px 40px;">
 			<div class="row">
 				<!-- Clinic Gallery -->
-				<div class="col-md-3">
+				<div class="col-md-5">
 					<h3 class="text-center">Our Clinic</h3>
-					<!-- Jssor Slider Begin -->
-					<div id="slider2_container">
-						<!-- Slides Container -->
-						<div data-u="slides" style="position: relative; left: 0px; top: 45px; width:350px; height: 300px; overflow: hidden;">
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail1.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail2.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail3.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail4.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail5.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail6.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail7.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail8.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail9.jpg" />
-							</div>
-							<div>
-									<img data-u="image" src="assets/images/gallery/gallery-thumbnail10.jpg" />
-							</div>
-						</div>
-					</div>
-						<!-- Jssor Slider End -->
+					<iframe class="youtube" src="https://www.youtube.com/embed/tK0eMgAUfBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				</div>
 
 				<!-- Partners ITEM -->
@@ -170,7 +134,7 @@
 				</div>
 
 				<!-- Partners ITEM -->
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<h3>Fastbraces Master</h3>
 					<h3>Provider</h3>
 					<div class="partners-item-image"> 
@@ -180,7 +144,7 @@
 				</div>
 
 				<!-- Partners ITEM -->
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<h3>Philips Zoom Teeth</h3>
 					<h3>Whitening</h3>
 					<div class="partners-item-image"> 
