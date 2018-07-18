@@ -252,6 +252,11 @@ ul.footer-nav {
 .map {
 	height: 557px !important;
 }
+.youtube{
+	width: 510px !important;
+    height: 453px !important;
+    padding-top: 10px !important;
+}
 
 /* Responsive */
 @media (max-width: 768px) {
