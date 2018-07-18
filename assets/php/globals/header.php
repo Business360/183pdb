@@ -132,9 +132,6 @@
 			<a href="staff.php">Our Staff</a>
           </li>
           <li class="dropdown">
-			<a href="blog.php">Blog</a>
-          </li>
-          <li class="dropdown">
 			<a href="gallery.php">Gallery</a>
           </li>
           <li>
