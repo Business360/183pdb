@@ -67,6 +67,7 @@
                     <div class="doctors-text-left">
                     <p>Nikita works on her philosophy of "Treating you as you would like to be treated" and has hands-on knowledge and experience in every department of dentistry. Her kind and welcoming nature seeks to build relationships with patients and make them feel like a family.</p>
                     <p>She did her BDS from Gujarat University (India), and practiced as a general dentist for 2 years before migrating to New Zealand. She holds memberships with New Zealand Dental Association and Auckland Dental Association and acts as an active participant in seminars and conferences to enhance and upgrade her skills.</p>
+                    <img src="assets/images/partners/fastbraces.png" style="float: right;" />
                     </div>
                     <div class="doctors-text-doctor">
                         <img src="assets/images/staff/nikita.jpg" alt="" />
