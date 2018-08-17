@@ -219,7 +219,7 @@
 	  </h2>
     </div>
   </div>
-  <img src="assets/images/payment_methods/hero_e.png" alt="">
+  <img src="assets/images/payment_methods/hero.jpg" alt="">
 </div>
 
 <!-- 

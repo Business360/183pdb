@@ -517,7 +517,7 @@ frame {
 .top-bar {
   background: #f1f8f9;
   font-size: 13px;
-  /*padding: 12px 0;*/
+  padding: 12px 0;
 }
 .top-bar i {
   color: #acb8bc;
