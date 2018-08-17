@@ -37,10 +37,10 @@
 		<span class="slider_span">We’ll get back in touch with you as soon as we can!</span><br>
 		<span class="slider_span">For more info</span><br>
 		<span class="slider_span">call on 09 218 7777</span>
-		<form method="post" name="slider_form">
+		<form action="assets/php/modules/slider_form/index.php" method="post" name="slider_form">
 			<div class="slider_form_content">
 				<input type="text" name="name" id="name" required="" placeholder="Enter your name" />
-				<input type="text" name="phone" id="phone" required="" placeholder="Enter your phone" />
+				<input type="text" name="phone" id="phone" required="" placeholder="Enter your phone" minlength="10" maxlength="11" onKeyPress="return isNumber(event)"/>
 				<input type="email" name="email" id="email" required="" placeholder="Enter your email" /><br>
 				<textarea name="message" id="message" required="" placeholder="Enter your message" rows="4"></textarea>
 				<input type="submit" name="slider_form_submit" class="slider_btn btn btn-primary" />

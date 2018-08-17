@@ -24,10 +24,12 @@
     width: 100%;
     padding: 8px;
     margin-bottom: 5px;
+    color: #000;
 }
 
 .slider_btn{
     width: 50% !important;
+    color: #fff !important;
 }
 
 .section-title {
