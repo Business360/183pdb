@@ -32,27 +32,26 @@
 	==============
 -->
 <div class="row slider_main_div" >
-	<div class="col-md-4 slider_form">
-		<h2>GET IN TOUCH WITH US TODAY!</h2>
+	<div class="col-md-3 slider_form">
+		<h3>GET IN TOUCH WITH US TODAY!</h3>
 		<span class="slider_span">We’ll get back in touch with you as soon as we can!</span><br>
-		<span class="slider_span">For more info just give us a call on 09 218 7777</span>
+		<span class="slider_span">For more info</span><br>
+		<span class="slider_span">call on 09 218 7777</span>
 		<form method="post" name="slider_form">
 			<div class="slider_form_content">
-				<label>Name *</label>
 				<input type="text" name="name" id="name" required="" placeholder="Enter your name" />
-				<label>Phone *</label>
 				<input type="text" name="phone" id="phone" required="" placeholder="Enter your phone" />
-				<label>Email *</label>
 				<input type="email" name="email" id="email" required="" placeholder="Enter your email" /><br>
+				<textarea name="message" id="message" required="" placeholder="Enter your message" rows="4"></textarea>
 				<input type="submit" name="slider_form_submit" class="slider_btn btn btn-primary" />
 			</div>
 		</form>
 	</div>
 	<!-- col 4 close -->
-	<div class="col-md-8 hidden-xs">
+	<div class="col-md-9">
 		<div id="slider1_container">
 			<!-- Slides Container -->
-			<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:950px; height: 500px; overflow: hidden;">
+			<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1100px; height: 500px; overflow: hidden;">
 				<div>
 					<img data-u="image" src="assets/images/slider/slide01.jpg" />
 				</div>

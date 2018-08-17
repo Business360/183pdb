@@ -6,7 +6,7 @@
 }
 
 .slider_span{
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .slider_main_div{
@@ -16,19 +16,18 @@
 }
 
 .slider_form_content{
-    text-align: left;
+    text-align: center;
     padding-top: 30px;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
-.slider_form_content input{
+.slider_form_content input , .slider_form_content textarea {
     width: 100%;
     padding: 8px;
+    margin-bottom: 5px;
 }
 
 .slider_btn{
-    margin-top: 20px;
+    width: 50% !important;
 }
 
 .section-title {
