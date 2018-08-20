@@ -173,8 +173,28 @@ ul.footer-nav {
     .bg-child-4 {
         margin-top: 30px;
     }
+
+    .fbvideo{
+        width: 95% !important;
+        padding:10px !important;
+    }
 }
 
 .top-menu .navbar-nav li a{
     padding-right:10px !important;
 }
+
+.fastbraces-text{
+    color: #fff !important;
+    background-color: #235f6f !important;
+    padding: 10px !important;
+}
+
+@media (min-width: 768px) {
+
+    .fbvideo{
+        width: 48% !important;
+        padding:10px !important;
+        position: relative;
+    }
+}    

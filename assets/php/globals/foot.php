@@ -49,6 +49,9 @@
 <!-- CUSTOM SCRIPT --> 
 <script src="assets/js/theme.js"></script>
 
+<!-- CUSTOM SCRIPT --> 
+<script src="assets/js/custom.js"></script>
+
 <!-- GOOGLE MAPS --> 
 <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC1N87a_NHjocaepKKcovPAYTMUkJBr9pQ&amp;language=en&amp;sensor=true"></script>
 
