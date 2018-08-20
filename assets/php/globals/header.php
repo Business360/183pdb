@@ -140,6 +140,10 @@
           <li>
 			<a href="appointments.php">Make an Appointment</a>
 		  </li>
+		  <li>
+			<a href="fastbraces.php">Fastbraces</a>
+		  </li>
+          
           <li>
 			<a href="payments.php">Payment Options</a>
 		  </li>

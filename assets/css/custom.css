@@ -174,3 +174,7 @@ ul.footer-nav {
         margin-top: 30px;
     }
 }
+
+.top-menu .navbar-nav li a{
+    padding-right:10px !important;
+}
