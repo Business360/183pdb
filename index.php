@@ -34,7 +34,7 @@
 <div class="row slider_main_div" >
 	<div class="col-md-3 slider_form">
 		<h3>GET IN TOUCH WITH US TODAY!</h3>
-		<span class="slider_span">We’ll get back in touch with you as soon as we can!</span><br>
+		<span class="slider_span">We'll get back in touch with you as soon as we can!</span><br>
 		<span class="slider_span">For more info</span><br>
 		<span class="slider_span">call on 09 218 7777</span>
 		<form action="assets/php/modules/slider_form/index.php" method="post" name="slider_form">
