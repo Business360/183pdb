@@ -186,8 +186,9 @@ ul.footer-nav {
 
 .fastbraces-text{
     color: #fff !important;
-    background-color: #235f6f !important;
+    background-color: #585c6454 !important;
     padding: 10px !important;
+    font-size: 20px !important;
 }
 
 @media (min-width: 768px) {

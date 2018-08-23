@@ -40,10 +40,10 @@
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 history-images" style="padding:0px;">
        
 	      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align: center; margin-top:150px;position: absolute;">
-	      <section id="fbtext1" class="js-animate"><p class="fastbraces-p"><a href="#what-fastbraces" class="fastbraces-text">What is Fastbraces<sup>&reg;</sup> ?</a></p></section>
-							<section id="fbtext2" class="js-animate"><p class="fastbraces-p"><a href="#how-fastbraces" class="fastbraces-text">How Fastbraces Works<sup>&reg;</sup> ?</a></p></section>
-							<section id="fbtext3" class="js-animate"><p class="fastbraces-p"><a href="servcies.php" class="fastbraces-text">We are the master providers</a></p></section>
-							<section id="fbtext4" class="js-animate"><p class="fastbraces-p"><a href="appointments.php" class="fastbraces-text">Book An Appointment</a></p></section>
+	      <section id="fbtext1" class="js-animate animated  zoomIn delay-10s"><p class="fastbraces-p"><a href="#what-fastbraces" class="fastbraces-text">What is Fastbraces<sup>&reg;</sup> ?</a></p></section>
+							<section id="fbtext2" class="js-animate animated  zoomIn delay-10s"><p class="fastbraces-p"><a href="#how-fastbraces" class="fastbraces-text">How Fastbraces Works<sup>&reg;</sup> ?</a></p></section>
+							<section id="fbtext3" class="js-animate animated  zoomIn delay-10s"><p class="fastbraces-p"><a href="staff.php#Nikita" class="fastbraces-text">Our Licensed Master Provider Dentist</a></p></section>
+							<section id="fbtext4" class="js-animate animated  zoomIn delay-10s"><p class="fastbraces-p"><a href="appointments.php" class="fastbraces-text">Book An Appointment</a></p></section>
 						</div>
 						<img src="assets/images/fastbraces/bg-img.png" style="height:100vh;width:100%;" alt="" /> 
 	  </div>
@@ -58,7 +58,7 @@
 																				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 																					<div>
 																					<iframe height="315" class="fbvideo" src="https://www.youtube.com/embed/6XofjZuBd_Y" frameborder="0" allowfullscreen></iframe>
-																					<iframe height="315" class="fbvideo" src="https://www.youtube.com/embed/XNiF5prjVz4" frameborder="0" allowfullscreen></iframe>
+																					<iframe height="315" class="fbvideo" src="https://www.youtube.com/embed/2ekgLEkfhT8" frameborder="0" allowfullscreen></iframe>
 																					</div>	
 																				</div><br/>
 																			 <hr>
