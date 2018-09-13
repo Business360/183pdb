@@ -172,6 +172,28 @@
 .payment-options .section-title {
     margin-bottom: 40px;
 }
+
+/* Staff Section */
+.single-staff-panel {
+    margin-bottom: 60px;
+}
+
+.doctors-text-doctor img {
+    max-width: 100%;
+    padding-bottom: 20px;
+}
+
+.doctors-text-left {
+    float: left;
+    width: 67%;
+    margin-right: 3%;
+}
+
+.doctors-text-right {
+    float: left;
+    width: 67%;
+    margin-left: 3%;
+}  
 ul.footer-nav {
     padding-left: 0px;
     list-style: none;
