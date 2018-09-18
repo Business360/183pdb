@@ -8,7 +8,7 @@
 
 	<?php
 		// Including header file
-		include("assets/php/globals/header.php"); 
+		include("assets/php/globals/header.php");
 	?>
 	 <!-- Start: Main Section -->
     <div class="page-title page-title-about bg-pattern" data-bgcolor="5295BD">
