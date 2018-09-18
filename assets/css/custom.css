@@ -1,4 +1,36 @@
 /* Custom CSS */
+.slider_form{
+    padding: 18px;
+    color: #fff;
+    text-align: center;
+}
+
+.slider_span{
+    font-size: 13px;
+}
+
+.slider_main_div{
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: gray;
+}
+
+.slider_form_content{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.slider_form_content input , .slider_form_content textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+    color: #000;
+}
+
+.slider_btn{
+    width: 50% !important;
+    color: #fff !important;
+}
 
 .section-title {
     margin-bottom:80px;

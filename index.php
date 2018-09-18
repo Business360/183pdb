@@ -31,22 +31,41 @@
 	HEADER SLIDER
 	==============
 -->
-<div class="col-md-12 row hidden-xs">
-	<div id="slider1_container">
-		<!-- Slides Container -->
-		<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1460px; height: 715px; overflow: hidden;">
-			<div>
-				<img data-u="image" src="assets/images/slider/slide01.jpg" />
+<div class="row slider_main_div" >
+	<div class="col-md-3 slider_form">
+		<h3>GET IN TOUCH WITH US TODAY!</h3>
+		<span class="slider_span">We'll get back in touch with you as soon as we can!</span><br>
+		<span class="slider_span">For more info</span><br>
+		<span class="slider_span">call on 09 218 7777</span>
+		<form action="assets/php/modules/slider_form/index.php" method="post" name="slider_form">
+			<div class="slider_form_content">
+				<input type="text" name="name" id="name" required="" placeholder="Enter your name" />
+				<input type="text" name="phone" id="phone" required="" placeholder="Enter your phone" minlength="10" maxlength="11" onKeyPress="return isNumber(event)"/>
+				<input type="email" name="email" id="email" required="" placeholder="Enter your email" /><br>
+				<textarea name="message" id="message" required="" placeholder="Enter your message" rows="4"></textarea>
+				<input type="submit" name="slider_form_submit" class="slider_btn btn btn-primary" />
 			</div>
-			<div>
-				<img data-u="image" src="assets/images/slider/slide02.jpg" />
+		</form>
+	</div>
+	<!-- col 4 close -->
+	<div class="col-md-9">
+		<div id="slider1_container">
+			<!-- Slides Container -->
+			<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1100px; height: 500px; overflow: hidden;">
+				<div>
+					<img data-u="image" src="assets/images/slider/slide01.jpg" />
+				</div>
+				<div>
+					<img data-u="image" src="assets/images/slider/slide02.jpg" />
+				</div>
+				<div>
+					<img data-u="image" src="assets/images/slider/slide03.png" />
+				</div>
+				
 			</div>
-			<div>
-				<img data-u="image" src="assets/images/slider/slide03.png" />
-			</div>
-			
 		</div>
 	</div>
+	<!-- col 8 close -->
 </div>
 <!--
 	=================
@@ -219,7 +238,7 @@
 	  </h2>
     </div>
   </div>
-  <img src="assets/images/payment_methods/hero.jpg" alt="">
+  <img src="assets/images/payment_methods/hero_e.png" alt="">
 </div>
 
 <!-- 
