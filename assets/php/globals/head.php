@@ -32,6 +32,7 @@ include("assets/php/config.php");
 <link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/plugins/flaticons/flaticon.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/plugins/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/animate.css" />
 <!-- End: Common Files -->
 
 <!--
