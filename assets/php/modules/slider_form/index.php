@@ -17,9 +17,9 @@
   $information .= "Phone: " . $_POST['phone'] . "\n";
   $information .= "Email: " . $_POST['email'] . "\n";
   $information .= "Message: \n" . $_POST['message'];
-  $header = 'From:'. $_POST['email'];
+  // $header = 'From:'. $_POST['email'];
  
-  if(mail($to, $subject, $information, $header)){
+  if(mail($to, $subject, $information)){
   	echo "<script>alert('Submitted Successfully');window.location='../../../../index.php';</script>";
   }else{
   	echo "<script>alert('Failed to Submit! Try Again');window.location='../../../../index.php';</script>";
