@@ -6,8 +6,8 @@
 
 .header-logo img {
     width: auto;
-    height: 370px;
-    top: -105px;
+    height: 120px;
+    top: -10px;
     left: -130px;
 }
 
@@ -135,9 +135,9 @@ ul.footer-nav {
     }
 
     .header-logo img {
-        height: 200px !important;
+        height: 80px !important;
         top: -266px;
-        left: -20px !important;
+        left: -30px !important;
         margin-bottom: -420px !important;
         margin-top: 40px;
     }
@@ -177,4 +177,10 @@ ul.footer-nav {
 
 .top-menu .navbar-nav li a{
     padding-right:10px !important;
+}
+
+.header .navbar-nav li a:hover,
+.header .navbar-nav li a:focus {
+  background: #235f6f;
+  color: #fff;
 }

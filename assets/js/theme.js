@@ -3,11 +3,14 @@
 /* Fix the position of an element when it is about to be scrolled off-screen */
 function smartPosition(obj) {
 	jQuery(window).scroll(function() {
+
 		// Detect if content is being scroll offscreen.
 		if ( (document.documentElement.scrollTop || document.body.scrollTop) >= jQuery(obj).offset().top - (0)) {
 			jQuery('body').addClass('smartposition');
+			
 		} else {
 			jQuery('body').removeClass('smartposition');
+
 		}
 	});
 };
@@ -494,7 +497,7 @@ jQuery(document).ready(function($){
 		}
 	});
 	*/
-	
+				
 	$('<div id="smartposition"></div>').insertBefore('#top-menu');
 	smartPosition('#smartposition');	
 	
