@@ -55,6 +55,12 @@
 						<a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">
 							<i class="fa fa-google"></i>
 						</a>
+						<a href="#" target="_blank">
+							<i class="fa fa-instagram"></i>
+						</a>
+						<a href="#" target="_blank">
+							<i class="fa fa-linkedin"></i>
+						</a>
 					</div>
 					<div class="top-bar-search col-xs-12 col-sm-8">
 					<script>
