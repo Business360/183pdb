@@ -17,6 +17,7 @@ include("assets/php/config.php");
 <!-- Start: Meta Tags -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- End: Meta Tags -->
+<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
 
 <!-- Start: Common Files -->
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800,800italic,700italic,600italic,400italic,300italic" />
