@@ -91,23 +91,25 @@
 	</div>
 	
 	<!-- SERVICES ITEM -->
-	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service" style="background-color:#095c83;">
-		<div class="service-icon"> <i class="flaticon-medical-1"></i> </div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service" style="background-color:#095c83;">
+		<a href="services.php" style="color:#fff;" >
+	<div class="service-icon"> <i class="flaticon-medical-1"></i> </div>
 		<div class="service-title">
 			<h2>Services</h2>
 		</div><br>
 		<h4>At The Dental Hub, we offer amenities and</h4>
-		<h4>services not easily available in Auckland city</h4>
+		<h4>services not easily available in Auckland city</h4></a>
 	</div>
   
 	<!-- SERVICES ITEM -->
-	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-2">
-		<div class="service-icon"> <i class="fa fa-clock-o"></i> </div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-2">
+		<a href="contact.php" style="color:#fff;">	
+	<div class="service-icon"> <i class="fa fa-clock-o"></i> </div>
 		<div class="service-title">
 			<h2>Business Hours</h2>
 		</div><br>
 		<h4>Monday - Saturday : 9:00 AM - 5:00 PM</h4>
-		<h4>Sunday: 10:00 AM - 3:00 PM</h4><br>
+		<h4>Sunday: 10:00 AM - 3:00 PM</h4><br></a>
 	</div>
 	
 	<!-- SERVICES ITEM -->
@@ -194,7 +196,7 @@
         </span>
       </h2>
       <div class="review-container">
-        <div class="owl-review" id="owl-review"> 
+        <div class="owl-review" id="owl-review2"> 
           
           <!-- REVIEW ITEM -->
           <div class="review-item">
