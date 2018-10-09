@@ -4,6 +4,13 @@
 	// Including head file
 	include("assets/php/globals/head.php");
 ?>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" media="all">
+
+
+        <!-- Bootstrap bootstrap-touch-slider Slider Main Style Sheet -->
+        <link href="assets/css/bootstrap-touch-slider.css" rel="stylesheet" media="all">
+
 <body>
 
 	<?php
@@ -49,21 +56,89 @@
 	</div>
 	<!-- col 4 close -->
 	<div class="col-md-9">
-		<div id="slider1_container">
-			<!-- Slides Container -->
-			<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1100px; height: 500px; overflow: hidden;">
-				<div>
-					<img data-u="image" src="assets/images/slider/slide01.jpg" />
-				</div>
-				<div>
-					<img data-u="image" src="assets/images/slider/slide02.jpg" />
-				</div>
-				<div>
-					<img data-u="image" src="assets/images/slider/slide03.png" />
-				</div>
-				
-			</div>
-		</div>
+		
+  <div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line" data-ride="carousel" data-pause="hover" data-interval="false" >
+
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper For Slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <!-- Third Slide -->
+                <div class="item active">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/slide01.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+
+                    <div class="container">
+                        <div class="row">
+                            <!-- Slide Text Layer -->
+                            <div class="slide-text slide_style_left">
+                                <h1 data-animation="animated zoomInRight">Bootstrap Carousel</h1>
+                                <p data-animation="animated fadeInLeft">Bootstrap carousel now touch enable slide.</p>
+                                <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">select one</a>
+                                <a href="#" target="_blank"  class="btn btn-primary" data-animation="animated fadeInRight">select two</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+
+                <!-- Second Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/slide02.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated flipInX">Bootstrap touch slider</h1>
+                        <p data-animation="animated lightSpeedIn">Make Bootstrap Better together.</p>
+                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInUp">select one</a>
+                        <a href="#" target="_blank"  class="btn btn-primary" data-animation="animated fadeInDown">select two</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+
+                <!-- Third Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/slide03.png" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_right">
+                        <h1 data-animation="animated zoomInLeft">Beautiful Animations</h1>
+                        <p data-animation="animated fadeInRight">Lots of css3 Animations to make slide beautiful .</p>
+                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">select one</a>
+                        <a href="#" target="_blank" class="btn btn-primary" data-animation="animated fadeInRight">select two</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+
+
+            </div><!-- End of Wrapper For Slides -->
+
+            <!-- Left Control -->
+            <a class="left carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="prev">
+                <span class="fa fa-angle-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+
+            <!-- Right Control -->
+            <a class="right carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="next">
+                <span class="fa fa-angle-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+
+        </div> <!-- End  bootstrap-touch-slider Slider -->
+
 	</div>
 	<!-- col 8 close -->
 </div>
@@ -260,5 +335,17 @@
 		// Including foot file
 		include("assets/php/globals/foot.php");
 	?>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"></script>
+        
+
+        <!-- Bootstrap bootstrap-touch-slider Slider Main JS File -->
+        <script src="assets/js/bootstrap-touch-slider.js"></script>
+        
+        <script type="text/javascript">
+            $('#bootstrap-touch-slider').bsTouchSlider();
+        </script>
+
 </body>
 </html>
