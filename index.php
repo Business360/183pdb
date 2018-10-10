@@ -221,38 +221,38 @@
 	</div>
 	
 	<!-- SERVICES ITEM -->
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service" style="background-color:#095c83;">
-		<a href="services.php" style="color:#fff;" >
-	<div class="service-icon"> <i class="flaticon-medical-1"></i> </div>
+		<a href="services.php" class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service" style="color:#fff;background-color:#095c83;" >
+		<div>
+		<div class="service-icon"> <i class="flaticon-medical-1"></i> </div>
 		<div class="service-title">
 			<h2>Services</h2>
 		</div><br>
 		<h4>At The Dental Hub, we offer amenities and</h4>
-		<h4>services not easily available in Auckland city</h4></a>
-	</div>
+		<h4>services not easily available in Auckland city</h4>
+	</div></a>
   
 	<!-- SERVICES ITEM -->
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-2">
-		<a href="contact.php" style="color:#fff;">	
+		<a href="contact.php" class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-2" style="color:#fff;"><div  >
+			
 	<div class="service-icon"> <i class="fa fa-clock-o"></i> </div>
 		<div class="service-title">
 			<h2>Business Hours</h2>
 		</div><br>
 		<h4>Monday - Saturday : 9:00 AM - 5:00 PM</h4>
-		<h4>Sunday: 10:00 AM - 3:00 PM</h4><br></a>
-	</div>
+		<h4>Sunday: 10:00 AM - 3:00 PM</h4><br>
+	</div></a>
 	
 	<!-- SERVICES ITEM -->
-	<a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank" style="color:#fff;">
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3">
+	<a href="https://goo.gl/maps/VsSM4uHKyGS2"  class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3" target="_blank" style="color:#fff;">
+		<div>
 		<div class="service-icon"> <i class="fa fa-map-marker"></i> </div>
 		<div class="service-title">
 			<h2>Location</h2>
 		</div><br>
 		<h4>73A Rosebank Road, Behind Subway</h4>
 		<h4>Avondale , Auckland 1026</h4><br><br>
-	</div></a>
-</div>
+	</div>
+</div></a>
 <!-- 
 	============
 	END SERVICES
