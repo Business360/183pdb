@@ -572,9 +572,9 @@ $(document).ready(function() {
 	$(window).scroll(function() {
 		var windowpos = $(window).scrollTop();
 		if (windowpos >= pos.top & windowpos <=10) {
-			s.addClass("navbar-fixed-top");
+			s.removeClass("navbar-fixed-top");
 		} else {
-			s.removeClass("navbar-fixed-top");	
+			s.addClass("navbar-fixed-top");	
 		}
 	});
 });
