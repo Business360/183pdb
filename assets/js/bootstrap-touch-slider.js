@@ -27,7 +27,10 @@
             //Variables on page load
             var $firstAnimatingElems = carousel.find( '.item:first' ).find( "[data-animation ^= 'animated']" );
             //Initialize carousel
-            carousel.carousel( );
+            carousel.carousel({
+              interval: 10000,
+              cycle: true
+            });
             //Animate captions in first slide on page load
             doAnimations( $firstAnimatingElems );
             //Other slides to be animated on carousel slide event
