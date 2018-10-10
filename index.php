@@ -39,7 +39,7 @@
 	==============
 -->
 <div class="row slider_main_div" >
-	<div class="col-md-3 slider_form">
+	<div class="col-md-3 slider_form" style="line-height:35px;margin-top:20px;">
 		<h3>GET IN TOUCH WITH US TODAY!</h3>
 		<span class="slider_span">We'll get back in touch with you as soon as we can!</span><br>
 		<span class="slider_span">For more info</span><br>
@@ -55,7 +55,7 @@
 		</form>
 	</div>
 	<!-- col 4 close -->
-	<div class="col-md-9">
+	<div class="col-md-9" style="padding:0px;">
 		
   <div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line" data-ride="carousel" data-pause="hover" data-interval="false" >
 
@@ -64,6 +64,9 @@
                 <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
                 <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
                 <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="3"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="4"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="5"></li>
             </ol>
 
             <!-- Wrapper For Slides -->
@@ -73,17 +76,17 @@
                 <div class="item active">
 
                     <!-- Slide Background -->
-                    <img src="assets/images/slider/slide01.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <img src="assets/images/slider/01.jpg" alt=""  class="slide-image"/>
                     <div class="bs-slider-overlay"></div>
 
                     <div class="container">
                         <div class="row">
                             <!-- Slide Text Layer -->
-                            <div class="slide-text slide_style_left">
-                                <h1 data-animation="animated zoomInRight">Bootstrap Carousel</h1>
-                                <p data-animation="animated fadeInLeft">Bootstrap carousel now touch enable slide.</p>
-                                <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">select one</a>
-                                <a href="#" target="_blank"  class="btn btn-primary" data-animation="animated fadeInRight">select two</a>
+                            <div class="slide-text slide_style_right">
+                                <h1 data-animation="animated zoomInRight">The Dental Hub</h1>
+                                <p data-animation="animated fadeInLeft">Quality Dentistry at Affordable Price</p>
+                                <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
+                                <a href="#" target="_blank"  class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -94,14 +97,14 @@
                 <div class="item">
 
                     <!-- Slide Background -->
-                    <img src="assets/images/slider/slide02.jpg" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <img src="assets/images/slider/02.jpg" alt=""  class="slide-image"/>
                     <div class="bs-slider-overlay"></div>
                     <!-- Slide Text Layer -->
-                    <div class="slide-text slide_style_center">
-                        <h1 data-animation="animated flipInX">Bootstrap touch slider</h1>
-                        <p data-animation="animated lightSpeedIn">Make Bootstrap Better together.</p>
-                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInUp">select one</a>
-                        <a href="#" target="_blank"  class="btn btn-primary" data-animation="animated fadeInDown">select two</a>
+                    <div class="slide-text slide_style_left">
+                        <h1 data-animation="animated flipInX">Straight Teeth</h1>
+                        <p data-animation="animated lightSpeedIn">Less Cost Less Time</p>
+                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInUp">Services</a>
+                        <a href="#" target="_blank"  class="btn btn-default" data-animation="animated fadeInDown">Appointment</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
@@ -110,18 +113,70 @@
                 <div class="item">
 
                     <!-- Slide Background -->
-                    <img src="assets/images/slider/slide03.png" alt="Bootstrap Touch Slider"  class="slide-image"/>
+                    <img src="assets/images/slider/03.jpg" alt=""  class="slide-image"/>
                     <div class="bs-slider-overlay"></div>
                     <!-- Slide Text Layer -->
                     <div class="slide-text slide_style_right">
-                        <h1 data-animation="animated zoomInLeft">Beautiful Animations</h1>
-                        <p data-animation="animated fadeInRight">Lots of css3 Animations to make slide beautiful .</p>
-                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">select one</a>
-                        <a href="#" target="_blank" class="btn btn-primary" data-animation="animated fadeInRight">select two</a>
+                        <h1 data-animation="animated zoomInLeft">The Gift</h1>
+                        <p data-animation="animated fadeInRight">of your most radiant smile.</p>
+                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
+                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+				
+				<div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/04.jpg" alt=""  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+
+                    <div class="container">
+                        <div class="row">
+                            <!-- Slide Text Layer -->
+                            <div class="slide-text slide_style_left">
+                                <h1 data-animation="animated zoomInRight">Philips Zoom</h1>
+                                <p data-animation="animated fadeInLeft"> Teeth Whitening in safest possible way.</p>
+                                <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
+                                <a href="#" target="_blank"  class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!-- End of Slide -->
 
+                <!-- Second Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/05.jpg" alt=""  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated flipInX">Emergency Dentist</h1>
+                        <p data-animation="animated lightSpeedIn">Professional Service<br><br> Fastbraces Master Provider</p>
+                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInUp">Services</a>
+                        <a href="#" target="_blank"  class="btn btn-default" data-animation="animated fadeInDown">Appointment</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+
+                <!-- Third Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/06.jpg" alt=""  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated zoomInLeft">The Dental Hub</h1>
+                        <p data-animation="animated fadeInRight">Opens 7 Days</p>
+                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
+                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+	
 
             </div><!-- End of Wrapper For Slides -->
 
