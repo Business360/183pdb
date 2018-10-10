@@ -85,8 +85,8 @@
                             <div class="slide-text slide_style_right">
                                 <h1 data-animation="animated zoomInRight">The Dental Hub</h1>
                                 <p data-animation="animated fadeInLeft">Quality Dentistry at Affordable Price</p>
-                                <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
-                                <a href="#" target="_blank"  class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                                <a href="services.php" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
+                                <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -103,8 +103,8 @@
                     <div class="slide-text slide_style_left">
                         <h1 data-animation="animated flipInX">Straight Teeth</h1>
                         <p data-animation="animated lightSpeedIn">Less Cost Less Time</p>
-                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInUp">Services</a>
-                        <a href="#" target="_blank"  class="btn btn-default" data-animation="animated fadeInDown">Appointment</a>
+                        <a href="services.php" class="btn btn-default" data-animation="animated fadeInUp">Services</a>
+                        <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInDown">Appointment</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
@@ -119,13 +119,13 @@
                     <div class="slide-text slide_style_right">
                         <h1 data-animation="animated zoomInLeft">The Gift</h1>
                         <p data-animation="animated fadeInRight">of your most radiant smile.</p>
-                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
-                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                        <a href="services.php" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
+                        <a href="appointments.php" class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
 				
-				<div class="item">
+																	<div class="item">
 
                     <!-- Slide Background -->
                     <img src="assets/images/slider/04.jpg" alt=""  class="slide-image"/>
@@ -137,8 +137,8 @@
                             <div class="slide-text slide_style_left">
                                 <h1 data-animation="animated zoomInRight">Philips Zoom</h1>
                                 <p data-animation="animated fadeInLeft"> Teeth Whitening in safest possible way.</p>
-                                <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
-                                <a href="#" target="_blank"  class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                                <a href="services.php" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
+                                <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -155,8 +155,8 @@
                     <div class="slide-text slide_style_center">
                         <h1 data-animation="animated flipInX">Emergency Dentist</h1>
                         <p data-animation="animated lightSpeedIn">Professional Service<br><br> Fastbraces Master Provider</p>
-                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInUp">Services</a>
-                        <a href="#" target="_blank"  class="btn btn-default" data-animation="animated fadeInDown">Appointment</a>
+                        <a href="services.php" class="btn btn-default" data-animation="animated fadeInUp">Services</a>
+                        <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInDown">Appointment</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
@@ -171,8 +171,8 @@
                     <div class="slide-text slide_style_center">
                         <h1 data-animation="animated zoomInLeft">The Dental Hub</h1>
                         <p data-animation="animated fadeInRight">Opens 7 Days</p>
-                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
-                        <a href="#" target="_blank" class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                        <a href="services.php" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
+                        <a href="appointments.php" class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
