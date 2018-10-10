@@ -64,9 +64,6 @@
                 <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
                 <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
                 <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
-                <li data-target="#bootstrap-touch-slider" data-slide-to="3"></li>
-                <li data-target="#bootstrap-touch-slider" data-slide-to="4"></li>
-                <li data-target="#bootstrap-touch-slider" data-slide-to="5"></li>
             </ol>
 
             <!-- Wrapper For Slides -->
@@ -76,106 +73,55 @@
                 <div class="item active">
 
                     <!-- Slide Background -->
-                    <img src="assets/images/slider/01.jpg" alt=""  class="slide-image"/>
+                    <img src="assets/images/slider/001.jpg" alt=""  class="slide-image"/>
                     <div class="bs-slider-overlay"></div>
 
                     <div class="container">
                         <div class="row">
                             <!-- Slide Text Layer -->
-                            <div class="slide-text slide_style_right">
-                                <h1 data-animation="animated zoomInRight">The Dental Hub</h1>
-                                <p data-animation="animated fadeInLeft">Quality Dentistry at Affordable Price</p>
-                                <a href="services.php" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
-                                <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                            <div class="slide-text slide_style_left" style="top:10%;">
+                                <p data-animation="animated fadeInLeft" style="margin-bottom:0px;"><img src="assets/images/staff/nikita_icon.png" class="fbslider-img" ></p>
+                                <h1 data-animation="animated zoomInRight">Fastbraces</h1>
+                                <p data-animation="animated fadeInLeft" style="width:40%;">Fastbraces® is the revolutionary system of fast, safe, easy and affordable braces that is changing the field of orthodontics.</p>
+                                <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInRight">Book A Consultation</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- End of Slide -->
-
-                <!-- Second Slide -->
+																
+																<!-- Second Slide -->
                 <div class="item">
 
                     <!-- Slide Background -->
-                    <img src="assets/images/slider/02.jpg" alt=""  class="slide-image"/>
+                    <img src="assets/images/slider/003.jpg" alt=""  class="slide-image"/>
                     <div class="bs-slider-overlay"></div>
                     <!-- Slide Text Layer -->
-                    <div class="slide-text slide_style_left">
-                        <h1 data-animation="animated flipInX">Straight Teeth</h1>
-                        <p data-animation="animated lightSpeedIn">Less Cost Less Time</p>
-                        <a href="services.php" class="btn btn-default" data-animation="animated fadeInUp">Services</a>
-                        <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInDown">Appointment</a>
-                    </div>
-                </div>
-                <!-- End of Slide -->
-
-                <!-- Third Slide -->
-                <div class="item">
-
-                    <!-- Slide Background -->
-                    <img src="assets/images/slider/03.jpg" alt=""  class="slide-image"/>
-                    <div class="bs-slider-overlay"></div>
-                    <!-- Slide Text Layer -->
-                    <div class="slide-text slide_style_right">
-                        <h1 data-animation="animated zoomInLeft">The Gift</h1>
-                        <p data-animation="animated fadeInRight">of your most radiant smile.</p>
-                        <a href="services.php" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
-                        <a href="appointments.php" class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                    <div class="slide-text slide_style_left" style="top:10%;">
+                    				<p data-animation="animated fadeInLeft" style="margin-bottom:0px;"><img src="assets/images/partners/philips.png" class="fbslider-img" ></p> 
+                        <h1 data-animation="animated zoomInLeft">Philips Zoom Teeth Whitening</h1>
+                        <p data-animation="animated fadeInRight" style="width:40%;">Our whitening procedure has been perfected through years of experience to give you the whitest teeth in the safest possible way.</p>
+                        <a href="appointments.php" class="btn btn-default" data-animation="animated fadeInRight">Book A Consultation</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
 				
-																	<div class="item">
-
-                    <!-- Slide Background -->
-                    <img src="assets/images/slider/04.jpg" alt=""  class="slide-image"/>
-                    <div class="bs-slider-overlay"></div>
-
-                    <div class="container">
-                        <div class="row">
-                            <!-- Slide Text Layer -->
-                            <div class="slide-text slide_style_left">
-                                <h1 data-animation="animated zoomInRight">Philips Zoom</h1>
-                                <p data-animation="animated fadeInLeft"> Teeth Whitening in safest possible way.</p>
-                                <a href="services.php" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
-                                <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End of Slide -->
-
-                <!-- Second Slide -->
-                <div class="item">
-
-                    <!-- Slide Background -->
-                    <img src="assets/images/slider/05.jpg" alt=""  class="slide-image"/>
-                    <div class="bs-slider-overlay"></div>
-                    <!-- Slide Text Layer -->
-                    <div class="slide-text slide_style_center">
-                        <h1 data-animation="animated flipInX">Emergency Dentist</h1>
-                        <p data-animation="animated lightSpeedIn">Professional Service<br><br> Fastbraces Master Provider</p>
-                        <a href="services.php" class="btn btn-default" data-animation="animated fadeInUp">Services</a>
-                        <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInDown">Appointment</a>
-                    </div>
-                </div>
-                <!-- End of Slide -->
-
                 <!-- Third Slide -->
                 <div class="item">
 
                     <!-- Slide Background -->
-                    <img src="assets/images/slider/06.jpg" alt=""  class="slide-image"/>
+                    <img src="assets/images/slider/002.jpg" alt=""  class="slide-image"/>
                     <div class="bs-slider-overlay"></div>
                     <!-- Slide Text Layer -->
-                    <div class="slide-text slide_style_center">
-                        <h1 data-animation="animated zoomInLeft">The Dental Hub</h1>
-                        <p data-animation="animated fadeInRight">Opens 7 Days</p>
-                        <a href="services.php" class="btn btn-default" data-animation="animated fadeInLeft">Services</a>
-                        <a href="appointments.php" class="btn btn-default" data-animation="animated fadeInRight">Appointment</a>
+                    <div class="slide-text slide_style_left">
+                        <h1 data-animation="animated flipInX">Routine Dental Exam</h1>
+                        <p data-animation="animated lightSpeedIn" style="width:40%;">All the deposits and debris are cleaned away from everywhere even in between your teeth and teeth are polished to give you a clean and even surface.</p>
+                        <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInDown">Book A Consultation</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
+
+                
 	
 
             </div><!-- End of Wrapper For Slides -->
