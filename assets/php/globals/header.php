@@ -8,7 +8,7 @@
 			<a href="#" style="color:#fff;" class="hidden-xs">
 				<i class="fa fa-envelope"></i>
 			</a>
-			<a href="#" style="color:#fff;" class="hidden-xs">info@thedentalhub.co.nz</a>&emsp;
+			<a href="mailto:info@thedentalhub.co.nz" style="color:#fff;" class="hidden-xs">info@thedentalhub.co.nz</a>&emsp;
 			<a  style="color:#fff;" href="https://www.facebook.com/thedentalhubauckland" target="_blank">
 				<i class="fa fa-facebook"></i>
 			</a>&emsp;
@@ -30,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a  href="#"><img src="assets/images/logo.png" class="navbar-brand" alt="" /></a>
+          <a href="index.php"><img src="assets/images/logo.png" class="navbar-brand" alt="" /></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav" style="padding-top:20px;">
