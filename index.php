@@ -4,6 +4,13 @@
 	// Including head file
 	include("assets/php/globals/head.php");
 ?>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" media="all">
+
+
+        <!-- Bootstrap bootstrap-touch-slider Slider Main Style Sheet -->
+        <link href="assets/css/bootstrap-touch-slider.css" rel="stylesheet" media="all">
+
 <body>
 
 	<?php
@@ -32,7 +39,7 @@
 	==============
 -->
 <div class="row slider_main_div" >
-	<div class="col-md-3 slider_form">
+	<div class="col-md-3 slider_form" style="line-height:35px;margin-top:20px;">
 		<h3>GET IN TOUCH WITH US TODAY!</h3>
 		<span class="slider_span">We'll get back in touch with you as soon as we can!</span><br>
 		<span class="slider_span">For more info</span><br>
@@ -48,22 +55,91 @@
 		</form>
 	</div>
 	<!-- col 4 close -->
-	<div class="col-md-9">
-		<div id="slider1_container">
-			<!-- Slides Container -->
-			<div data-u="slides" style="position: relative; left: 0px; top: 0px; width:1100px; height: 500px; overflow: hidden;">
-				<div>
-					<img data-u="image" src="assets/images/slider/slide01.jpg" />
-				</div>
-				<div>
-					<img data-u="image" src="assets/images/slider/slide02.jpg" />
-				</div>
-				<div>
-					<img data-u="image" src="assets/images/slider/slide03.png" />
-				</div>
+	<div class="col-md-9" style="padding:0px;">
+		
+  <div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line hidden-xs" data-ride="carousel" data-pause="hover" data-interval="false" >
+
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper For Slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <!-- Third Slide -->
+                <div class="item active">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/001.jpg" alt=""  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+
+                    <div class="container">
+                        <div class="row">
+                            <!-- Slide Text Layer -->
+                            <div class="slide-text slide_style_left" style="top:10%;">
+                                <p data-animation="animated fadeInLeft" style="margin-bottom:0px;"><img src="assets/images/staff/nikita_icon.png" class="fbslider-img" ></p>
+                                <h1 data-animation="animated zoomInRight">Fastbraces</h1>
+                                <p data-animation="animated fadeInLeft" style="width:40%;">Fastbraces® is the revolutionary system of fast, safe, easy and affordable braces that is changing the field of orthodontics.</p>
+                                <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInRight">Book A Consultation</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+																
+				<!-- Second Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/003.jpg" alt=""  class="img-responsive slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_left" style="top:10%;">
+                    				<p data-animation="animated fadeInLeft" style="margin-bottom:0px;"><img src="assets/images/partners/philips.png" class="fbslider-img" ></p> 
+                        <h1 data-animation="animated zoomInLeft">Philips Zoom Teeth Whitening</h1>
+                        <p data-animation="animated fadeInRight" style="width:40%;">Our whitening procedure has been perfected through years of experience to give you the whitest teeth in the safest possible way.</p>
+                        <a href="appointments.php" class="btn btn-default" data-animation="animated fadeInRight">Book A Consultation</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
 				
-			</div>
-		</div>
+                <!-- Third Slide -->
+                <div class="item">
+
+                    <!-- Slide Background -->
+                    <img src="assets/images/slider/002.jpg" alt=""  class="slide-image"/>
+                    <div class="bs-slider-overlay"></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_left">
+                        <h1 data-animation="animated flipInX">Routine Dental Exam</h1>
+                        <p data-animation="animated lightSpeedIn" style="width:40%;">All the deposits and debris are cleaned away from everywhere even in between your teeth and teeth are polished to give you a clean and even surface.</p>
+                        <a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInDown">Book A Consultation</a>
+                    </div>
+                </div>
+                <!-- End of Slide -->
+
+                
+	
+
+            </div><!-- End of Wrapper For Slides -->
+
+            <!-- Left Control -->
+            <a class="left carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="prev">
+                <span class="fa fa-angle-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+
+            <!-- Right Control -->
+            <a class="right carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="next">
+                <span class="fa fa-angle-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+
+        </div> <!-- End  bootstrap-touch-slider Slider -->
+
 	</div>
 	<!-- col 8 close -->
 </div>
@@ -91,36 +167,38 @@
 	</div>
 	
 	<!-- SERVICES ITEM -->
-	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service" style="background-color:#095c83;">
+		<a href="services.php" class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service" style="color:#fff;background-color:#095c83;" >
+		<div>
 		<div class="service-icon"> <i class="flaticon-medical-1"></i> </div>
 		<div class="service-title">
 			<h2>Services</h2>
 		</div><br>
 		<h4>At The Dental Hub, we offer amenities and</h4>
 		<h4>services not easily available in Auckland city</h4>
-	</div>
+	</div></a>
   
 	<!-- SERVICES ITEM -->
-	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-2">
-		<div class="service-icon"> <i class="fa fa-clock-o"></i> </div>
+		<a href="contact.php" class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-2" style="color:#fff;"><div  >
+			
+	<div class="service-icon"> <i class="fa fa-clock-o"></i> </div>
 		<div class="service-title">
 			<h2>Business Hours</h2>
 		</div><br>
 		<h4>Monday - Saturday : 9:00 AM - 5:00 PM</h4>
 		<h4>Sunday: 10:00 AM - 3:00 PM</h4><br>
-	</div>
+	</div></a>
 	
 	<!-- SERVICES ITEM -->
-	<a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank" style="color:#fff;">
-		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3">
+	<a href="https://goo.gl/maps/VsSM4uHKyGS2"  class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3" target="_blank" style="color:#fff;">
+		<div>
 		<div class="service-icon"> <i class="fa fa-map-marker"></i> </div>
 		<div class="service-title">
 			<h2>Location</h2>
 		</div><br>
 		<h4>73A Rosebank Road, Behind Subway</h4>
 		<h4>Avondale , Auckland 1026</h4><br><br>
-	</div></a>
-</div>
+	</div>
+</div></a>
 <!-- 
 	============
 	END SERVICES
@@ -194,7 +272,7 @@
         </span>
       </h2>
       <div class="review-container">
-        <div class="owl-review" id="owl-review"> 
+        <div class="owl-review" id="owl-review2"> 
           
           <!-- REVIEW ITEM -->
           <div class="review-item">
@@ -258,5 +336,17 @@
 		// Including foot file
 		include("assets/php/globals/foot.php");
 	?>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"></script>
+        
+
+        <!-- Bootstrap bootstrap-touch-slider Slider Main JS File -->
+        <script src="assets/js/bootstrap-touch-slider.js"></script>
+        
+        <script type="text/javascript">
+            $('#bootstrap-touch-slider').bsTouchSlider();
+        </script>
+
 </body>
 </html>

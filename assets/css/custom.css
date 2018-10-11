@@ -162,6 +162,18 @@
 
 .qcard h6 {
     line-height: 1.5rem;
+}    
+/* Testimonials */
+.review-item-text,
+.review-item-name,
+.review-item-position {
+    padding-left: 0px;
+    font-size: 18px !important;
+}
+
+.review-item{
+    background: none !important;
+    border-style: none !important;
 }
 
 .finance-options {
