@@ -61,7 +61,7 @@
 	
 	<div class="feedback">
 		<div class="container" style="padding:0px 0px !important;width:100%;">
-			<div class="col-md-4">
+			<div class="col-md-8">
 					<h2 class="section-title">
 						<span class="bold700">
 						Send Us A Message
@@ -152,10 +152,6 @@
 											<img src="assets/images/contact.jpg">
 										</div>	
 		</div>
-		<div class="col-md-4">
-			<div class="map" id="map"> </div>
-
-		</div>	
 		
 			</div>
 	</div>
