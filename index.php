@@ -162,8 +162,8 @@
 		<div class="service-title">
 			<h2>Emergency Dentist</h2>
 		</div><br>
-		<h4> Call 09 218 7777</h4>
-		<h4> 0800 FIX TOOTH (0800 349 86684)</h4>
+		<h4> Call &nbsp;<a style="color:#fff;" href="tel:092187777">09 218 7777</a></h4>
+		<h4> <a href="tel:0800 349 86684" style="color:#fff;" >0800 FIX TOOTH (0800 349 86684)</a></h4>
 	</div>
 	
 	<!-- SERVICES ITEM -->
@@ -336,9 +336,7 @@
 		// Including foot file
 		include("assets/php/globals/foot.php");
 	?>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"></script>
+	    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"></script>
         
 
         <!-- Bootstrap bootstrap-touch-slider Slider Main JS File -->
