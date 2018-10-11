@@ -62,6 +62,14 @@
 
     gtag('config', 'UA-119315766-1');
 </script>
+
+
+<!-- Global site tag - Reach Local -->
+<script type="text/javascript">
+    var rl_siteid = "62f796c0-8df3-478b-9e6c-ec5e8db3ee81";
+</script>
+<script type="text/javascript" src="//cdn.rlets.com/capture_static/mms/mms.js" async="async"></script>
+
 <!--
     ===================
         END: FOOT FILES   
