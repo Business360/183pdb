@@ -3,15 +3,15 @@
 /* Fix the position of an element when it is about to be scrolled off-screen */
 function smartPosition(obj) {
 	jQuery(window).scroll(function() {
+
 		// Detect if content is being scroll offscreen.
 		if ( (document.documentElement.scrollTop || document.body.scrollTop) >= jQuery(obj).offset().top - (0)) {
 			jQuery('body').addClass('smartposition');
 		} else {
 			jQuery('body').removeClass('smartposition');
-		}
+		}	
 	});
 };
-
 
 jQuery(document).ready(function($){
 	
@@ -494,9 +494,9 @@ jQuery(document).ready(function($){
 		}
 	});
 	*/
-	
-	$('<div id="smartposition"></div>').insertBefore('#top-menu');
-	smartPosition('#smartposition');	
+				
+	// $('<div id="smartposition"></div>').insertBefore('#top-menu');
+	// smartPosition('#smartposition');	
 	
 
 	$('#totop').on('click', function () { 
@@ -574,3 +574,17 @@ function isNumber(evt) {
 	}
 	return true;
 }
+$(document).ready(function() {
+	var s = $(".navbar-default");
+	var pos = s.position();					   
+	$(window).scroll(function() {
+		var windowpos = $(window).scrollTop();
+		if (windowpos >= pos.top & windowpos <=10) {
+			s.removeClass("navbar-fixed-top");
+		} else {
+			s.addClass("navbar-fixed-top");	
+		}
+	});
+});
+
+

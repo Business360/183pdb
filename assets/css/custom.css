@@ -42,8 +42,8 @@
 
 .header-logo img {
     width: auto;
-    height: 370px;
-    top: -105px;
+    height: 160px;
+    top: -30px;
     left: -130px;
 }
 
@@ -53,7 +53,7 @@
 }
 
 .top-menu-logo {
-    height: 80px;
+    height: 120px;
     font-size: 24px;
     float: left;
     position: relative;
@@ -75,17 +75,14 @@
     margin-top: 20px;
     margin-bottom: 10px;
     float: right;
-    font-size: 17px;
 }
 
 .top-bar-mail {
-    font-size: 17px;
     margin-left: 20px;
     margin-bottom: 10px;
 }
 
 .top-bar-social {
-    font-size: 17px;
     margin-right: -10px;
     text-align: right;
 }
@@ -297,9 +294,9 @@ ul.footer-nav {
     }
 
     .header-logo img {
-        height: 200px !important;
+        height: 140px !important;
         top: -266px;
-        left: -20px !important;
+        left: -30px !important;
         margin-bottom: -420px !important;
         margin-top: 40px;
     }
@@ -357,3 +354,33 @@ ul.footer-nav {
         position: relative;
     }
 }    
+#navbar .navbar-nav li a:hover,
+#navbar .navbar-nav li a:focus {
+  background: #235f6f;
+  color: #fff;
+}
+
+#navbar > .navbar-nav > .active > a{
+    background: #235f6f !important;
+    color: #fff; 
+}
+
+.navbar-brand{
+    height:100px !important;
+    margin-left:0px !important;
+    margin-right:50px !important;
+}
+
+.header-phone{
+    font-size:15px !important;
+    margin-top:5px !important;
+    margin-bottom:5px !important;
+
+}
+.header-phone i{
+    color: #fff !important;
+}
+
+.navbar{
+    margin-bottom: 0px !important;
+}
