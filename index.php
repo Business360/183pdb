@@ -57,7 +57,7 @@
 	<!-- col 4 close -->
 	<div class="col-md-9" style="padding:0px;">
 		
-  <div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line" data-ride="carousel" data-pause="hover" data-interval="false" >
+  <div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line hidden-xs" data-ride="carousel" data-pause="hover" data-interval="false" >
 
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -90,11 +90,11 @@
                 </div>
                 <!-- End of Slide -->
 																
-																<!-- Second Slide -->
+				<!-- Second Slide -->
                 <div class="item">
 
                     <!-- Slide Background -->
-                    <img src="assets/images/slider/003.jpg" alt=""  class="slide-image"/>
+                    <img src="assets/images/slider/003.jpg" alt=""  class="img-responsive slide-image"/>
                     <div class="bs-slider-overlay"></div>
                     <!-- Slide Text Layer -->
                     <div class="slide-text slide_style_left" style="top:10%;">
