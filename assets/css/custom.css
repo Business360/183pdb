@@ -304,3 +304,7 @@ ul.footer-nav {
 .header-phone i{
     color: #fff !important;
 }
+
+.navbar{
+    margin-bottom: 0px !important;
+}
