@@ -42,8 +42,8 @@
 					<!-- FOOTER ITEM 2 -->
 					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 footer-item footer-item-2">
 						<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
-						<div class="footer-item-3-phone"><i class="fa fa-phone"></i> 09 218 7777 </div>
-						<div class="footer-item-3-phone"><i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684) </div>
+						<div class="footer-item-3-phone"><a href="tel:09 218 7777"><i class="fa fa-phone"></i> 09 218 7777 </a></div>
+						<div class="footer-item-3-phone"><a href="tel:0800 349 86684"><i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684)</a> </div>
 						 <div class="footer-item-3-location"><a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">73A Rosebank Road, Behind Subway - Avondale , Auckland 1026</a></div>
 						<div class="footer-item-3-mail"><i class="fa fa-envelope"></i> <a href="mailto:info@thedentalhub.co.nz">info@thedentalhub.co.nz</a> </div>
 						<div class="footer-item-3-socials" style="margin-top:20px;"><a href="http://www.facebook.com/thedentalhubauckland"><i class="fa fa-facebook"></i></a> <a href="https://goo.gl/maps/VsSM4uHKyGS2"><i class="fa fa-google"></i></a></div>
