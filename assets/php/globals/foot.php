@@ -54,7 +54,7 @@
 <script src="assets/js/jssor.slider.options.js"></script>
 
 <!-- GOOGLE MAPS --> 
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC1N87a_NHjocaepKKcovPAYTMUkJBr9pQ&amp;language=en&amp;sensor=true"></script>
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDMta_c40rEmjd4CTV47QvgADvkoHg7HrE&amp;language=en&amp;sensor=true"></script>
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
