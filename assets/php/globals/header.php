@@ -34,12 +34,14 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav" style="padding-top:20px;">
-            <li class="active"><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
-            <li><a href="services.php">Services</a></li>
-            <li><a href="contact_us.php">Contact Us</a></li>
-            <li><a href="appointments.php">Make An Appointment</a></li>
-            
+          	<?php
+          		$furl = basename($_SERVER['REQUEST_URI']);
+          	?>
+          	<li <?php if($furl == "index.php"){ ?> class="active" <?php } ?> ><a href="index.php">Home</a></li>
+            <li <?php if($furl == "about.php"){ ?> class="active" <?php } ?> ><a href="about.php">About</a></li>
+            <li <?php if($furl == "services.php"){ ?> class="active" <?php } ?> ><a href="services.php">Services</a></li>
+            <li <?php if($furl == "contact.php"){ ?> class="active" <?php } ?> ><a href="contact.php">Contact Us</a></li>
+            <li <?php if($furl == "appointments.php"){ ?> class="active" <?php } ?> ><a href="appointments.php">Make An Appointment</a></li>
           </ul>
           <div class="navbar-right col-md-3" style="padding-top:15px;">
 			<script>
