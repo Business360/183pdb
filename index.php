@@ -67,7 +67,7 @@
 									<div class="slide-text slide_style_left" style="top:10%;">
 										<p data-animation="animated fadeInLeft" style="margin-bottom:0px;"><img src="assets/images/staff/nikita_icon.png" class="fbslider-img" ></p>
 										<h1 data-animation="animated zoomInRight">Fastbraces</h1>
-										<p data-animation="animated fadeInLeft" style="width:40%;">Fastbraces® is the revolutionary system of fast, safe, easy and affordable braces that is changing the field of orthodontics.</p>
+										<p data-animation="animated fadeInLeft" style="width:40%;">Fastbraces is the revolutionary system of fast, safe, easy and affordable braces that is changing the field of orthodontics.</p>
 										<a href="appointments.php"  class="btn btn-default" data-animation="animated fadeInRight">Book A Consultation</a>
 									</div>
 								</div>
