@@ -43,11 +43,11 @@
           	<?php
           		$furl = basename($_SERVER['REQUEST_URI']);
           	?>
-          	<li <?php if($furl == "../index.php"){ ?> class="active" <?php } ?> ><a href="index.php">Home</a></li>
-            <li <?php if($furl == "../about.php"){ ?> class="active" <?php } ?> ><a href="about.php">About</a></li>
-            <li <?php if($furl == "../services.php"){ ?> class="active" <?php } ?> ><a href="services.php">Services</a></li>
-            <li <?php if($furl == "../contact.php"){ ?> class="active" <?php } ?> ><a href="contact.php">Contact Us</a></li>
-            <li <?php if($furl == "../appointments.php"){ ?> class="active" <?php } ?> ><a href="appointments.php">Make An Appointment</a></li>
+          	<li <?php if($furl == "../index.php"){ ?> class="active" <?php } ?> ><a href="../index.php">Home</a></li>
+            <li <?php if($furl == "../about.php"){ ?> class="active" <?php } ?> ><a href="../about.php">About</a></li>
+            <li <?php if($furl == "../services.php"){ ?> class="active" <?php } ?> ><a href="../services.php">Services</a></li>
+            <li <?php if($furl == "../contact.php"){ ?> class="active" <?php } ?> ><a href="../contact.php">Contact Us</a></li>
+            <li <?php if($furl == "../appointments.php"){ ?> class="active" <?php } ?> ><a href="../appointments.php">Make An Appointment</a></li>
           </ul>
           <div class="navbar-right header-search-box">
 			<script>
