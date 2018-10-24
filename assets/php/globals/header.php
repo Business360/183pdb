@@ -1,12 +1,21 @@
 <nav class="navbar navbar-default ">
 
-	  <div class="col-md-12" style="background-color: #276a7a;color:#fff;">
-		 <div class="col-md-12 header-email">
+	 <div class="col-md-12 header-email" style="background-color: #276a7a;color:#fff;">
+		 <div class="col-md-5 header-top-1">
+
 			<a href="#" style="color:#fff;">
 				<i class="fa fa-envelope"></i>
 			</a>
-			<a href="mailto:info@thedentalhub.co.nz" style="color:#fff;">info@thedentalhub.co.nz</a> | <a href="tel:080034986684" style="color:#fff;">0800 FIX TOOTH (0800 349 86684)</a> | <a href="tel:092187777" style="color:#fff;">09 218 7777</a>
+			<a href="mailto:info@thedentalhub.co.nz" style="color:#fff;">info@thedentalhub.co.nz</a>
 		</div>
+    <div class="col-md-2 header-top-2">
+
+      <a href="tel:080034986684" style="color:#fff;">0800 FIX TOOTH (0800 349 86684)</a>
+    </div>
+    <div class="col-md-5 header-top-3">
+
+      <a href="tel:092187777" style="color:#fff;">09 218 7777</a>
+    </div>
 	</div>		
       <div class="container-fluid">
       	<div class="navbar-header">
@@ -29,8 +38,8 @@
             <li <?php if($furl == "contact.php"){ ?> class="active" <?php } ?> ><a href="contact.php">Contact Us</a></li>
             <li <?php if($furl == "appointments.php"){ ?> class="active" <?php } ?> ><a href="appointments.php">Make An Appointment</a></li>
           </ul>
-          <div class="navbar-right" style="margin-top:35px;">
-		  	<h3><a href="tel:080034986684" style="color:#fff; background-color: #276a7a; padding:10px;">12 Months Interest Free</a></h3>
+          <div class="navbar-right hidden-xs" style="margin-top:35px;margin-right:10px;">
+		  	<h4><a href="qcard.php" class="twelve-month" style="color:#fff; background-color: #276a7a; padding:10px;">12 Months Interest Free</a></h4>
     		</div>
         </div><!--/.nav-collapse -->
     		
