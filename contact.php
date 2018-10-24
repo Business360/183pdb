@@ -137,11 +137,11 @@
 
 											<table style="font-size:12px;">
 												<tbody>
-													<tr style="background-color: #114783;">
+													<tr style="background-color: #2c7585;">
 														<td style="color:#fff;padding: 10px;"><b>Mon - Sat</b></td>
 														<td style="color:#fff;padding: 10px;">9:00 AM - 5:00 PM</td>
 													</tr>
-													<tr style="background-color: #114783;">
+													<tr style="background-color: #2c7585;">
 														<td style="color:#fff;padding: 10px;"><b>Sunday</b></td>
 														<td style="color:#fff;padding: 10px;">10:00 AM - 3:00 PM</td>
 													</tr>
