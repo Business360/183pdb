@@ -78,21 +78,32 @@
 						<input type="text" class="timepicker-f" id="timepicker1" name="time" data-validation="required" placeholder="Time" />
 						<div class="help help-sm help-red">!</div>
 					</div>
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-practices">	
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 booking-practices" style="text-align:left;" >	
 						<h3 class="text-center">Preferred Practices</h3>
-						<input type="checkbox" name="practice[]"/> Consultation
-						<input type="checkbox" name="practice[]"/> Cleaning
-						<input type="checkbox" name="practice[]"/> Examination
-						<input type="checkbox" name="practice[]"/> Fast Braces
-						<input type="checkbox" name="practice[]"/> Tooth Whitening
-						<input type="checkbox" name="practice[]"/> Gum Treatment
-						<input type="checkbox" name="practice[]"/> Extraction
-						<input type="checkbox" name="practice[]"/> Fillings
-						<input type="checkbox" name="practice[]"/> Root Canal Treatment
-						<input type="checkbox" name="practice[]"/> Crowns
-						<input type="checkbox" name="practice[]"/> Bridges
-						<input type="checkbox" name="practice[]"/> Dentures
-						<input type="checkbox" name="practice[]"/> Others
+						<div class="col-md-3">
+							<input type="checkbox" name="practice[]"/> Consultation<br>
+							<input type="checkbox" name="practice[]"/> Cleaning<br>
+							<input type="checkbox" name="practice[]"/> Examination<br>
+						</div>
+						<div class="col-md-3">
+						
+						<input type="checkbox" name="practice[]"/> Fast Braces<br>
+						<input type="checkbox" name="practice[]"/> Tooth Whitening<br>
+						<input type="checkbox" name="practice[]"/> Gum Treatment<br>
+						</div>
+						<div class="col-md-3">
+						
+						<input type="checkbox" name="practice[]"/> Extraction<br>
+						<input type="checkbox" name="practice[]"/> Fillings<br>
+						<input type="checkbox" name="practice[]"/> Root Canal Treatment<br>
+						</div>
+						<div class="col-md-3">
+						
+						<input type="checkbox" name="practice[]"/> Crowns<br>
+						<input type="checkbox" name="practice[]"/> Bridges<br>
+						<input type="checkbox" name="practice[]"/> Dentures<br>
+						</div>
+						<div class="col-md-12"><input type="checkbox" name="practice[]"/> Others</div>
 					</div>
 					</div>
 					<div class="row">
