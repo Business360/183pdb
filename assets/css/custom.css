@@ -245,3 +245,12 @@ ul.footer-nav {
 .navbar-toggle{
     margin-top: 25px !important;
 }
+
+
+.page-title-overlay{
+    background: rgb(39, 106, 122) !important;
+}
+
+.bg-pattern .page-title-overlay{
+    background: rgb(39, 106, 122) !important;
+}
