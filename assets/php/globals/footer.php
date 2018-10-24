@@ -28,7 +28,7 @@
 						</ul>
 					</div>
 					
-					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 footer-item footer-item-2">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 footer-item footer-item-2 footer-menu">
 						<h3 class="footer-title">&nbsp;</h3>
 						<ul class="footer-nav">
 							<li><a href="fastbraces.php">Fastbraces</a></li>
@@ -40,7 +40,7 @@
 					</div>
 					  
 					<!-- FOOTER ITEM 2 -->
-					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 footer-item footer-item-2">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 footer-item footer-item-2 footer-contact">
 						<h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
 						<div class="footer-item-3-phone"><a href="tel:09 218 7777"><i class="fa fa-phone"></i> 09 218 7777 </a></div>
 						<div class="footer-item-3-phone"><a href="tel:0800 349 86684"><i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684)</a> </div>

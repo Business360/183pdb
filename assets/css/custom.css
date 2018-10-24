@@ -345,6 +345,24 @@ ul.footer-nav {
         width: 95% !important;
         padding:10px !important;
     }
+    
+    .footer-menu{
+        padding-top: 0px !important;
+    }
+    .footer-menu .footer-title{
+        padding-bottom: 0px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .footer-item-1{
+        padding-bottom: 0px !important;
+        padding-top: 20px !important;
+    }
+
+    .footer-contact{
+        padding-bottom: 0px !important;
+        padding-top: 20px !important;
+    }
 }
 
 .top-menu .navbar-nav li a{
@@ -407,6 +425,10 @@ ul.footer-nav {
         padding-top: 15px;
         width: 80%;
     }
+
+    .header-top-1, .header-top-2, .header-top-3{
+        text-align: center !important;
+    }
 }
 
 @media (min-width: 769px) {
@@ -419,8 +441,22 @@ ul.footer-nav {
         padding-top: 20px;
         width: 20%;
     }
+    .header-top-1{
+        text-align: right !important;
+    }
+    /*.header-top-2{
+        width: 300px !important;
+    }*/
+    .header-top-3{
+        text-align: left !important;
+    }
 }
 
+@media (min-width: 1024px) and (max-width: 1441px){
+    .twelve-month{
+        font-size: 12px !important;
+    }
+}
 .navbar-toggle{
     margin-top: 25px !important;
 }
