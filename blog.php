@@ -54,6 +54,46 @@
                             <div class="blog-item">
                             <div class="blog-item-image">
                                 <div class="blog-item-info">
+                                                                     <div class="blog-item-date col-xlg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12"><i class="fa fa-calendar-o"></i> 23.10.2018</div>
+                                    <div class="blog-item-category col-xlg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12"><i class="fa fa-folder-o"></i> Avondale dental Auckland</div>
+                                </div>
+                            </div>
+                            <div class="blog-item-desc">
+                                <div class="blog-item-title">
+                                <h3><a href="blog/Hints-to-choose-the-best-dental-clinic-in-an-easy-way.php">Hints To Choose the Best Dental Clinic in an Easy Way</a></h3>
+                                </div>
+                                <div class="blog-item-text">
+                                    <p>Dental health is an important step in the path of the achieving overall health. Therefore it is essential to visit the dental clinic regularly, not just when you face serious dental issues. But, hunting reliable, trustworthy and best service provider in Auckland t values your time and money is hard to find.</p>
+                                </div>
+                                <div class="blog-item-button"><a href="blog/Hints-to-choose-the-best-dental-clinic-in-an-easy-way.php" class="btn btn-primary-1">READ MORE</a></div>
+                                  </div>
+                            </div>
+                        </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="blog-item">
+                            <div class="blog-item-image">
+                                <div class="blog-item-info">
+                            </div>
+                                 <div class="blog-item-date col-xlg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12"><i class="fa fa-calendar-o"></i> 20.09.2018</div>
+                                    <div class="blog-item-category col-xlg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12"><i class="fa fa-folder-o"></i> Dentists in Avondale Auckland City</div>
+                                </div>
+                            </div>
+                            <div class="blog-item-desc">
+                                <div class="blog-item-title">
+                                <h3><a href="blog/The-dental-treatments-that-can-be-easily-sought-in-case-of-dental-problems.php">The Dental Treatments That Can Be Easily Sought in Case of Dental Problems</a></h3>
+                                </div>
+                                <div class="blog-item-text">
+                                    <p>A visit to a dentist might seem like a daunting affair and many people are not very eager to visit dentist to get their dental health checked but just as the physical health is to be checked on a regular basis similarly dental health should also be monitored and professionally evaluated by a dentist so that less problems occur in future.</p>
+                                </div>
+                                <div class="blog-item-button"><a href="blog/The-dental-treatments-that-can-be-easily-sought-in-case-of-dental-problems.php" class="btn btn-primary-1">READ MORE</a></div>
+                                  </div>
+                            </div>
+                        </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="blog-item">
+                            <div class="blog-item-image">
+                                <div class="blog-item-info">
+                            </div>
                                     <div class="blog-item-date col-xlg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12"><i class="fa fa-calendar-o"></i> 07.09.2018</div>
                                     <div class="blog-item-category col-xlg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12"><i class="fa fa-folder-o"></i> Jaw injuries treatment in Auckland</div>
                                 </div>
