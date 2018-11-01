@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Dental Bridge Treatment Avondale Auckland, Bridges Treatment on Rosebank Road</title>
+<meta name="description" content="We provide dental crowns and bridges treatment for patients throughout the Avondale area. Make an appointment, call at 09 218 7777 today!"/>
+<meta name="keywords" content="Bridges Treatment on Rosebank Road, Dental Bridge Treatment Avondale Auckland, Dental Bridge Avondale Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN

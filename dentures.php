@@ -24,6 +24,9 @@
 			</div>
 		</div>
 	</div>
+<title>Dentures Avondale, Auckland, Denture Care Avondale, New Zealand</title>
+<meta name="description" content="Looking for dentures Avondale, Auckland? The Dental Hub offers dentures and partials in Avondale Auckland. For more information about dentures and partials call our office today at (09) 218 7777."/>
+<meta name="keywords" content="Dentures Avondale, Auckland, Denture Care Avondale, New Zealand">
 
 	<!--
         ====================

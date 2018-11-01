@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Cosmetic Dentistry Avondale Auckland, Cosmetic Dentist, Quality Dentistry at Affordable Prices</title>
+<meta name="description" content="Are you looking for Cosmetic Dentistry Avondale Auckland? The Dental Hub is the leading name in cosmetic dentistry in Avondale Auckland. Call our Clinic today at 09 218 7777."/>
+<meta name="keywords" content="Cosmetic Dentistry in Avondale Auckland, Cosmetic Dentist Auckland, Quality Dentistry at Affordable Prices">
 	<!--
         ====================
         START: MOBILE DESIGN

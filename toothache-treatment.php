@@ -24,6 +24,9 @@
 			</div>
 		</div>
 	</div>
+<title>Toothache Treatment in Avondale Auckland</title>
+<meta name="description" content="AT THE DENTAL HUB offers toothache treatment in Avondale Auckland. For more information about toothache treatment call our office today at (09) 218 7777."/>
+<meta name="keywords" content="Toothache Treatment in Avondale">
 
 	<!--
         ====================

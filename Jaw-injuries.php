@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Jaw Injuries Treatment Auckland, Dental and Jaw Injuries - Call us at 0800 349 86684</title>
+<meta name="description" content="Do you need jaw injuries treatment Auckland? Call the Dental Hub Clinic in Avondale, Auckland Area on (09) 218 7777."/>
+<meta name="keywords" content="Jaw Injuries, Jaw Injuries Treatment, Jaw Injuries Treatment Auckland, Dental and Jaw Injuries">
 	<!--
         ====================
         START: MOBILE DESIGN

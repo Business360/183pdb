@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Replace Discolored Fillings Avondale, Auckland, White Filling - The Dental Hub</title>
+<meta name="description" content="Tooth colored fillings service at the dental hub clinic. Book an appointment at The Dental Hub clinic in Auckland."/>
+<meta name="keywords" content="Discolored Fillings, Replace Discolored Fillings, White Filling, Replace Discolored Fillings Avondale, Auckland, White FillingAvondale, Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN

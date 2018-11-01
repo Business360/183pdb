@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Philips Zoom Whitening, Philips Zoom Whitening Treatments in Auckland</title>
+<meta name="description" content="Choose philips zoom whitening treatment. Philips zoom whitening is a fast, effective and safe way to whiten your teeth. Call us, and then come in for a free consultation today."/>
+<meta name="keywords" content="Zoom Whitening, Philips Zoom Whitening, Philips Zoom Whitening Treatments, Philips Zoom Whitening Treatments in Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN

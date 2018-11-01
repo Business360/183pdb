@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Tooth Extraction Prices Auckland</title>
+<meta name="description" content="If you need for tooth extraction treatment in Auckland. The Dental Hub offers tooth extraction treatment at affordable prices. Call us today for our tooth removal treatment."/>
+<meta name="keywords" content="Tooth Extraction Prices Auckland, Cheap Wisdom Tooth Extraction, Tooth Extraction Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN

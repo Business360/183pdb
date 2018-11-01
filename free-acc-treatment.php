@@ -24,6 +24,9 @@
 			</div>
 		</div>
 	</div>
+<title>Free ACC Treatment, Free ACC Consultation - Call us at 09 218 7777</title>
+<meta name="description" content="Looking for free ACC treatment? The Dental Hub Dentist provides free accident compensation commission treatment and we make sure that you get the care. Contact our clinic today."/>
+<meta name="keywords" content="Free ACC Treatment, ACC Consultation, Free ACC Consultation">
 
 	<!--
         ====================

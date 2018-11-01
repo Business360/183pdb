@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Infected Wisdom Teeth, Infected Wisdom Teeth Removal - Call us at 09 218 7777</title>
+<meta name="description" content="Infected wisdom teeth- The dental hub dentist helps painful, wisdom tooth extraction. Call us now our dental clinic."/>
+<meta name="keywords" content="Wisdom teeth, Infected Wisdom teeth, Wisdom Teeth Removal, Infected Wisdom Teeth Removal">
 	<!--
         ====================
         START: MOBILE DESIGN

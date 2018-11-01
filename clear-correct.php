@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Clear Correct Avondale, Clear Correct Braces - The Dental Hub</title>
+<meta name="description" content="Looking for an alternative to traditional braces? Straighten your teeth the invisible way with dental braces from Clear Correct. Contact our office at (09) 218 7777 to know more."/>
+<meta name="keywords" content="Clear Correct, Clear Correct Avondale, Clear Correct Braces, Clear Correct Avondale Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN
