@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Dental Avulsion, Dental Avulsion in Avondale, Auckland, New Zealand</title>
+<meta name="description" content="If you are needing for Dental Avulsion in Avondale, Auckland. The Dental Hub Clinic are provided The treatment for teeth evolution. Please contact the team at The Dental Hub Clinic."/>
+<meta name="keywords" content="Dental Avulsion, Teeth Avulsion, Dental Avulsion in Avondale, Auckland, New Zealand">
 	<!--
         ====================
         START: MOBILE DESIGN

@@ -24,6 +24,9 @@
 			</div>
 		</div>
 	</div>
+<title>Veneers Services in Avondale Auckland</title>
+<meta name="description" content="Are you looking for veneers services in Avondale Auckland? Improve your smile with dental veneers services from The Dental Hub. Call us at 09 218 7777 for more details."/>
+<meta name="keywords" content="Veneers services in Avondale Auckland">
 
 	<!--
         ====================

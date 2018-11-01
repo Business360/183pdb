@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Immediate Dentures in Auckland, Immediate Dentures, Auckland Denture Experts</title>
+<meta name="description" content="Immediate dentures from the dental hub in Avondale, Auckland may be the solution when complete extraction of your teeth is not avoidable. Call the dental hub today 09 218 7777."/>
+<meta name="keywords" content="Dentures, Immediate Dentures, Denture Experts, Auckland Denture Experts, Immediate Dentures in Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN

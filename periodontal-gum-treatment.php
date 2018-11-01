@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Periodontal Disease Treatment in Auckland, Gum Disease Treatments in Avondale</title>
+<meta name="description" content="Gum disease (also known as periodontal disease). If you need gum treatment, contact us 09 218 7777 and make an appointment today."/>
+<meta name="keywords" content="Periodontal Sickness Treatment, Periodontal Treatment Auckland, Periodontal Disease Treatment in Auckland, Gum Treatment, Gum Disease Treatments in Avondale, Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN

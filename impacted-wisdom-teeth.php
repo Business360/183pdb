@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Impacted Wisdom Teeth, Impacted Wisdom Teeth Removal and Extraction</title>
+<meta name="description" content="Get relief from the pain of your impacted wisdom teeth by our affordable wisdom teeth removal surgery at The Dental Hub. Book an appointment for impacted wisdom teeth."/>
+<meta name="keywords" content="Impacted Wisdom Teeth, Wisdom Teeth, Impacted Wisdom Teeth Removal, Impacted Wisdom Teeth Extraction">
 	<!--
         ====================
         START: MOBILE DESIGN

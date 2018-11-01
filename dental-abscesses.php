@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Dental Abscesses at Rosebank Road, Avondale, Auckland </title>
+<meta name="description" content="Need for dental abscess treatment in Auckland? The dental hub offers best dental abscess treatment on Rosebank Road, Auckland at the best price."/>
+<meta name="keywords" content="Dental Abscesses, Dental Abscesses at Rosebank Road, Dental Abscesses at Rosebank Road, Avondale, Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN

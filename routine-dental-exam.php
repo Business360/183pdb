@@ -24,6 +24,9 @@
 			</div>
 		</div>
 	</div>
+<title>Deep Cleaning, Tooth Cleaning in Auckland</title>
+<meta name="description" content="-: Looking for tooth cleaning in Auckland. Our team of dentist at The Dental Hub offer tooth cleaning service. Book your appointment today!"/>
+<meta name="keywords" content="Deep Cleaning,Tooth Cleaning">
 
 	<!--
         ====================

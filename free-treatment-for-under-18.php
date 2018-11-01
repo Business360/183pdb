@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Free Treatment for Under 18, Free Dental Treatment for Under 18 Year</title>
+<meta name="description" content="Get free treatment for children under 18. Dental treatment for children up to the age of 18 is free at The Dental Hub clinics."/>
+<meta name="keywords" content="Free Treatment for under 18, Free Dental Treatment, Free Dental Treatment for Under 18 Year">
 	<!--
         ====================
         START: MOBILE DESIGN

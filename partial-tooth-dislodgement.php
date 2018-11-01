@@ -24,7 +24,8 @@
 			</div>
 		</div>
 	</div>
-
+<title>Partial Tooth Dislodgement Treatment in Avondale, Auckland</title>
+<meta name="description" content="Looking for partial tooth dislodgement treatment in Avondale, Auckland. The Dental Hub clinic provides treatment for partial tooth dislodgement. For an appointment call our office today at 09 218 7777."/>
 	<!--
         ====================
         START: MOBILE DESIGN

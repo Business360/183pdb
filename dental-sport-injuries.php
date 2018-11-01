@@ -24,6 +24,9 @@
 			</div>
 		</div>
 	</div>
+<title>Dental Sport Injuries in Avondale Auckland - The Dental Hub</title>
+<meta name="description" content="At the dental hub clinic in Auckland, we provide comprehensive treatment for dental sports injuries at affordable prices. Call us on (09) 218 7777 for more information"/>
+<meta name="keywords" content="Dental Sport Injuries, Dental Sport Injuries in Avondale Auckland">
 
 	<!--
         ====================

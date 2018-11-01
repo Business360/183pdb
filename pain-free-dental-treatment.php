@@ -24,7 +24,9 @@
 			</div>
 		</div>
 	</div>
-
+<title>Pain Free Dental Treatment, Pain Free Dentistry in Avondale, Auckland</title>
+<meta name="description" content="Get pain free dental treatment? The Dental Hub provides pain-free and stress-free dental treatment. Book your free consultation today."/>
+<meta name="keywords" content="Pain Free Dental Treatment, Pain Free Treatment, Pain Free Dentistry, Pain Free Dentistry in Avondale, Auckland">
 	<!--
         ====================
         START: MOBILE DESIGN
