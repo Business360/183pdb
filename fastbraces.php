@@ -23,7 +23,9 @@
             </div>
         </div>
     </div>
-
+<title>Fastbraces in Avondale, New Zealand - Thedentalhub.co.nz</title>
+<meta name="description" content="Are you looking for a faster way to straighten your teeth? The Dental Hub offers Fast braces, the most efficient teeth straightening method. Call at 09 218 7777 to book an appointment now"/>
+<meta name="keywords" content="Fastbraces, Fastbraces in Avondale, Fastbraces in Avondale, New Zealand">
     <!--
         ====================
         START: MOBILE DESIGN
