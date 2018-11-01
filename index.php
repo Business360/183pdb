@@ -27,6 +27,9 @@
 	<a href="tel:09 218 7777" class="fancybox-2 btn btn-default hidden-sm hidden-md hidden-lg hidden-xlg" id="header-call-button-spacing">
 		CALL US
 	</a>
+	<title>Dentist in Avondale Auckland, Affordable Dentist, Avondale Dental Centre - The Dental Hub</title>
+<meta name="description" content="Find the emergency & a cheapest dentist in Avondale Auckland. The Dental Hub Clinic provides excellent options for whitening your teeth and improving your smile in Rosebank Road, Avondale Auckland areas at an affordable price."/>
+<meta name="keywords" content="Dental in Avondale Auckland, Dentist Near Avondale, Dental Near Avondale, Free Dental WINZ in Avondale, Avondale Dental , Avondale Dental Centre, Cheap Dentist Avondale, Affordable Dentist in Avondale, Cheap Dentist Auckland, Dentist Auckland, Avondale Dentists, Family Dentist, Affordable Dentist, 7 Days Open Dentist, Seven Days Open Dentist, Emergency Dental Auckland, Dental Emergencies Avondale Auckland, Auckland Dental Association, Teeth Whitening Services, Dental Exam, Dental Deals, Smile Dental Avondale">
 <!--
 	==================
 	END: MOBILE DESIGN
