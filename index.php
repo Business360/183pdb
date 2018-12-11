@@ -240,7 +240,7 @@
 					<h3>Fastbraces Master</h3>
 					<h3>Provider</h3>
 					<div class="partners-item-image"> 
-						<img src="assets/images/partners/fastbraces.png" alt="" />
+						<img src="assets/images/partners/mp_logo.png" alt=""  width="210"/>
 					</div>
 					<p style="padding-left:10px;">Dental Today is proud to be New Zealand's premier dental office to offer the amazing Fastbraces Technology. Call or email us to discover how Dental Today and Fastbraces Technology can team up to give you a smile that you have always dreamed of.</p>
 				</div>
