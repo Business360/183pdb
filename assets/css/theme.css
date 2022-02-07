@@ -165,7 +165,7 @@ h4 {
   font-size: 15px;
 }
 .section-title {
-  color: #235e6e;
+  color: var(--bg-primary);
   margin-bottom: 35px;
   text-transform: uppercase;
 }
@@ -180,7 +180,7 @@ h4 {
   font-weight: 700;
 }
 .color-primary-1 {
-  color: #235e6e;
+  color: var(--bg-primary);
 }
 .color-primary-2 {
   color: var(--bg-primary);
@@ -254,7 +254,7 @@ ul.text-list li:before {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #235e6e;
+  background: var(--bg-primary);
 }
 input,
 textarea {
@@ -390,7 +390,7 @@ frame {
 }
 .carousel-btn:hover,
 .carousel-btn:focus {
-  background: #235e6e;
+  background: var(--bg-primary);
 }
 .carousel-next {
   right: -35px;
@@ -830,7 +830,7 @@ frame {
   padding: 70px 0;
 }
 .services-1-title {
-  color: #235e6e;
+  color: var(--bg-primary);
   text-transform: uppercase;
   font-size: 24px;
   margin-bottom: 60px;
@@ -843,14 +843,14 @@ frame {
   color: #455f68;
 }
 .services-1 .service h3 {
-  color: #235e6e;
+  color: var(--bg-primary);
   text-transform: uppercase;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 25px;
 }
 .services-1 .service-icon {
-  color: #235e6e;
+  color: var(--bg-primary);
   font-size: 70px;
   line-height: 70px;
   margin-bottom: 35px;
@@ -923,7 +923,7 @@ frame {
   transition: all 300ms;
 }
 .doctors-item-name {
-  color: #235e6e;
+  color: var(--bg-primary);
   font-size: 15px;
   font-weight: 600;
   margin: 20px 0 2px 0;
@@ -944,7 +944,7 @@ frame {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #235e6e;
+  background: var(--bg-primary);
   color: #fff;
   font-size: 17px;
   line-height: 29px;
@@ -1080,7 +1080,7 @@ frame {
 }
 .doctor-info-name {
   text-align: center;
-  color: #235e6e;
+  color: var(--bg-primary);
   font-size: 18px;
   font-weight: 600;
 }
@@ -1099,7 +1099,7 @@ frame {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #235e6e;
+  background: var(--bg-primary);
   color: #fff;
   font-size: 17px;
   line-height: 29px;
@@ -1172,7 +1172,7 @@ frame {
   font-weight: 600;
   margin-bottom: 25px;
   text-transform: uppercase;
-  color: #235e6e;
+  color: var(--bg-primary);
 }
 .doctor-text-booking {
   background: #f1f8f9;
@@ -1205,7 +1205,7 @@ frame {
   font-size: 12px;
 }
 .view:hover {
-  background: #235e6e;
+  background: var(--bg-primary);
 }
 .view .t-tooltip-text-body {
   padding: 0;
@@ -1515,14 +1515,14 @@ frame {
   bottom: 40px;
 }
 .review-item:hover {
-  border: 2px solid #235e6e;
+  border: 2px solid var(--bg-primary);
 }
 @-moz-document url-prefix() {
   .review-item {
     border-bottom: 3px solid #fff;
   }
   .review-item:hover {
-    border-bottom: 3px solid #235e6e;
+    border-bottom: 3px solid var(--bg-primary);
   }
 }
 .owl-review2 .review-item {
@@ -1592,7 +1592,7 @@ frame {
   transition: all 300ms;
 }
 .blog-item-date {
-  background: #235e6e;
+  background: var(--bg-primary);
   position: absolute;
   right: 75px;
   bottom: 0;
@@ -1677,7 +1677,7 @@ frame {
   right: 0;
 }
 .blog-2.blog .blog-item-comments {
-  background: #235e6e;
+  background: var(--bg-primary);
   position: relative;
   float: left;
   width: 65px;
@@ -1842,7 +1842,7 @@ frame {
 }
 .blog-2.blog .blog-item-media-title {
   margin: 50px 0 10px;
-  color: #235e6e;
+  color: var(--bg-primary);
 }
 .blog-2.blog .blog-item-commform {
   background: #f1f8f9;
@@ -1852,7 +1852,7 @@ frame {
   margin-top: 50px;
 }
 .blog-2.blog .blog-item-commform h3 {
-  color: #235e6e;
+  color: var(--bg-primary);
   margin-bottom: 30px;
   font-weight: 600;
 }
@@ -1884,7 +1884,7 @@ frame {
 }
 .related-items-title {
   margin: 50px 0 10px;
-  color: #235e6e;
+  color: var(--bg-primary);
 }
 .related-item-overlay {
   position: absolute;
@@ -2353,7 +2353,7 @@ frame {
   max-width: 100%;
 }
 .history-text h3 {
-  color: #235e6e;
+  color: var(--bg-primary);
   font-size: 24px;
   margin-bottom: 20px;
 }
@@ -2364,7 +2364,7 @@ frame {
   width: 100%;
 }
 .history .image-carousel .carousel-btn {
-  background: #235e6e;
+  background: var(--bg-primary);
   color: #fff;
   bottom: 15px;
   top: auto;
@@ -2383,7 +2383,7 @@ frame {
   padding: 70px 0;
 }
 .mission-text h3 {
-  color: #235e6e;
+  color: var(--bg-primary);
   font-size: 24px;
   margin-bottom: 20px;
 }
@@ -3770,7 +3770,7 @@ frame {
   border: 1px solid #becacf;
 }
 .color-sw-item#blue div {
-  background: #235e6e;
+  background: var(--bg-primary);
   width: 100%;
   height: 100%;
 }
@@ -3828,7 +3828,7 @@ frame {
 .show-menu {
   background: #fff;
   border: 1px solid #e4edee;
-  color: #235e6e;
+  color: var(--bg-primary);
   box-shadow: 0px 0px 6px 1px rgba(0, 0, 0, 0.07);
   width: 44px;
   height: 44px;
