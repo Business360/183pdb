@@ -30,7 +30,7 @@
         START: MOBILE DESIGN
         ====================
     -->
-	<a href="tel:09 218 7777" class="fancybox-2 btn btn-default hidden-sm hidden-md hidden-lg hidden-xlg" id="header-call-button-spacing">
+	<a href="tel: 09 377 7700" class="fancybox-2 btn btn-default hidden-sm hidden-md hidden-lg hidden-xlg" id="header-call-button-spacing">
             CALL US
         </a>
     <!--
@@ -46,7 +46,7 @@
 				<div class="column_attr align_center">
 					<div style="border: 4px solid #a0915f; padding: 30px 40px;">
 						<h2 class="themecolor" style="margin: 0;text-align:center;">
-							<i class="icon-phone"></i> <a href="tel:09-218-7777" style="color:#114783">09 218 7777</a> | <a href="tel:0800-349-86684" style="color:#114783">0800 FIX TOOTH (0800 349 86684)</a>
+							<i class="icon-phone"></i> <a href="tel:09-218-7777" style="color:#114783"> 09 377 7700</a> | <a href="tel:0800-349-86684" style="color:#114783">0800 FIX TOOTH (0800 349 86684)</a>
 						</h2>
 						</div>
 					</div>
@@ -119,17 +119,17 @@
 			<div class="col-md-6">
 			<h3 style="margin-bottom: 7px;">Address</h3>
 											<p  style="margin-bottom: 5px;font-size:14px;">
-												<a href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">73A Rosebank Road, Behind Subway - Avondale , Auckland 1026</a>
+												<a href="https://goo.gl/maps/2BJoYfKx2dMKeRS8A" target="_blank">183 Ponsonby Road, Cnr of Ponsonby & Franklin Road, Auckland</a>
 
 											</p>
 											<p style="margin-bottom: 5px;font-size:14px;">
-												<b>Tel No. </b>: <a href="tel:09-218-7777" style="color:#626262">09 218 7777</a>
+												<b>Tel No. </b>: <a href="tel:093777700" style="color:#626262">09 377 7700</a>
 											</p>
-											<p style="margin-bottom: 2px;font-size:14px;">
+											<!-- <p style="margin-bottom: 2px;font-size:14px;">
 												<b>Toll Free No. :</b> <br><a href="tel:0800-349-86684" style="color:#626262">0800 FIX TOOTH (0800 349 86684)</a>
-											</p> 
+											</p>  -->
 											<p style="margin-bottom: 2px;font-size:14px;">
-												<b>Email :</b> <a href="mailto:info@thedentalhub.co.nz">info@thedentalhub.co.nz</a>
+												<b>Email :</b> <a href="mailto: info@183ponsonbydental.co.nz"> info@183ponsonbydental.co.nz</a>
 											</p>
 										   </div>
 										    <div class="col-md-6">
@@ -137,11 +137,11 @@
 
 											<table style="font-size:12px;">
 												<tbody>
-													<tr style="background-color: #2c7585;">
+													<tr style="background-color: var(--bg-primary);">
 														<td style="color:#fff;padding: 10px;"><b>Mon - Sat</b></td>
 														<td style="color:#fff;padding: 10px;">9:00 AM - 5:00 PM</td>
 													</tr>
-													<tr style="background-color: #2c7585;">
+													<tr style="background-color: var(--bg-primary);">
 														<td style="color:#fff;padding: 10px;"><b>Sunday</b></td>
 														<td style="color:#fff;padding: 10px;">10:00 AM - 3:00 PM</td>
 													</tr>
