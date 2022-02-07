@@ -45,7 +45,7 @@
 
                 <h2 class="section-title text-center">
                     <span class="bold700">
-                    About - The Dental Hub
+                    About - Ponsonby Dental
                     </span>
                 </h2>
 
@@ -62,14 +62,14 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 history-text">
-                    <h3>What we, the Dental Hub can provide you, which few really can?</h3>
-                    <p>Are you looking for a dental service plan, which aptly suits you? Do you want to benefit from the best plan with the rate, which adheres to your budgetary limitations? Here s how you can benefit your purpose immensely. The Dental Hub has successfully been able to carve out a niche for itself in this healthcare industry by making available all types of possible dental treatment facilities, which are sure not to simply match up with the expectation of the service seekers but rather to exceed it at the same time.</p>
+                    <h3>We want you to look forward to the dentist</h3>
+                    <p>With your teeth and tongue, you eat and talk. With your lips and gums, you kiss and smile. People really care about their mouths. But they don't like going to the dentist. And for good reason.</p>
 <p style="text-align:left">
-We do not just offer the necessary treatment but equally make sure that you remain well-informed about the types of treatment you shall undergo and the benefits, precautions, and maintenance tips, if any. Our team of professionals are always on the lookout for ways in which it is possible to build and develop a healthy relationship with our esteemed base of clients. Such an effort is built up based on certain values and inherent qualities as- integrity, honesty, trust and an all-time effort to engage in an open-end discussion to chart out the exact needs and expectations.</p>
+Lack of trust. Feeling judged. Discomfort. Dentists recognize these frustrations. They know dental isn't working the way it should. And they, too, want to make it better.</p>
 
-<p>Every single dentist who works with us has undergone extensive training and enjoys the desired potential and knowledge to offer various forms of oral treatment facilities such as root canal treatment, full mouth restoration, pain-free treatment, Invisalign and orthodontics, fillings, teeth whitening, oral prophylaxis, crowns, bridges and many more. The dental services mentioned are just a few among several others, which our team of experts provide almost on a daily basis. It holds true that development in the field of dentistry in the last decade or so has resulted in gigantic technological advancements.</p>
+<p>That's why our team decided to remake the entire experience. We combine treatment you trust with a team who'll never judge, an environment that soothes, and products that delight.</p>
 
-<p>By staying abreast of the latest developments, our team of professionals remain well poised to help you enjoy a better-looking smile the next time around. Our success is attributed to the fact that our team of experts enjoy quintessential skills possessed by only a few, adheres to a high set of hygiene parameters, and uses the latest technology currently in use. On a day in and day out basis, our team of dentists at the Dental Hub works to light up millions and billions of smiles, guided by the mission to gain recognition as one of the most preferred dental service providers around.</p>
+<p>We want you to feel amazing about your oral wellness. Not just twice a year, but every time you take a bite, tell a joke, laugh, or share a kiss.</p>
 </p>
                 </div>
             </div>
