@@ -54,7 +54,7 @@ Version: 1.0 (Initial Release)
 @color-grey-3: #becacf;
 
 @font-color-primary: #455f68;
-@font-color-primary-1: #233a46;
+@font-color-primary-1: var(--bg-primary-dark);
 @font-color-primary-2: #4c7284;
 */
 /* Red color scheme
@@ -76,7 +76,7 @@ Version: 1.0 (Initial Release)
 @color-grey-3: #becacf;
 
 @font-color-primary: #455f68;
-@font-color-primary-1: #233a46;
+@font-color-primary-1: var(--bg-primary-dark);
 @font-color-primary-2: #4c7284;
 */
 /* Green color scheme
@@ -98,7 +98,7 @@ Version: 1.0 (Initial Release)
 @color-grey-3: #becacf;
 
 @font-color-primary: #455f68;
-@font-color-primary-1: #233a46;
+@font-color-primary-1: var(--bg-primary-dark);
 @font-color-primary-2: #4c7284;
 */
 /*---------------------------------------
@@ -1374,7 +1374,7 @@ frame {
   text-align: center;
 }
 .stories-item-name {
-  color: #233a46;
+  color: var(--bg-primary-dark);
   font-size: 22px;
   font-weight: 600;
   margin-top: 10px;
@@ -1384,7 +1384,7 @@ frame {
   margin-bottom: 35px;
 }
 .stories-item-text {
-  color: #233a46;
+  color: var(--bg-primary-dark);
   font-style: italic;
   font-weight: 400;
   margin-bottom: 35px;
@@ -1429,7 +1429,7 @@ frame {
   max-width: 100%;
 }
 .stories-item-before-title {
-  color: #233a46;
+  color: var(--bg-primary-dark);
   text-align: center;
   background: #e4edee;
   padding-top: 10px;
@@ -1443,7 +1443,7 @@ frame {
   max-width: 100%;
 }
 .stories-item-after-title {
-  color: #233a46;
+  color: var(--bg-primary-dark);
   text-align: center;
   background: #f1f8f9;
   padding-top: 10px;
@@ -1503,7 +1503,7 @@ frame {
   padding-left: 126px;
   font-size: 15px;
   font-weight: 600;
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .review-item-position {
   padding-left: 126px;
@@ -1636,7 +1636,7 @@ frame {
   line-height: 26px;
 }
 .blog-item-title h3 a {
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .blog-item-title h3 a:hover {
   color: var(--bg-primary);
@@ -1724,7 +1724,7 @@ frame {
   margin-bottom: 10px;
 }
 .blog-2.blog .blog-item-title h3 a {
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .blog-2.blog .blog-item-title h3 a:hover {
   color: var(--bg-primary);
@@ -1749,7 +1749,7 @@ frame {
 .blog-2.blog .blog-item-text-image-title {
   font-size: 14px;
   font-weight: 600;
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .blog-2.blog .blog-item-text-image-desc {
   font-size: 13px !important;
@@ -1979,7 +1979,7 @@ frame {
   width: 70%;
   float: left;
   font-style: italic;
-  color: #233a46;
+  color: var(--bg-primary-dark);
   margin-right: 7%;
 }
 .tips-content-item-text .btn {
@@ -2024,7 +2024,7 @@ frame {
   border-top: 2px solid transparent;
 }
 .nav-tabs li.active a {
-  color: #233a46;
+  color: var(--bg-primary-dark);
   border: none;
   border-top: 2px solid var(--bg-primary);
 }
@@ -2077,7 +2077,7 @@ frame {
 }
 .panel-group .panel-heading h4 a.collapsed {
   background: #fff;
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .panel-group .panel-heading h4 a.collapsed:after {
   background: #e4edee;
@@ -2123,7 +2123,7 @@ frame {
 -----------------------------------------*/
 .footer {
   position: relative;
-  background: #233a46;
+  background: var(--bg-primary-dark);
 }
 .footer a {
   color: #fff;
@@ -2457,7 +2457,7 @@ frame {
 }
 .serv ul#isotope-filter li a.active {
   background: #fff;
-  color: #233a46;
+  color: var(--bg-primary-dark);
   border: none;
   border-top: 2px solid var(--bg-primary);
 }
@@ -2707,7 +2707,7 @@ frame {
 .image-carousel-item-title {
   font-size: 15px;
   font-weight: 600;
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .image-carousel-item-desc {
   font-size: 13px !important;
@@ -2770,7 +2770,7 @@ frame {
 }
 .gallery-1 ul#isotope-filter li a.active {
   background: #fff;
-  color: #233a46;
+  color: var(--bg-primary-dark);
   border: none;
   border-top: 2px solid var(--bg-primary);
 }
@@ -2828,7 +2828,7 @@ frame {
 .gallery-1-item-title {
   font-size: 14px;
   font-weight: 600;
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .gallery-1-item-desc {
   font-size: 13px !important;
@@ -2865,7 +2865,7 @@ frame {
 .gallery-2-item-title {
   font-size: 14px;
   font-weight: 600;
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .gallery-2-item-desc {
   font-size: 13px !important;
@@ -3048,7 +3048,7 @@ frame {
 }
 .map-info-contacts {
   padding: 30px;
-  color: #233a46;
+  color: var(--bg-primary-dark);
 }
 .map-info-contacts i {
   color: #becacf;
@@ -3661,7 +3661,7 @@ frame {
   padding-top: 25px;
 }
 .comment-body-info-name {
-  color: #233a46;
+  color: var(--bg-primary-dark);
   font-size: 15px;
   font-weight: 600;
 }
