@@ -13,11 +13,11 @@ include("assets/php/config.php");
         START: HEAD FILES   
     ===================
 -->
-
+<title>Family Dental Care Hill Park Auckland | Your Personal Dentist for Routine Check-Up in Ponsonby | Children Dentist | Holistic Dentist | Ponsonby Dental Boutique</title>
 <!-- Start: Meta Tags -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- End: Meta Tags -->
-<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
+<link rel="shortcut icon" type="image/png" href="assets/images/183-favicon.png"/>
 <!-- Start: Common Files -->
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800,800italic,700italic,600italic,400italic,300italic" />
 <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css" />

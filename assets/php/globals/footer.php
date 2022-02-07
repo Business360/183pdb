@@ -6,7 +6,7 @@
 
 <div class="footer">
 	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left:0px;padding-right:0px;">
-	<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=the%20dental%20hub%2C%2073%20A%20Rosebank%20road%2C%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style></div>
+	<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="500" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3192.5495802988644!2d174.74558!3d-36.853262!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47913c217aa9%3A0x1eb5163791eac66a!2s183%20Ponsonby%20Road%2C%20Ponsonby%2C%20Auckland%201011%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1644225262430!5m2!1sen!2sus=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style></div>
 </div>	
 
 	<div class="container">
