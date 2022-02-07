@@ -1,32 +1,21 @@
 <nav class="navbar navbar-default ">
 
-	  <div class="col-md-12" style="background-color: #276a7a;color:#fff;">
-		<!-- <div class="col-md-4" style="padding-top:15px;">
-			<i class="flaticon-navigation-arrow"></i> <b>Address : </b> <a href="https://goo.gl/maps/VsSM4uHKyGS2" style="color:#fff;" target="_blank">73A Rosebank Road, Behind Subway - Avondale , Auckland 1026</a>
-		</div>	
-		<div class="col-md-4" style="padding-top:15px;text-align:center;">
-			<a href="#" style="color:#fff;" class="hidden-xs">
-				<i class="fa fa-envelope"></i>
-			</a>
-			<a href="mailto:info@thedentalhub.co.nz" style="color:#fff;" class="hidden-xs">info@thedentalhub.co.nz</a>&emsp;
-			<a  style="color:#fff;" href="https://www.facebook.com/thedentalhubauckland" target="_blank">
-				<i class="fa fa-facebook"></i>
-			</a>&emsp;
-			<a style="color:#fff;" href="https://goo.gl/maps/VsSM4uHKyGS2" target="_blank">
-				<i class="fa fa-google"></i>
-			</a>
-		</div>
-		<div class="col-md-4">
-			<a style="color:#fff;" href="tel:092187777"><div class="header-phone"> <i class="fa fa-phone"></i>  09 218 7777 </div></a>
-            <a href="tel:0800 349 86684" style="color:#fff;" ><div class="header-phone"> <i class="fa fa-phone"></i> 0800 FIX TOOTH (0800 349 86684) </div></a>
-		</div>	
-		 -->
-		 <div class="col-md-12 header-email">
+	 <div class="col-md-12 header-email" style="background-color: var(--bg-primary);color:#fff;">
+		 <div class="col-md-6 header-top-1">
+
 			<a href="#" style="color:#fff;">
 				<i class="fa fa-envelope"></i>
 			</a>
-			<a href="mailto:info@thedentalhub.co.nz" style="color:#fff;">info@thedentalhub.co.nz</a>
+			<a href="mailto:info@183ponsonbydental.co.nz" style="color:#fff;">info@183ponsonbydental.co.nz</a>
 		</div>
+    <!-- <div class="col-md-2 header-top-2">
+
+      <a href="tel:080034986684" style="color:#fff;">0800 FIX TOOTH (0800 349 86684)</a>
+    </div> -->
+    <div class="col-md-6 header-top-3">
+
+      <a href="tel:093777700" style="color:#fff;"> 09 377 7700</a>
+    </div>
 	</div>		
       <div class="container-fluid">
       	<div class="navbar-header">
@@ -36,7 +25,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a href="index.php"><img src="assets/images/logo.png" class="navbar-brand" alt="" /></a>
+          <a href="index.php"><img src="assets/images/183-logo.png" class="navbar-brand" alt="" /></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav" style="padding-top:20px;">
@@ -49,19 +38,8 @@
             <li <?php if($furl == "contact.php"){ ?> class="active" <?php } ?> ><a href="contact.php">Contact Us</a></li>
             <li <?php if($furl == "appointments.php"){ ?> class="active" <?php } ?> ><a href="appointments.php">Make An Appointment</a></li>
           </ul>
-          <div class="navbar-right header-search-box">
-			<script>
-					(function() {
-						var cx = '008889523455649713763:whobmz3wbne';
-						var gcse = document.createElement('script');
-						gcse.type = 'text/javascript';
-						gcse.async = true;
-						gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-						var s = document.getElementsByTagName('script')[0];
-						s.parentNode.insertBefore(gcse, s);
-					})();
-				</script>
-				<gcse:search></gcse:search>
+          <div class="navbar-right hidden-xs" style="margin-top:35px;margin-right:10px;">
+		  	<h4><a href="qcard.php" class="twelve-month" style="color:#fff; background-color: var(--bg-primary); padding:10px;">12 Months Interest Free</a></h4>
     		</div>
         </div><!--/.nav-collapse -->
     		
