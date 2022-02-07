@@ -1,6 +1,6 @@
 <nav class="navbar navbar-default ">
 
-	 <div class="col-md-12 header-email" style="background-color: #276a7a;color:#fff;">
+	 <div class="col-md-12 header-email" style="background-color: var(--bg-primary);color:#fff;">
 		 <div class="col-md-5 header-top-1">
 
 			<a href="#" style="color:#fff;">
@@ -39,7 +39,7 @@
             <li <?php if($furl == "appointments.php"){ ?> class="active" <?php } ?> ><a href="appointments.php">Make An Appointment</a></li>
           </ul>
           <div class="navbar-right hidden-xs" style="margin-top:35px;margin-right:10px;">
-		  	<h4><a href="qcard.php" class="twelve-month" style="color:#fff; background-color: #276a7a; padding:10px;">12 Months Interest Free</a></h4>
+		  	<h4><a href="qcard.php" class="twelve-month" style="color:#fff; background-color: var(--bg-primary); padding:10px;">12 Months Interest Free</a></h4>
     		</div>
         </div><!--/.nav-collapse -->
     		
