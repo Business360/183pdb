@@ -12,7 +12,7 @@
 .slider_main_div{
     margin-right: 0px;
     margin-left: 0px;
-    background-color: #006c7c;
+    background-color: var(--bg-primary);
 }
 
 .slider_form_content{
@@ -386,12 +386,12 @@ ul.footer-nav {
 }    
 #navbar .navbar-nav li a:hover,
 #navbar .navbar-nav li a:focus {
-  background: #235f6f;
+  background: var(--bg-primary);
   color: #fff;
 }
 
 #navbar > .navbar-nav > .active > a{
-    background: #235f6f !important;
+    background: var(--bg-primary) !important;
     color: #fff; 
 }
 
