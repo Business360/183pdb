@@ -1,3 +1,9 @@
+:root{
+    --bg-primary: #C2816E;
+    --bg-primary-dark: #82584c;
+}
+
+
 /* Custom CSS */
 .slider_form{
     padding: 18px;
@@ -12,7 +18,7 @@
 .slider_main_div{
     margin-right: 0px;
     margin-left: 0px;
-    background-color: #006c7c;
+    background-color: var(--bg-primary);
 }
 
 .slider_form_content{
