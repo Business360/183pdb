@@ -167,8 +167,8 @@
 		<div class="service-title">
 			<h2>Emergency Dentist</h2>
 		</div><br>
-		<h4> Call &nbsp;<a style="color:#fff;" href="tel:092187777">09 218 7777</a></h4>
-		<h4> <a href="tel:0800 349 86684" style="color:#fff;" >0800 FIX TOOTH (0800 349 86684)</a></h4>
+		<h4> Call:&nbsp;<a style="color:#fff;" href="tel: 093777700"> 09 377 7700</a></h4>
+		<h4> Mail:&nbsp;<a href="mailto:info@183ponsonbydental.co.nz" style="color:#fff;" > info@183ponsonbydental.co.nz</a></h4>
 	</div>
 	
 	<!-- SERVICES ITEM -->
@@ -194,14 +194,14 @@
 	</div></a>
 	
 	<!-- SERVICES ITEM -->
-	<a href="https://goo.gl/maps/VsSM4uHKyGS2"  class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3" target="_blank" style="color:#fff;">
+	<a href="https://goo.gl/maps/2BJoYfKx2dMKeRS8A"  class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3" target="_blank" style="color:#fff;">
 		<div>
 		<div class="service-icon"> <i class="fa fa-map-marker"></i> </div>
 		<div class="service-title">
 			<h2>Location</h2>
 		</div><br>
-		<h4>73A Rosebank Road, Behind Subway</h4>
-		<h4>Avondale , Auckland 1026</h4><br><br>
+		<h4>183 Ponsonby Road, Cnr of </h4>
+		<h4>Ponsonby & Franklin Road, Auckland</h4><br><br>
 	</div>
 </div></a>
 <!-- 
