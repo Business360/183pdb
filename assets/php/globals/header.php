@@ -25,7 +25,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a href="index.php"><img src="assets/images/logo.png" class="navbar-brand" alt="" /></a>
+          <a href="index.php"><img src="assets/images/183-logo.png" class="navbar-brand" alt="" /></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav" style="padding-top:20px;">
