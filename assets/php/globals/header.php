@@ -1,20 +1,20 @@
 <nav class="navbar navbar-default ">
 
 	 <div class="col-md-12 header-email" style="background-color: var(--bg-primary);color:#fff;">
-		 <div class="col-md-5 header-top-1">
+		 <div class="col-md-6 header-top-1">
 
 			<a href="#" style="color:#fff;">
 				<i class="fa fa-envelope"></i>
 			</a>
-			<a href="mailto:info@thedentalhub.co.nz" style="color:#fff;">info@thedentalhub.co.nz</a>
+			<a href="mailto:info@183ponsonbydental.co.nz" style="color:#fff;">info@183ponsonbydental.co.nz</a>
 		</div>
-    <div class="col-md-2 header-top-2">
+    <!-- <div class="col-md-2 header-top-2">
 
       <a href="tel:080034986684" style="color:#fff;">0800 FIX TOOTH (0800 349 86684)</a>
-    </div>
-    <div class="col-md-5 header-top-3">
+    </div> -->
+    <div class="col-md-6 header-top-3">
 
-      <a href="tel:092187777" style="color:#fff;">09 218 7777</a>
+      <a href="tel:093777700" style="color:#fff;"> 09 377 7700</a>
     </div>
 	</div>		
       <div class="container-fluid">
