@@ -12,7 +12,7 @@
 	?>
 
 	<!-- Start: Main Section -->
-	<div class="page-title page-title-contacts bg-pattern" data-bgcolor="3B4B89">
+	<div class="page-title page-title-contacts bg-pattern" data-bgcolor="C2816E">
 		<div class="page-title-overlay">
 			<div class="container">
 			<div class="row">
@@ -44,9 +44,9 @@
 			<div class="row">
 			<div class="column mcb-column one column_column">
 				<div class="column_attr align_center">
-					<div style="border: 4px solid #a0915f; padding: 30px 40px;">
+					<div style="border: 4px solid var(--bg-primary); padding: 30px 40px;">
 						<h2 class="themecolor" style="margin: 0;text-align:center;">
-							<i class="icon-phone"></i> <a href="tel:09-218-7777" style="color:#114783"> 09 377 7700</a> | <a href="tel:0800-349-86684" style="color:#114783">0800 FIX TOOTH (0800 349 86684)</a>
+							<i class="icon-phone"></i> <a href="tel:09-218-7777" style="color:var(--bg-primary)"> 09 377 7700</a> | <a href="tel:0800-349-86684" style="color:var(--bg-primary)">0800 FIX TOOTH (0800 349 86684)</a>
 						</h2>
 						</div>
 					</div>
