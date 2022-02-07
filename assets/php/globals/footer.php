@@ -45,7 +45,7 @@
 						<div class="footer-item-3-phone"><a href="tel: 09 377 7700"><i class="fa fa-phone"></i>  09 377 7700 </a></div>
 						 <div class="footer-item-3-location"><a href="https://goo.gl/maps/2BJoYfKx2dMKeRS8A" target="_blank">183 Ponsonby Road, Cnr of Ponsonby & Franklin Road, Auckland</a></div>
 						<div class="footer-item-3-mail"><i class="fa fa-envelope"></i> <a href="mailto: info@183ponsonbydental.co.nz"> info@183ponsonbydental.co.nz</a> </div>
-						<div class="footer-item-3-socials" style="margin-top:20px;"><a href="http://www.facebook.com/thedentalhubauckland"><i class="fa fa-facebook"></i></a> <a href="https://goo.gl/maps/VsSM4uHKyGS2"><i class="fa fa-google"></i></a></div>
+						<div class="footer-item-3-socials" style="margin-top:20px;"><a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google"></i></a></div>
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-copyright">
 						<div> Designed by <a href="http://www.bluplateau.co.nz/" target="_blank">Blu Plateau Limited</a> </div>
